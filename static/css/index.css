@@ -1,6 +1,60 @@
 #container-logo {
-  margin: -0.5rem;
+  margin-top: -0.5rem;
   padding: 1rem;
   background-color: whitesmoke;
   box-shadow: 0 4px 2px -2px rgb(201, 200, 200);
+}
+
+html, body{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#map-container {
+  float: right;
+  border-radius: 0.5rem;
+}
+
+.card {
+  box-shadow: 0 0 5px rgb(107, 107, 107);
+  background-color: rgb(255, 255, 255);
+  padding: 2rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  float: right;
+}
+
+.subtitle {
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
+.stations, .stations svg {
+  position: absolute;
+}
+
+.stations svg {
+  width: 20px;
+  height: 20px;
+  font: 10px sans-serif;
+}
+
+.stations circle {
+  fill: rgb(231, 59, 43);
+  stroke: rgb(66, 66, 66);
+  stroke-width: 1.5px;
+}
+
+#marker-tooltip {
+  visibility: hidden;
+  position: absolute;
+  padding-left: 0.8rem;
+  padding-right: 0.8rem;
+  width: 260px;
+  height: 165px;
+  border-radius: 5%;
+  background-color: rgb(255, 255, 255);
+  margin: 15px;
 }
