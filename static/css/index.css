@@ -4,3 +4,9 @@
   background-color: whitesmoke;
   box-shadow: 0 4px 2px -2px rgb(201, 200, 200);
 }
+
+#sized-box {
+  height: 64px;
+  width: 50%;
+  background-color: powderblue;
+}
