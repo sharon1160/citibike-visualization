@@ -1,8 +1,8 @@
 // Create the Google Map…
 var map = new google.maps.Map(d3.select("#map-container").node(), {
   zoom: 13,
+  clickableIcons: false,
   center: new google.maps.LatLng(40.71576713378537, -73.9948450947766),
-  mapTypeId: google.maps.MapTypeId.TERRAIN,
 });
 
 // Load the station data. When the data comes back, create an overlay.
@@ -22,7 +22,27 @@ d3.json("/get-data", function (error, data) {
     // We could use a single SVG, but what size would it have?
     overlay.draw = function () {
       let projection = this.getProjection(),
-        padding = 10;
+        padding = 11;
+
+      // Agregando parte de Victor
+
+      let tooltip = d3
+        .tip()
+        .attr("class", "tooltip")
+        .offset([-10, 0])
+        .html(function (d) {
+          return (
+            "<strong>Información</strong> <br><br>" +
+            "<strong>Nombre:</strong> " +
+            d.value[2] +
+            "<br><strong>Nro. salidas:</strong> " +
+            d.value[3] +
+            "<br><strong>Nro. legadas:</strong> " +
+            d.value[4]
+          );
+        });
+
+      //
 
       let marker = layer
         .selectAll("svg")
@@ -32,15 +52,30 @@ d3.json("/get-data", function (error, data) {
         .append("svg")
         .each(transform)
         .attr("class", "marker")
-        .on("mouseout", ocultar)
-        .on("mouseover", mostrar);
+        .on("mouseover", tooltip.show)
+        .on("mouseout", tooltip.hide);
+
+      d3.select("svg").call(tooltip);
 
       // Add a circle.
       marker
         .append("circle")
-        .attr("r", 8)
+        .attr("r", 9.5)
         .attr("cx", padding)
         .attr("cy", padding);
+
+      // Add label id
+      marker
+        .append("text")
+        .text(function (d) {
+          return d.key;
+        })
+        .attr("class", "id-station")
+        .attr("x", "48%")
+        .attr("y", "50%")
+        .attr("text-anchor", "middle")
+        .attr("dominant-baseline", "middle")
+        .style("font-size", 8.2);
 
       function transform(d) {
         d = new google.maps.LatLng(d.value[1], d.value[0]);
@@ -56,76 +91,3 @@ d3.json("/get-data", function (error, data) {
   // Bind our overlay to the map…
   overlay.setMap(map);
 });
-
-// TOOLTIPS MAP
-
-function mostrar(d) {
-  let divTolltip = d3.select("#marker-tooltip");
-
-  console.log(d);
-
-  // Name
-  divTolltip
-    .append("p")
-    .attr("class", "informacion")
-    .attr("id", "name")
-    .text("Nombre: " + d.value[2]);
-
-  // Latitud
-  divTolltip
-    .append("p")
-    .attr("class", "informacion")
-    .attr("id", "latitud")
-    .text("Latitud: " + d.value[1]);
-
-  // Longitud
-  divTolltip
-    .append("p")
-    .attr("class", "informacion")
-    .attr("id", "longitud")
-    .text("Longitud: " + d.value[0]);
-
-  // Salidas
-  divTolltip
-    .append("p")
-    .attr("class", "informacion")
-    .attr("id", "salidas")
-    .text("# Partidas: " + d.value[3]);
-
-  // Llegadas
-  divTolltip
-    .append("p")
-    .attr("class", "informacion")
-    .attr("id", "llegadas")
-    .text("# Llegadas: " + d.value[4]);
-
-  // style
-  divTolltip.selectAll(".informacion").style("margin", "0.2rem");
-
-  // visible
-  divTolltip.transition().duration(100).style("visibility", "visible");
-
-  // cambiando color
-  d3.select(this)
-    .select("circle")
-    .transition()
-    .duration(100)
-    .attr("r", 11)
-    .style("fill", "yellow");
-}
-
-function ocultar() {
-  let divTolltip = d3.select("#marker-tooltip");
-
-  divTolltip.selectAll(".informacion").remove();
-
-  // hidden
-  divTolltip.transition().duration(100).style("visibility", "hidden");
-
-  d3.select(this)
-    .select("circle")
-    .transition()
-    .duration(100)
-    .attr("r", 8)
-    .style("fill", "rgb(231, 59, 43)");
-}
