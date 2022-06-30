@@ -10,60 +10,19 @@ html, body{
   height: 100%;
   margin: 0;
   padding: 0;
-}
-
-#map-container {
-  float: right;
-  border-radius: 0.5rem;
-}
-
-.card {
-  box-shadow: 0 0 5px rgb(107, 107, 107);
-  background-color: rgb(255, 255, 255);
-  padding: 2rem;
-  margin: 1rem;
-  border-radius: 0.5rem;
-  float: right;
+  font-family: Arial, helvetica, sans-serif;
 }
 
 .subtitle {
   margin: 0;
   margin-bottom: 0.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.stations, .stations svg {
-  position: absolute;
-}
-
-.stations svg {
-  width: 22px;
-  height: 22px;
-  font: 10px sans-serif;
-}
-
-.stations circle {
-  fill: rgb(231, 59, 43);
-  stroke: rgb(66, 66, 66);
-  stroke-width: 1.5px;
-}
-
-.marker:hover{
-  cursor: pointer;
-}
-
-.marker:hover > circle {
-  fill:yellow;
-  stroke:yellow;
-  stroke-width:2;
-}
-
-.tooltip {
-  font-family: Arial, helvetica, sans-serif;
-  font-size: 10px;
-  padding: 8px;
-  background: rgba(0, 0, 0, 0.7);
-  border: 1px solid #FFFFFF;
-  box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 4px;
-  color: #FFFFFF;
-  border-radius: 4px;
+.card {
+  box-shadow: 0 0 5px rgb(107, 107, 107);
+  background-color: rgb(255, 255, 255);
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
 }
