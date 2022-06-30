@@ -53,6 +53,10 @@
           color: #FFFFFF;
           border-radius: 4px;
       }
+      .axis text{
+        font: 15px Arial;
+        font-weight: bold;
+      }
   </style>
   <svg></svg>
   <script src="http://d3js.org/d3.v3.min.js"></script>
@@ -65,10 +69,10 @@
     if (error) {
         return console.warn(error);
     }
-    renderData(json);
-});
+    renderBarPlot(json);
+    });
  
-function renderData(datos){
+function renderBarPlot(datos){
   var NUM_COLUMNAS = datos.length;
         config.width = NUM_COLUMNAS * (config.columnWidth + config.columnGap) + (2 * config.padding);
         config.height = config.columnHeight + 2 * config.padding;
@@ -123,6 +127,28 @@ function renderData(datos){
             .attr("class", "eje")
             .attr("transform", "translate(" + (config.padding - 10) + "," + config.padding + ")")
             .call(ejeY);
+
+        svg.append("text")
+            .attr("class", "axis")
+            .attr("text-anchor", "end")
+            .attr("x", config.width*2/3)
+            .attr("y", 32)
+            .text("Numero de viajes hechos por hora");
+
+        svg.append("text")
+            .attr("class", "axis")
+            .attr("text-anchor", "end")
+            .attr("x", config.width*3/5)
+            .attr("y", config.height - 10)
+            .text("Horas del dia");
+
+        svg.append("text")
+            .attr("class", "axis")
+            .attr("text-anchor", "end")
+            .attr("x", -config.height/3)
+            .attr("y", 16)
+            .attr("transform", "rotate(-90)")
+            .text("Cantidad de viajes");
 
         svg.selectAll("rect")
             .data(datos)
