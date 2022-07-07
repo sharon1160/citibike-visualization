@@ -8,15 +8,33 @@ html, body{
 
 #container-logo {
   margin-top: -0.5rem;
+  width: 100%;
   padding: 1rem;
   background-color: whitesmoke;
   box-shadow: 0 4px 2px -2px rgb(201, 200, 200);
+}
+
+#info-card {
+  padding: 1.5rem;
+  margin-top: 0;
+  margin-left: 0;
+}
+
+#body-visualization {
+  margin-left: 110px;
+}
+
+@media screen{
+  body>div#info-card{
+   position:fixed;
+  }
 }
 
 .subtitle {
   margin: 0;
   margin-bottom: 0.5rem;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
 }
 
 .card {
