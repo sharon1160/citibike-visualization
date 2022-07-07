@@ -1,5 +1,9 @@
 /* Sankey diagram */
 
+#card-sankey {
+  float: right;
+}
+
 .node rect {
   cursor: move;
   fill-opacity: .9;

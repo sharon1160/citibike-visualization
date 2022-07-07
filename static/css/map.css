@@ -6,10 +6,6 @@
   float: right;
 }
 
-#card-sankey, #card-sankey{
-  float: left;
-}
-
 .stations, .stations svg {
   position: absolute;
 }
