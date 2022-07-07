@@ -65,7 +65,7 @@
   <script>
     var config = { columnWidth: 20, columnHeight: 235, columnGap: 5, padding: 80};
     
-    d3.json("{{ url_for( 'static', filename='hourly_station_usage.json') }}", function(error, json) {
+    d3.json("{{ url_for('static', filename='/data/NumberOfTripsByMonth.json ') }}", function(error, json) {
     if (error) {
         return console.warn(error);
     }
@@ -77,7 +77,7 @@ function renderBarPlot(datos){
         config.width = NUM_COLUMNAS * (config.columnWidth + config.columnGap) + (2 * config.padding);
         config.height = config.columnHeight + 2 * config.padding;
 
-        var TRIPS_AMOUNT = d3.max(datos, function(d) { return d.amount_trips; });
+        var TRIPS_AMOUNT = d3.max(datos, function(d) { return d.number_of_trips; });
 
         var x = d3.scale.ordinal()
             .rangeRoundBands([0, config.width - 2 * config.padding])
@@ -104,7 +104,7 @@ function renderBarPlot(datos){
             .attr('class', 'tooltip')
             .offset([-10, 0])
             .html(function(d) {
-                return "<strong> Hora: " + d.time + "</strong><br> Numero de viajes: " +d.amount_trips;
+                return "<strong> Hora: " + d.time + "</strong><br> Numero de viajes: " +d.number_of_trips;
             });
 
         var svg = d3.select("svg")
@@ -155,10 +155,10 @@ function renderBarPlot(datos){
             .enter().append("rect")
             .attr("width", config.columnWidth)
             .attr("x", function(d,i) { return config.padding + x(d.time) })
-            .attr("y", function(d,i) { return config.padding + config.columnHeight - y(d.amount_trips) })
-            .attr("height", function(d,i) { return y(d.amount_trips) })
+            .attr("y", function(d,i) { return config.padding + config.columnHeight - y(d.number_of_trips) })
+            .attr("height", function(d,i) { return y(d.number_of_trips) })
             .attr("data-time", function(d,i) { return d.time })
-            .attr("data-amount_trips", function(d,i) { return  (+d.amount_trips) })
+            .attr("data-number_of_trips", function(d,i) { return  (+d.number_of_trips) })
             .on('mouseover', tooltip.show)
             .on('mouseout', tooltip.hide)
 }

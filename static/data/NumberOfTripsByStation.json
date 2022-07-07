@@ -1,0 +1,1982 @@
+[
+    {
+        "station_id": 72,
+        "station_name": "W 52 St & 11 Ave",
+        "number_of_departure_trips": 18663,
+        "number_of_arrival_trips": 19962
+    },
+    {
+        "station_id": 79,
+        "station_name": "Franklin St & W Broadway",
+        "number_of_departure_trips": 18765,
+        "number_of_arrival_trips": 18847
+    },
+    {
+        "station_id": 82,
+        "station_name": "St James Pl & Pearl St",
+        "number_of_departure_trips": 7272,
+        "number_of_arrival_trips": 7222
+    },
+    {
+        "station_id": 83,
+        "station_name": "Atlantic Ave & Fort Greene Pl",
+        "number_of_departure_trips": 9722,
+        "number_of_arrival_trips": 10443
+    },
+    {
+        "station_id": 116,
+        "station_name": "W 17 St & 8 Ave",
+        "number_of_departure_trips": 31377,
+        "number_of_arrival_trips": 31083
+    },
+    {
+        "station_id": 119,
+        "station_name": "Park Ave & St Edwards St",
+        "number_of_departure_trips": 1265,
+        "number_of_arrival_trips": 1228
+    },
+    {
+        "station_id": 120,
+        "station_name": "Lexington Ave & Classon Ave",
+        "number_of_departure_trips": 3243,
+        "number_of_arrival_trips": 3288
+    },
+    {
+        "station_id": 127,
+        "station_name": "Barrow St & Hudson St",
+        "number_of_departure_trips": 29862,
+        "number_of_arrival_trips": 30423
+    },
+    {
+        "station_id": 128,
+        "station_name": "MacDougal St & Prince St",
+        "number_of_departure_trips": 31618,
+        "number_of_arrival_trips": 32284
+    },
+    {
+        "station_id": 137,
+        "station_name": "E 56 St & Madison Ave",
+        "number_of_departure_trips": 11549,
+        "number_of_arrival_trips": 12454
+    },
+    {
+        "station_id": 143,
+        "station_name": "Clinton St & Joralemon St",
+        "number_of_departure_trips": 5442,
+        "number_of_arrival_trips": 5543
+    },
+    {
+        "station_id": 144,
+        "station_name": "Nassau St & Navy St",
+        "number_of_departure_trips": 2602,
+        "number_of_arrival_trips": 2441
+    },
+    {
+        "station_id": 146,
+        "station_name": "Hudson St & Reade St",
+        "number_of_departure_trips": 14464,
+        "number_of_arrival_trips": 13965
+    },
+    {
+        "station_id": 147,
+        "station_name": "Greenwich St & Warren St",
+        "number_of_departure_trips": 25701,
+        "number_of_arrival_trips": 26722
+    },
+    {
+        "station_id": 150,
+        "station_name": "E 2 St & Avenue C",
+        "number_of_departure_trips": 11292,
+        "number_of_arrival_trips": 11381
+    },
+    {
+        "station_id": 151,
+        "station_name": "Cleveland Pl & Spring St",
+        "number_of_departure_trips": 40311,
+        "number_of_arrival_trips": 40539
+    },
+    {
+        "station_id": 152,
+        "station_name": "Warren St & Church St",
+        "number_of_departure_trips": 16158,
+        "number_of_arrival_trips": 16832
+    },
+    {
+        "station_id": 153,
+        "station_name": "E 40 St & 5 Ave",
+        "number_of_departure_trips": 23783,
+        "number_of_arrival_trips": 22830
+    },
+    {
+        "station_id": 157,
+        "station_name": "Henry St & Atlantic Ave",
+        "number_of_departure_trips": 9467,
+        "number_of_arrival_trips": 9984
+    },
+    {
+        "station_id": 160,
+        "station_name": "E 37 St & Lexington Ave",
+        "number_of_departure_trips": 12941,
+        "number_of_arrival_trips": 12644
+    },
+    {
+        "station_id": 161,
+        "station_name": "LaGuardia Pl & W 3 St",
+        "number_of_departure_trips": 25360,
+        "number_of_arrival_trips": 25829
+    },
+    {
+        "station_id": 164,
+        "station_name": "E 47 St & 2 Ave",
+        "number_of_departure_trips": 15625,
+        "number_of_arrival_trips": 15460
+    },
+    {
+        "station_id": 167,
+        "station_name": "E 39 St & 3 Ave",
+        "number_of_departure_trips": 22300,
+        "number_of_arrival_trips": 21495
+    },
+    {
+        "station_id": 168,
+        "station_name": "W 18 St & 6 Ave",
+        "number_of_departure_trips": 32709,
+        "number_of_arrival_trips": 34253
+    },
+    {
+        "station_id": 173,
+        "station_name": "Broadway & W 49 St",
+        "number_of_departure_trips": 23919,
+        "number_of_arrival_trips": 22815
+    },
+    {
+        "station_id": 174,
+        "station_name": "E 25 St & 1 Ave",
+        "number_of_departure_trips": 15180,
+        "number_of_arrival_trips": 14763
+    },
+    {
+        "station_id": 195,
+        "station_name": "Liberty St & Broadway",
+        "number_of_departure_trips": 20573,
+        "number_of_arrival_trips": 20338
+    },
+    {
+        "station_id": 212,
+        "station_name": "W 16 St & The High Line",
+        "number_of_departure_trips": 20364,
+        "number_of_arrival_trips": 20319
+    },
+    {
+        "station_id": 216,
+        "station_name": "Columbia Heights & Cranberry St",
+        "number_of_departure_trips": 3892,
+        "number_of_arrival_trips": 3301
+    },
+    {
+        "station_id": 217,
+        "station_name": "Old Fulton St",
+        "number_of_departure_trips": 8629,
+        "number_of_arrival_trips": 9456
+    },
+    {
+        "station_id": 218,
+        "station_name": "Gallatin Pl & Livingston St",
+        "number_of_departure_trips": 2569,
+        "number_of_arrival_trips": 2741
+    },
+    {
+        "station_id": 223,
+        "station_name": "W 13 St & 7 Ave",
+        "number_of_departure_trips": 20128,
+        "number_of_arrival_trips": 20128
+    },
+    {
+        "station_id": 224,
+        "station_name": "Spruce St & Nassau St",
+        "number_of_departure_trips": 13451,
+        "number_of_arrival_trips": 13142
+    },
+    {
+        "station_id": 225,
+        "station_name": "W 14 St & The High Line",
+        "number_of_departure_trips": 14673,
+        "number_of_arrival_trips": 16155
+    },
+    {
+        "station_id": 228,
+        "station_name": "E 48 St & 3 Ave",
+        "number_of_departure_trips": 14600,
+        "number_of_arrival_trips": 15293
+    },
+    {
+        "station_id": 229,
+        "station_name": "Great Jones St",
+        "number_of_departure_trips": 25900,
+        "number_of_arrival_trips": 25739
+    },
+    {
+        "station_id": 232,
+        "station_name": "Cadman Plaza E & Tillary St",
+        "number_of_departure_trips": 5829,
+        "number_of_arrival_trips": 5797
+    },
+    {
+        "station_id": 233,
+        "station_name": "Joralemon St & Adams St",
+        "number_of_departure_trips": 12165,
+        "number_of_arrival_trips": 12264
+    },
+    {
+        "station_id": 236,
+        "station_name": "St Marks Pl & 2 Ave",
+        "number_of_departure_trips": 23996,
+        "number_of_arrival_trips": 26473
+    },
+    {
+        "station_id": 237,
+        "station_name": "E 11 St & 2 Ave",
+        "number_of_departure_trips": 26372,
+        "number_of_arrival_trips": 27197
+    },
+    {
+        "station_id": 238,
+        "station_name": "Bank St & Washington St",
+        "number_of_departure_trips": 16428,
+        "number_of_arrival_trips": 17064
+    },
+    {
+        "station_id": 239,
+        "station_name": "Willoughby St & Fleet St",
+        "number_of_departure_trips": 5732,
+        "number_of_arrival_trips": 5510
+    },
+    {
+        "station_id": 241,
+        "station_name": "DeKalb Ave & S Portland Ave",
+        "number_of_departure_trips": 4769,
+        "number_of_arrival_trips": 4611
+    },
+    {
+        "station_id": 242,
+        "station_name": "Flushing Ave & Carlton Ave",
+        "number_of_departure_trips": 4136,
+        "number_of_arrival_trips": 4159
+    },
+    {
+        "station_id": 243,
+        "station_name": "Fulton St & Rockwell Pl",
+        "number_of_departure_trips": 11602,
+        "number_of_arrival_trips": 10178
+    },
+    {
+        "station_id": 244,
+        "station_name": "Willoughby Ave & Hall St",
+        "number_of_departure_trips": 5424,
+        "number_of_arrival_trips": 5269
+    },
+    {
+        "station_id": 245,
+        "station_name": "Myrtle Ave & St Edwards St",
+        "number_of_departure_trips": 2246,
+        "number_of_arrival_trips": 1865
+    },
+    {
+        "station_id": 247,
+        "station_name": "Perry St & Bleecker St",
+        "number_of_departure_trips": 15435,
+        "number_of_arrival_trips": 15476
+    },
+    {
+        "station_id": 248,
+        "station_name": "Laight St & Hudson St",
+        "number_of_departure_trips": 5565,
+        "number_of_arrival_trips": 5404
+    },
+    {
+        "station_id": 249,
+        "station_name": "Harrison St & Hudson St",
+        "number_of_departure_trips": 10267,
+        "number_of_arrival_trips": 10146
+    },
+    {
+        "station_id": 250,
+        "station_name": "Lafayette St & Jersey St",
+        "number_of_departure_trips": 10819,
+        "number_of_arrival_trips": 10725
+    },
+    {
+        "station_id": 251,
+        "station_name": "Mott St & Prince St",
+        "number_of_departure_trips": 25368,
+        "number_of_arrival_trips": 25691
+    },
+    {
+        "station_id": 252,
+        "station_name": "MacDougal St & Washington Sq",
+        "number_of_departure_trips": 16771,
+        "number_of_arrival_trips": 16388
+    },
+    {
+        "station_id": 253,
+        "station_name": "W 13 St & 5 Ave",
+        "number_of_departure_trips": 19202,
+        "number_of_arrival_trips": 19208
+    },
+    {
+        "station_id": 254,
+        "station_name": "W 11 St & 6 Ave",
+        "number_of_departure_trips": 18669,
+        "number_of_arrival_trips": 19330
+    },
+    {
+        "station_id": 257,
+        "station_name": "Lispenard St & Broadway",
+        "number_of_departure_trips": 15429,
+        "number_of_arrival_trips": 15909
+    },
+    {
+        "station_id": 258,
+        "station_name": "DeKalb Ave & Vanderbilt Ave",
+        "number_of_departure_trips": 5243,
+        "number_of_arrival_trips": 4771
+    },
+    {
+        "station_id": 259,
+        "station_name": "South St & Whitehall St",
+        "number_of_departure_trips": 10453,
+        "number_of_arrival_trips": 10615
+    },
+    {
+        "station_id": 260,
+        "station_name": "Broad St & Bridge St",
+        "number_of_departure_trips": 7185,
+        "number_of_arrival_trips": 7009
+    },
+    {
+        "station_id": 261,
+        "station_name": "Johnson St & Gold St",
+        "number_of_departure_trips": 6223,
+        "number_of_arrival_trips": 6504
+    },
+    {
+        "station_id": 262,
+        "station_name": "Washington Park",
+        "number_of_departure_trips": 4399,
+        "number_of_arrival_trips": 3969
+    },
+    {
+        "station_id": 263,
+        "station_name": "Elizabeth St & Hester St",
+        "number_of_departure_trips": 20430,
+        "number_of_arrival_trips": 20519
+    },
+    {
+        "station_id": 264,
+        "station_name": "Maiden Ln & Pearl St",
+        "number_of_departure_trips": 16608,
+        "number_of_arrival_trips": 17071
+    },
+    {
+        "station_id": 265,
+        "station_name": "Stanton St & Chrystie St",
+        "number_of_departure_trips": 16214,
+        "number_of_arrival_trips": 17006
+    },
+    {
+        "station_id": 266,
+        "station_name": "Avenue D & E 8 St",
+        "number_of_departure_trips": 5343,
+        "number_of_arrival_trips": 5405
+    },
+    {
+        "station_id": 267,
+        "station_name": "Broadway & W 36 St",
+        "number_of_departure_trips": 12987,
+        "number_of_arrival_trips": 11855
+    },
+    {
+        "station_id": 268,
+        "station_name": "Howard St & Centre St",
+        "number_of_departure_trips": 20309,
+        "number_of_arrival_trips": 20591
+    },
+    {
+        "station_id": 270,
+        "station_name": "Adelphi St & Myrtle Ave",
+        "number_of_departure_trips": 7078,
+        "number_of_arrival_trips": 6950
+    },
+    {
+        "station_id": 271,
+        "station_name": "Ashland Pl & Hanson Pl",
+        "number_of_departure_trips": 11114,
+        "number_of_arrival_trips": 11634
+    },
+    {
+        "station_id": 274,
+        "station_name": "Lafayette Ave & Fort Greene Pl",
+        "number_of_departure_trips": 5964,
+        "number_of_arrival_trips": 6241
+    },
+    {
+        "station_id": 275,
+        "station_name": "Washington Ave & Greene Ave",
+        "number_of_departure_trips": 3174,
+        "number_of_arrival_trips": 3093
+    },
+    {
+        "station_id": 276,
+        "station_name": "Duane St & Greenwich St",
+        "number_of_departure_trips": 12005,
+        "number_of_arrival_trips": 12237
+    },
+    {
+        "station_id": 278,
+        "station_name": "Concord St & Bridge St",
+        "number_of_departure_trips": 2999,
+        "number_of_arrival_trips": 2919
+    },
+    {
+        "station_id": 279,
+        "station_name": "Sands St & Gold St",
+        "number_of_departure_trips": 2589,
+        "number_of_arrival_trips": 2719
+    },
+    {
+        "station_id": 280,
+        "station_name": "E 10 St & 5 Ave",
+        "number_of_departure_trips": 17958,
+        "number_of_arrival_trips": 17875
+    },
+    {
+        "station_id": 281,
+        "station_name": "Grand Army Plaza & Central Park S",
+        "number_of_departure_trips": 28683,
+        "number_of_arrival_trips": 29642
+    },
+    {
+        "station_id": 282,
+        "station_name": "Kent Ave & S 11 St",
+        "number_of_departure_trips": 3605,
+        "number_of_arrival_trips": 3768
+    },
+    {
+        "station_id": 284,
+        "station_name": "Greenwich Ave & 8 Ave",
+        "number_of_departure_trips": 35959,
+        "number_of_arrival_trips": 37739
+    },
+    {
+        "station_id": 285,
+        "station_name": "Broadway & E 14 St",
+        "number_of_departure_trips": 46200,
+        "number_of_arrival_trips": 45464
+    },
+    {
+        "station_id": 289,
+        "station_name": "Monroe St & Classon Ave",
+        "number_of_departure_trips": 1905,
+        "number_of_arrival_trips": 1823
+    },
+    {
+        "station_id": 290,
+        "station_name": "2 Ave & E 58 St",
+        "number_of_departure_trips": 19113,
+        "number_of_arrival_trips": 18533
+    },
+    {
+        "station_id": 291,
+        "station_name": "Madison St & Montgomery St",
+        "number_of_departure_trips": 8454,
+        "number_of_arrival_trips": 8548
+    },
+    {
+        "station_id": 293,
+        "station_name": "Lafayette St & E 8 St",
+        "number_of_departure_trips": 52832,
+        "number_of_arrival_trips": 51988
+    },
+    {
+        "station_id": 294,
+        "station_name": "Washington Square E",
+        "number_of_departure_trips": 26525,
+        "number_of_arrival_trips": 26608
+    },
+    {
+        "station_id": 295,
+        "station_name": "Pike St & E Broadway",
+        "number_of_departure_trips": 9371,
+        "number_of_arrival_trips": 9295
+    },
+    {
+        "station_id": 296,
+        "station_name": "Division St & Bowery",
+        "number_of_departure_trips": 13367,
+        "number_of_arrival_trips": 13799
+    },
+    {
+        "station_id": 297,
+        "station_name": "E 15 St & 3 Ave",
+        "number_of_departure_trips": 19882,
+        "number_of_arrival_trips": 20283
+    },
+    {
+        "station_id": 298,
+        "station_name": "3 Ave & Schermerhorn St",
+        "number_of_departure_trips": 2694,
+        "number_of_arrival_trips": 2938
+    },
+    {
+        "station_id": 300,
+        "station_name": "Shevchenko Pl & E 6 St",
+        "number_of_departure_trips": 15243,
+        "number_of_arrival_trips": 16062
+    },
+    {
+        "station_id": 301,
+        "station_name": "E 2 St & Avenue B",
+        "number_of_departure_trips": 21604,
+        "number_of_arrival_trips": 22682
+    },
+    {
+        "station_id": 302,
+        "station_name": "Avenue D & E 3 St",
+        "number_of_departure_trips": 6652,
+        "number_of_arrival_trips": 6606
+    },
+    {
+        "station_id": 303,
+        "station_name": "Mercer St & Spring St",
+        "number_of_departure_trips": 18182,
+        "number_of_arrival_trips": 19502
+    },
+    {
+        "station_id": 304,
+        "station_name": "Broadway & Battery Pl",
+        "number_of_departure_trips": 17576,
+        "number_of_arrival_trips": 18503
+    },
+    {
+        "station_id": 305,
+        "station_name": "E 58 St & 3 Ave",
+        "number_of_departure_trips": 23185,
+        "number_of_arrival_trips": 23823
+    },
+    {
+        "station_id": 306,
+        "station_name": "Cliff St & Fulton St",
+        "number_of_departure_trips": 18343,
+        "number_of_arrival_trips": 18976
+    },
+    {
+        "station_id": 307,
+        "station_name": "Canal St & Rutgers St",
+        "number_of_departure_trips": 18861,
+        "number_of_arrival_trips": 18286
+    },
+    {
+        "station_id": 308,
+        "station_name": "St James Pl & Oliver St",
+        "number_of_departure_trips": 10706,
+        "number_of_arrival_trips": 10928
+    },
+    {
+        "station_id": 309,
+        "station_name": "Murray St & West St",
+        "number_of_departure_trips": 13197,
+        "number_of_arrival_trips": 14710
+    },
+    {
+        "station_id": 310,
+        "station_name": "State St & Smith St",
+        "number_of_departure_trips": 10616,
+        "number_of_arrival_trips": 11779
+    },
+    {
+        "station_id": 311,
+        "station_name": "Norfolk St & Broome St",
+        "number_of_departure_trips": 14122,
+        "number_of_arrival_trips": 13954
+    },
+    {
+        "station_id": 312,
+        "station_name": "Allen St & E Houston St",
+        "number_of_departure_trips": 22736,
+        "number_of_arrival_trips": 23329
+    },
+    {
+        "station_id": 313,
+        "station_name": "Washington Ave & Park Ave",
+        "number_of_departure_trips": 4757,
+        "number_of_arrival_trips": 5279
+    },
+    {
+        "station_id": 314,
+        "station_name": "Montague St & Clinton St",
+        "number_of_departure_trips": 6299,
+        "number_of_arrival_trips": 5867
+    },
+    {
+        "station_id": 315,
+        "station_name": "South St & Gouverneur Ln",
+        "number_of_departure_trips": 14850,
+        "number_of_arrival_trips": 15203
+    },
+    {
+        "station_id": 316,
+        "station_name": "Fulton St & William St",
+        "number_of_departure_trips": 13524,
+        "number_of_arrival_trips": 13055
+    },
+    {
+        "station_id": 317,
+        "station_name": "E 6 St & Avenue B",
+        "number_of_departure_trips": 21522,
+        "number_of_arrival_trips": 20379
+    },
+    {
+        "station_id": 318,
+        "station_name": "E 43 St & Vanderbilt Ave",
+        "number_of_departure_trips": 36299,
+        "number_of_arrival_trips": 34364
+    },
+    {
+        "station_id": 319,
+        "station_name": "Park Pl & Church St",
+        "number_of_departure_trips": 16370,
+        "number_of_arrival_trips": 16670
+    },
+    {
+        "station_id": 320,
+        "station_name": "Church St & Leonard St",
+        "number_of_departure_trips": 14098,
+        "number_of_arrival_trips": 13893
+    },
+    {
+        "station_id": 321,
+        "station_name": "Cadman Plaza E & Red Cross Pl",
+        "number_of_departure_trips": 840,
+        "number_of_arrival_trips": 802
+    },
+    {
+        "station_id": 322,
+        "station_name": "Clinton St & Tillary St",
+        "number_of_departure_trips": 6696,
+        "number_of_arrival_trips": 6425
+    },
+    {
+        "station_id": 323,
+        "station_name": "Lawrence St & Willoughby St",
+        "number_of_departure_trips": 29285,
+        "number_of_arrival_trips": 29801
+    },
+    {
+        "station_id": 324,
+        "station_name": "DeKalb Ave & Hudson Ave",
+        "number_of_departure_trips": 12179,
+        "number_of_arrival_trips": 13647
+    },
+    {
+        "station_id": 325,
+        "station_name": "E 19 St & 3 Ave",
+        "number_of_departure_trips": 21910,
+        "number_of_arrival_trips": 21510
+    },
+    {
+        "station_id": 326,
+        "station_name": "E 11 St & 1 Ave",
+        "number_of_departure_trips": 24057,
+        "number_of_arrival_trips": 23847
+    },
+    {
+        "station_id": 327,
+        "station_name": "Vesey Pl & River Terrace",
+        "number_of_departure_trips": 33022,
+        "number_of_arrival_trips": 33141
+    },
+    {
+        "station_id": 328,
+        "station_name": "Watts St & Greenwich St",
+        "number_of_departure_trips": 17993,
+        "number_of_arrival_trips": 18266
+    },
+    {
+        "station_id": 329,
+        "station_name": "Greenwich St & N Moore St",
+        "number_of_departure_trips": 22436,
+        "number_of_arrival_trips": 23513
+    },
+    {
+        "station_id": 330,
+        "station_name": "Reade St & Broadway",
+        "number_of_departure_trips": 13351,
+        "number_of_arrival_trips": 12621
+    },
+    {
+        "station_id": 331,
+        "station_name": "Pike St & Monroe St",
+        "number_of_departure_trips": 6792,
+        "number_of_arrival_trips": 6765
+    },
+    {
+        "station_id": 332,
+        "station_name": "Cherry St",
+        "number_of_departure_trips": 7225,
+        "number_of_arrival_trips": 7409
+    },
+    {
+        "station_id": 334,
+        "station_name": "W 20 St & 7 Ave",
+        "number_of_departure_trips": 24978,
+        "number_of_arrival_trips": 24666
+    },
+    {
+        "station_id": 335,
+        "station_name": "Washington Pl & Broadway",
+        "number_of_departure_trips": 20522,
+        "number_of_arrival_trips": 20026
+    },
+    {
+        "station_id": 336,
+        "station_name": "Sullivan St & Washington Sq",
+        "number_of_departure_trips": 21587,
+        "number_of_arrival_trips": 23013
+    },
+    {
+        "station_id": 337,
+        "station_name": "Old Slip & Front St",
+        "number_of_departure_trips": 9486,
+        "number_of_arrival_trips": 9723
+    },
+    {
+        "station_id": 339,
+        "station_name": "Avenue D & E 12 St",
+        "number_of_departure_trips": 3109,
+        "number_of_arrival_trips": 2951
+    },
+    {
+        "station_id": 340,
+        "station_name": "Madison St & Clinton St",
+        "number_of_departure_trips": 7879,
+        "number_of_arrival_trips": 7765
+    },
+    {
+        "station_id": 341,
+        "station_name": "Stanton St & Mangin St",
+        "number_of_departure_trips": 7371,
+        "number_of_arrival_trips": 7387
+    },
+    {
+        "station_id": 342,
+        "station_name": "Columbia St & Rivington St",
+        "number_of_departure_trips": 8908,
+        "number_of_arrival_trips": 9113
+    },
+    {
+        "station_id": 343,
+        "station_name": "Clinton Ave & Flushing Ave",
+        "number_of_departure_trips": 2631,
+        "number_of_arrival_trips": 3022
+    },
+    {
+        "station_id": 344,
+        "station_name": "Monroe St & Bedford Ave",
+        "number_of_departure_trips": 2698,
+        "number_of_arrival_trips": 3108
+    },
+    {
+        "station_id": 345,
+        "station_name": "W 13 St & 6 Ave",
+        "number_of_departure_trips": 26951,
+        "number_of_arrival_trips": 26719
+    },
+    {
+        "station_id": 346,
+        "station_name": "Bank St & Hudson St",
+        "number_of_departure_trips": 18332,
+        "number_of_arrival_trips": 18494
+    },
+    {
+        "station_id": 347,
+        "station_name": "W Houston St & Hudson St",
+        "number_of_departure_trips": 31196,
+        "number_of_arrival_trips": 31868
+    },
+    {
+        "station_id": 348,
+        "station_name": "W Broadway & Spring St",
+        "number_of_departure_trips": 23823,
+        "number_of_arrival_trips": 25900
+    },
+    {
+        "station_id": 349,
+        "station_name": "Rivington St & Ridge St",
+        "number_of_departure_trips": 9915,
+        "number_of_arrival_trips": 9854
+    },
+    {
+        "station_id": 350,
+        "station_name": "Clinton St & Grand St",
+        "number_of_departure_trips": 14344,
+        "number_of_arrival_trips": 14474
+    },
+    {
+        "station_id": 351,
+        "station_name": "Front St & Maiden Ln",
+        "number_of_departure_trips": 11876,
+        "number_of_arrival_trips": 12424
+    },
+    {
+        "station_id": 352,
+        "station_name": "W 56 St & 6 Ave",
+        "number_of_departure_trips": 23088,
+        "number_of_arrival_trips": 24017
+    },
+    {
+        "station_id": 353,
+        "station_name": "S Portland Ave & Hanson Pl",
+        "number_of_departure_trips": 3352,
+        "number_of_arrival_trips": 3366
+    },
+    {
+        "station_id": 354,
+        "station_name": "Emerson Pl & Myrtle Ave",
+        "number_of_departure_trips": 3678,
+        "number_of_arrival_trips": 3936
+    },
+    {
+        "station_id": 355,
+        "station_name": "Bayard St & Baxter St",
+        "number_of_departure_trips": 16733,
+        "number_of_arrival_trips": 16656
+    },
+    {
+        "station_id": 356,
+        "station_name": "Bialystoker Pl & Delancey St",
+        "number_of_departure_trips": 9028,
+        "number_of_arrival_trips": 8737
+    },
+    {
+        "station_id": 357,
+        "station_name": "E 11 St & Broadway",
+        "number_of_departure_trips": 16467,
+        "number_of_arrival_trips": 16743
+    },
+    {
+        "station_id": 358,
+        "station_name": "Christopher St & Greenwich St",
+        "number_of_departure_trips": 32169,
+        "number_of_arrival_trips": 33132
+    },
+    {
+        "station_id": 359,
+        "station_name": "E 47 St & Park Ave",
+        "number_of_departure_trips": 19086,
+        "number_of_arrival_trips": 20437
+    },
+    {
+        "station_id": 360,
+        "station_name": "William St & Pine St",
+        "number_of_departure_trips": 13233,
+        "number_of_arrival_trips": 12423
+    },
+    {
+        "station_id": 361,
+        "station_name": "Allen St & Hester St",
+        "number_of_departure_trips": 18160,
+        "number_of_arrival_trips": 18062
+    },
+    {
+        "station_id": 362,
+        "station_name": "Broadway & W 37 St",
+        "number_of_departure_trips": 11833,
+        "number_of_arrival_trips": 9818
+    },
+    {
+        "station_id": 363,
+        "station_name": "West Thames St",
+        "number_of_departure_trips": 26311,
+        "number_of_arrival_trips": 25346
+    },
+    {
+        "station_id": 364,
+        "station_name": "Lafayette Ave & Classon Ave",
+        "number_of_departure_trips": 3844,
+        "number_of_arrival_trips": 3689
+    },
+    {
+        "station_id": 365,
+        "station_name": "Fulton St & Grand Ave",
+        "number_of_departure_trips": 4164,
+        "number_of_arrival_trips": 4250
+    },
+    {
+        "station_id": 366,
+        "station_name": "Clinton Ave & Myrtle Ave",
+        "number_of_departure_trips": 8308,
+        "number_of_arrival_trips": 8497
+    },
+    {
+        "station_id": 367,
+        "station_name": "E 53 St & Lexington Ave",
+        "number_of_departure_trips": 15198,
+        "number_of_arrival_trips": 15497
+    },
+    {
+        "station_id": 368,
+        "station_name": "Carmine St & 6 Ave",
+        "number_of_departure_trips": 33803,
+        "number_of_arrival_trips": 36266
+    },
+    {
+        "station_id": 369,
+        "station_name": "Washington Pl & 6 Ave",
+        "number_of_departure_trips": 16246,
+        "number_of_arrival_trips": 16407
+    },
+    {
+        "station_id": 372,
+        "station_name": "Franklin Ave & Myrtle Ave",
+        "number_of_departure_trips": 1632,
+        "number_of_arrival_trips": 1689
+    },
+    {
+        "station_id": 373,
+        "station_name": "Willoughby Ave & Walworth St",
+        "number_of_departure_trips": 3482,
+        "number_of_arrival_trips": 3697
+    },
+    {
+        "station_id": 375,
+        "station_name": "Mercer St & Bleecker St",
+        "number_of_departure_trips": 27544,
+        "number_of_arrival_trips": 27598
+    },
+    {
+        "station_id": 376,
+        "station_name": "John St & William St",
+        "number_of_departure_trips": 12656,
+        "number_of_arrival_trips": 12108
+    },
+    {
+        "station_id": 377,
+        "station_name": "6 Ave & Canal St",
+        "number_of_departure_trips": 13994,
+        "number_of_arrival_trips": 14565
+    },
+    {
+        "station_id": 379,
+        "station_name": "W 31 St & 7 Ave",
+        "number_of_departure_trips": 24355,
+        "number_of_arrival_trips": 21265
+    },
+    {
+        "station_id": 380,
+        "station_name": "W 4 St & 7 Ave S",
+        "number_of_departure_trips": 33410,
+        "number_of_arrival_trips": 33614
+    },
+    {
+        "station_id": 382,
+        "station_name": "University Pl & E 14 St",
+        "number_of_departure_trips": 40299,
+        "number_of_arrival_trips": 40850
+    },
+    {
+        "station_id": 383,
+        "station_name": "Greenwich Ave & Charles St",
+        "number_of_departure_trips": 15610,
+        "number_of_arrival_trips": 15740
+    },
+    {
+        "station_id": 384,
+        "station_name": "Fulton St & Waverly Ave",
+        "number_of_departure_trips": 6185,
+        "number_of_arrival_trips": 6425
+    },
+    {
+        "station_id": 385,
+        "station_name": "E 55 St & 2 Ave",
+        "number_of_departure_trips": 11548,
+        "number_of_arrival_trips": 11268
+    },
+    {
+        "station_id": 386,
+        "station_name": "Centre St & Worth St",
+        "number_of_departure_trips": 14656,
+        "number_of_arrival_trips": 13566
+    },
+    {
+        "station_id": 387,
+        "station_name": "Centre St & Chambers St",
+        "number_of_departure_trips": 30591,
+        "number_of_arrival_trips": 29572
+    },
+    {
+        "station_id": 388,
+        "station_name": "W 26 St & 10 Ave",
+        "number_of_departure_trips": 24688,
+        "number_of_arrival_trips": 24951
+    },
+    {
+        "station_id": 389,
+        "station_name": "Broadway & Berry St",
+        "number_of_departure_trips": 4685,
+        "number_of_arrival_trips": 4877
+    },
+    {
+        "station_id": 390,
+        "station_name": "Duffield St & Willoughby St",
+        "number_of_departure_trips": 4158,
+        "number_of_arrival_trips": 4048
+    },
+    {
+        "station_id": 391,
+        "station_name": "Clark St & Henry St",
+        "number_of_departure_trips": 11156,
+        "number_of_arrival_trips": 10388
+    },
+    {
+        "station_id": 392,
+        "station_name": "Jay St & Tech Pl",
+        "number_of_departure_trips": 4370,
+        "number_of_arrival_trips": 4540
+    },
+    {
+        "station_id": 393,
+        "station_name": "E 5 St & Avenue C",
+        "number_of_departure_trips": 10736,
+        "number_of_arrival_trips": 10360
+    },
+    {
+        "station_id": 394,
+        "station_name": "E 9 St & Avenue C",
+        "number_of_departure_trips": 17635,
+        "number_of_arrival_trips": 17623
+    },
+    {
+        "station_id": 395,
+        "station_name": "Bond St & Schermerhorn St",
+        "number_of_departure_trips": 6871,
+        "number_of_arrival_trips": 6850
+    },
+    {
+        "station_id": 396,
+        "station_name": "Lefferts Pl & Franklin Ave",
+        "number_of_departure_trips": 4138,
+        "number_of_arrival_trips": 4270
+    },
+    {
+        "station_id": 397,
+        "station_name": "Fulton St & Clermont Ave",
+        "number_of_departure_trips": 2830,
+        "number_of_arrival_trips": 2868
+    },
+    {
+        "station_id": 398,
+        "station_name": "Atlantic Ave & Furman St",
+        "number_of_departure_trips": 6964,
+        "number_of_arrival_trips": 8195
+    },
+    {
+        "station_id": 399,
+        "station_name": "Lafayette Ave & St James Pl",
+        "number_of_departure_trips": 3671,
+        "number_of_arrival_trips": 3620
+    },
+    {
+        "station_id": 400,
+        "station_name": "Pitt St & Stanton St",
+        "number_of_departure_trips": 4736,
+        "number_of_arrival_trips": 4642
+    },
+    {
+        "station_id": 401,
+        "station_name": "Allen St & Rivington St",
+        "number_of_departure_trips": 25333,
+        "number_of_arrival_trips": 26090
+    },
+    {
+        "station_id": 402,
+        "station_name": "Broadway & E 22 St",
+        "number_of_departure_trips": 39263,
+        "number_of_arrival_trips": 40421
+    },
+    {
+        "station_id": 403,
+        "station_name": "E 2 St & 2 Ave",
+        "number_of_departure_trips": 18148,
+        "number_of_arrival_trips": 18870
+    },
+    {
+        "station_id": 404,
+        "station_name": "9 Ave & W 14 St",
+        "number_of_departure_trips": 26938,
+        "number_of_arrival_trips": 28608
+    },
+    {
+        "station_id": 405,
+        "station_name": "Washington St & Gansevoort St",
+        "number_of_departure_trips": 21942,
+        "number_of_arrival_trips": 21843
+    },
+    {
+        "station_id": 406,
+        "station_name": "Hicks St & Montague St",
+        "number_of_departure_trips": 8139,
+        "number_of_arrival_trips": 8202
+    },
+    {
+        "station_id": 407,
+        "station_name": "Henry St & Poplar St",
+        "number_of_departure_trips": 3907,
+        "number_of_arrival_trips": 3031
+    },
+    {
+        "station_id": 408,
+        "station_name": "Market St & Cherry St",
+        "number_of_departure_trips": 6746,
+        "number_of_arrival_trips": 7053
+    },
+    {
+        "station_id": 409,
+        "station_name": "DeKalb Ave & Skillman St",
+        "number_of_departure_trips": 2482,
+        "number_of_arrival_trips": 2514
+    },
+    {
+        "station_id": 410,
+        "station_name": "Suffolk St & Stanton St",
+        "number_of_departure_trips": 21305,
+        "number_of_arrival_trips": 21825
+    },
+    {
+        "station_id": 411,
+        "station_name": "E 6 St & Avenue D",
+        "number_of_departure_trips": 7400,
+        "number_of_arrival_trips": 7467
+    },
+    {
+        "station_id": 412,
+        "station_name": "Forsyth St & Canal St",
+        "number_of_departure_trips": 13901,
+        "number_of_arrival_trips": 13742
+    },
+    {
+        "station_id": 414,
+        "station_name": "Pearl St & Anchorage Pl",
+        "number_of_departure_trips": 7185,
+        "number_of_arrival_trips": 7866
+    },
+    {
+        "station_id": 415,
+        "station_name": "Pearl St & Hanover Square",
+        "number_of_departure_trips": 13749,
+        "number_of_arrival_trips": 14215
+    },
+    {
+        "station_id": 416,
+        "station_name": "Cumberland St & Lafayette Ave",
+        "number_of_departure_trips": 5743,
+        "number_of_arrival_trips": 5353
+    },
+    {
+        "station_id": 417,
+        "station_name": "Barclay St & Church St",
+        "number_of_departure_trips": 31113,
+        "number_of_arrival_trips": 30752
+    },
+    {
+        "station_id": 418,
+        "station_name": "Front St & Gold St",
+        "number_of_departure_trips": 4103,
+        "number_of_arrival_trips": 4282
+    },
+    {
+        "station_id": 419,
+        "station_name": "Carlton Ave & Park Ave",
+        "number_of_departure_trips": 3747,
+        "number_of_arrival_trips": 3827
+    },
+    {
+        "station_id": 420,
+        "station_name": "Clermont Ave & Lafayette Ave",
+        "number_of_departure_trips": 4084,
+        "number_of_arrival_trips": 3809
+    },
+    {
+        "station_id": 421,
+        "station_name": "Clermont Ave & Park Ave",
+        "number_of_departure_trips": 2587,
+        "number_of_arrival_trips": 2374
+    },
+    {
+        "station_id": 422,
+        "station_name": "W 59 St & 10 Ave",
+        "number_of_departure_trips": 20594,
+        "number_of_arrival_trips": 20931
+    },
+    {
+        "station_id": 423,
+        "station_name": "W 54 St & 9 Ave",
+        "number_of_departure_trips": 11331,
+        "number_of_arrival_trips": 10122
+    },
+    {
+        "station_id": 426,
+        "station_name": "West St & Chambers St",
+        "number_of_departure_trips": 43106,
+        "number_of_arrival_trips": 44588
+    },
+    {
+        "station_id": 427,
+        "station_name": "State St",
+        "number_of_departure_trips": 14012,
+        "number_of_arrival_trips": 15096
+    },
+    {
+        "station_id": 428,
+        "station_name": "E 3 St & 1 Ave",
+        "number_of_departure_trips": 21342,
+        "number_of_arrival_trips": 20775
+    },
+    {
+        "station_id": 430,
+        "station_name": "York St & Jay St",
+        "number_of_departure_trips": 11206,
+        "number_of_arrival_trips": 11575
+    },
+    {
+        "station_id": 431,
+        "station_name": "Hanover Pl & Livingston St",
+        "number_of_departure_trips": 1525,
+        "number_of_arrival_trips": 1454
+    },
+    {
+        "station_id": 432,
+        "station_name": "E 7 St & Avenue A",
+        "number_of_departure_trips": 21134,
+        "number_of_arrival_trips": 19638
+    },
+    {
+        "station_id": 433,
+        "station_name": "E 13 St & Avenue A",
+        "number_of_departure_trips": 22312,
+        "number_of_arrival_trips": 22162
+    },
+    {
+        "station_id": 434,
+        "station_name": "9 Ave & W 18 St",
+        "number_of_departure_trips": 16989,
+        "number_of_arrival_trips": 17841
+    },
+    {
+        "station_id": 435,
+        "station_name": "W 21 St & 6 Ave",
+        "number_of_departure_trips": 43849,
+        "number_of_arrival_trips": 43534
+    },
+    {
+        "station_id": 436,
+        "station_name": "Hancock St & Bedford Ave",
+        "number_of_departure_trips": 2270,
+        "number_of_arrival_trips": 2220
+    },
+    {
+        "station_id": 437,
+        "station_name": "Macon St & Nostrand Ave",
+        "number_of_departure_trips": 2997,
+        "number_of_arrival_trips": 3001
+    },
+    {
+        "station_id": 438,
+        "station_name": "St Marks Pl & 1 Ave",
+        "number_of_departure_trips": 18755,
+        "number_of_arrival_trips": 18887
+    },
+    {
+        "station_id": 439,
+        "station_name": "E 4 St & 2 Ave",
+        "number_of_departure_trips": 23472,
+        "number_of_arrival_trips": 25316
+    },
+    {
+        "station_id": 440,
+        "station_name": "E 45 St & 3 Ave",
+        "number_of_departure_trips": 13868,
+        "number_of_arrival_trips": 14198
+    },
+    {
+        "station_id": 441,
+        "station_name": "E 52 St & 2 Ave",
+        "number_of_departure_trips": 8437,
+        "number_of_arrival_trips": 8203
+    },
+    {
+        "station_id": 442,
+        "station_name": "W 27 St & 7 Ave",
+        "number_of_departure_trips": 28212,
+        "number_of_arrival_trips": 27391
+    },
+    {
+        "station_id": 443,
+        "station_name": "Bedford Ave & S 9th St",
+        "number_of_departure_trips": 1835,
+        "number_of_arrival_trips": 1820
+    },
+    {
+        "station_id": 444,
+        "station_name": "Broadway & W 24 St",
+        "number_of_departure_trips": 38652,
+        "number_of_arrival_trips": 38237
+    },
+    {
+        "station_id": 445,
+        "station_name": "E 10 St & Avenue A",
+        "number_of_departure_trips": 22565,
+        "number_of_arrival_trips": 22990
+    },
+    {
+        "station_id": 446,
+        "station_name": "W 24 St & 7 Ave",
+        "number_of_departure_trips": 28411,
+        "number_of_arrival_trips": 29374
+    },
+    {
+        "station_id": 447,
+        "station_name": "8 Ave & W 52 St",
+        "number_of_departure_trips": 23823,
+        "number_of_arrival_trips": 23494
+    },
+    {
+        "station_id": 448,
+        "station_name": "W 37 St & 10 Ave",
+        "number_of_departure_trips": 21838,
+        "number_of_arrival_trips": 22064
+    },
+    {
+        "station_id": 449,
+        "station_name": "W 52 St & 9 Ave",
+        "number_of_departure_trips": 13208,
+        "number_of_arrival_trips": 12266
+    },
+    {
+        "station_id": 450,
+        "station_name": "W 49 St & 8 Ave",
+        "number_of_departure_trips": 25686,
+        "number_of_arrival_trips": 24462
+    },
+    {
+        "station_id": 453,
+        "station_name": "W 22 St & 8 Ave",
+        "number_of_departure_trips": 25502,
+        "number_of_arrival_trips": 25787
+    },
+    {
+        "station_id": 454,
+        "station_name": "E 51 St & 1 Ave",
+        "number_of_departure_trips": 11494,
+        "number_of_arrival_trips": 11992
+    },
+    {
+        "station_id": 455,
+        "station_name": "1 Ave & E 44 St",
+        "number_of_departure_trips": 12922,
+        "number_of_arrival_trips": 13899
+    },
+    {
+        "station_id": 456,
+        "station_name": "E 53 St & Madison Ave",
+        "number_of_departure_trips": 14731,
+        "number_of_arrival_trips": 16001
+    },
+    {
+        "station_id": 457,
+        "station_name": "Broadway & W 58 St",
+        "number_of_departure_trips": 31446,
+        "number_of_arrival_trips": 28764
+    },
+    {
+        "station_id": 458,
+        "station_name": "11 Ave & W 27 St",
+        "number_of_departure_trips": 18578,
+        "number_of_arrival_trips": 18885
+    },
+    {
+        "station_id": 459,
+        "station_name": "W 20 St & 11 Ave",
+        "number_of_departure_trips": 47425,
+        "number_of_arrival_trips": 47860
+    },
+    {
+        "station_id": 460,
+        "station_name": "S 4 St & Wythe Ave",
+        "number_of_departure_trips": 4926,
+        "number_of_arrival_trips": 5418
+    },
+    {
+        "station_id": 461,
+        "station_name": "E 20 St & 2 Ave",
+        "number_of_departure_trips": 19797,
+        "number_of_arrival_trips": 20095
+    },
+    {
+        "station_id": 462,
+        "station_name": "W 22 St & 10 Ave",
+        "number_of_departure_trips": 31526,
+        "number_of_arrival_trips": 32825
+    },
+    {
+        "station_id": 463,
+        "station_name": "9 Ave & W 16 St",
+        "number_of_departure_trips": 24138,
+        "number_of_arrival_trips": 25527
+    },
+    {
+        "station_id": 464,
+        "station_name": "E 56 St & 3 Ave",
+        "number_of_departure_trips": 12471,
+        "number_of_arrival_trips": 13125
+    },
+    {
+        "station_id": 465,
+        "station_name": "Broadway & W 41 St",
+        "number_of_departure_trips": 26358,
+        "number_of_arrival_trips": 21501
+    },
+    {
+        "station_id": 466,
+        "station_name": "W 25 St & 6 Ave",
+        "number_of_departure_trips": 29671,
+        "number_of_arrival_trips": 29545
+    },
+    {
+        "station_id": 467,
+        "station_name": "Dean St & 4 Ave",
+        "number_of_departure_trips": 9004,
+        "number_of_arrival_trips": 10507
+    },
+    {
+        "station_id": 468,
+        "station_name": "Broadway & W 55 St",
+        "number_of_departure_trips": 22022,
+        "number_of_arrival_trips": 17452
+    },
+    {
+        "station_id": 469,
+        "station_name": "Broadway & W 53 St",
+        "number_of_departure_trips": 22381,
+        "number_of_arrival_trips": 19986
+    },
+    {
+        "station_id": 470,
+        "station_name": "W 20 St & 8 Ave",
+        "number_of_departure_trips": 19583,
+        "number_of_arrival_trips": 19650
+    },
+    {
+        "station_id": 471,
+        "station_name": "Grand St & Havemeyer St",
+        "number_of_departure_trips": 5516,
+        "number_of_arrival_trips": 6599
+    },
+    {
+        "station_id": 472,
+        "station_name": "E 32 St & Park Ave",
+        "number_of_departure_trips": 29737,
+        "number_of_arrival_trips": 28407
+    },
+    {
+        "station_id": 473,
+        "station_name": "Rivington St & Chrystie St",
+        "number_of_departure_trips": 14318,
+        "number_of_arrival_trips": 14964
+    },
+    {
+        "station_id": 474,
+        "station_name": "5 Ave & E 29 St",
+        "number_of_departure_trips": 22560,
+        "number_of_arrival_trips": 21953
+    },
+    {
+        "station_id": 475,
+        "station_name": "E 16 St & Irving Pl",
+        "number_of_departure_trips": 22404,
+        "number_of_arrival_trips": 22191
+    },
+    {
+        "station_id": 476,
+        "station_name": "E 31 St & 3 Ave",
+        "number_of_departure_trips": 23453,
+        "number_of_arrival_trips": 23333
+    },
+    {
+        "station_id": 477,
+        "station_name": "W 41 St & 8 Ave",
+        "number_of_departure_trips": 40949,
+        "number_of_arrival_trips": 38138
+    },
+    {
+        "station_id": 478,
+        "station_name": "11 Ave & W 41 St",
+        "number_of_departure_trips": 17654,
+        "number_of_arrival_trips": 18413
+    },
+    {
+        "station_id": 479,
+        "station_name": "9 Ave & W 45 St",
+        "number_of_departure_trips": 24523,
+        "number_of_arrival_trips": 24189
+    },
+    {
+        "station_id": 480,
+        "station_name": "W 53 St & 10 Ave",
+        "number_of_departure_trips": 13807,
+        "number_of_arrival_trips": 13846
+    },
+    {
+        "station_id": 481,
+        "station_name": "S 3 St & Bedford Ave",
+        "number_of_departure_trips": 5369,
+        "number_of_arrival_trips": 5728
+    },
+    {
+        "station_id": 482,
+        "station_name": "W 15 St & 7 Ave",
+        "number_of_departure_trips": 27145,
+        "number_of_arrival_trips": 27596
+    },
+    {
+        "station_id": 483,
+        "station_name": "E 12 St & 3 Ave",
+        "number_of_departure_trips": 22495,
+        "number_of_arrival_trips": 22723
+    },
+    {
+        "station_id": 484,
+        "station_name": "W 44 St & 5 Ave",
+        "number_of_departure_trips": 14847,
+        "number_of_arrival_trips": 15628
+    },
+    {
+        "station_id": 485,
+        "station_name": "W 37 St & 5 Ave",
+        "number_of_departure_trips": 17205,
+        "number_of_arrival_trips": 16720
+    },
+    {
+        "station_id": 486,
+        "station_name": "Broadway & W 29 St",
+        "number_of_departure_trips": 22345,
+        "number_of_arrival_trips": 22356
+    },
+    {
+        "station_id": 487,
+        "station_name": "E 20 St & FDR Drive",
+        "number_of_departure_trips": 16852,
+        "number_of_arrival_trips": 16451
+    },
+    {
+        "station_id": 488,
+        "station_name": "W 39 St & 9 Ave",
+        "number_of_departure_trips": 30009,
+        "number_of_arrival_trips": 29967
+    },
+    {
+        "station_id": 489,
+        "station_name": "10 Ave & W 28 St",
+        "number_of_departure_trips": 17150,
+        "number_of_arrival_trips": 17569
+    },
+    {
+        "station_id": 490,
+        "station_name": "8 Ave & W 33 St",
+        "number_of_departure_trips": 41514,
+        "number_of_arrival_trips": 33326
+    },
+    {
+        "station_id": 492,
+        "station_name": "W 33 St & 7 Ave",
+        "number_of_departure_trips": 31212,
+        "number_of_arrival_trips": 29308
+    },
+    {
+        "station_id": 493,
+        "station_name": "W 45 St & 6 Ave",
+        "number_of_departure_trips": 17990,
+        "number_of_arrival_trips": 19722
+    },
+    {
+        "station_id": 494,
+        "station_name": "W 26 St & 8 Ave",
+        "number_of_departure_trips": 22851,
+        "number_of_arrival_trips": 22738
+    },
+    {
+        "station_id": 495,
+        "station_name": "W 47 St & 10 Ave",
+        "number_of_departure_trips": 16668,
+        "number_of_arrival_trips": 16864
+    },
+    {
+        "station_id": 496,
+        "station_name": "E 16 St & 5 Ave",
+        "number_of_departure_trips": 19759,
+        "number_of_arrival_trips": 19339
+    },
+    {
+        "station_id": 497,
+        "station_name": "E 17 St & Broadway",
+        "number_of_departure_trips": 55007,
+        "number_of_arrival_trips": 59446
+    },
+    {
+        "station_id": 498,
+        "station_name": "Broadway & W 32 St",
+        "number_of_departure_trips": 25521,
+        "number_of_arrival_trips": 24320
+    },
+    {
+        "station_id": 499,
+        "station_name": "Broadway & W 60 St",
+        "number_of_departure_trips": 36889,
+        "number_of_arrival_trips": 37914
+    },
+    {
+        "station_id": 500,
+        "station_name": "Broadway & W 51 St",
+        "number_of_departure_trips": 18227,
+        "number_of_arrival_trips": 16043
+    },
+    {
+        "station_id": 501,
+        "station_name": "FDR Drive & E 35 St",
+        "number_of_departure_trips": 16215,
+        "number_of_arrival_trips": 14526
+    },
+    {
+        "station_id": 502,
+        "station_name": "Henry St & Grand St",
+        "number_of_departure_trips": 9038,
+        "number_of_arrival_trips": 9430
+    },
+    {
+        "station_id": 503,
+        "station_name": "E 20 St & Park Ave",
+        "number_of_departure_trips": 12840,
+        "number_of_arrival_trips": 12361
+    },
+    {
+        "station_id": 504,
+        "station_name": "1 Ave & E 15 St",
+        "number_of_departure_trips": 28851,
+        "number_of_arrival_trips": 28940
+    },
+    {
+        "station_id": 505,
+        "station_name": "6 Ave & W 33 St",
+        "number_of_departure_trips": 25486,
+        "number_of_arrival_trips": 24637
+    },
+    {
+        "station_id": 507,
+        "station_name": "E 25 St & 2 Ave",
+        "number_of_departure_trips": 25674,
+        "number_of_arrival_trips": 25860
+    },
+    {
+        "station_id": 508,
+        "station_name": "W 46 St & 11 Ave",
+        "number_of_departure_trips": 14147,
+        "number_of_arrival_trips": 14514
+    },
+    {
+        "station_id": 509,
+        "station_name": "9 Ave & W 22 St",
+        "number_of_departure_trips": 27209,
+        "number_of_arrival_trips": 27826
+    },
+    {
+        "station_id": 510,
+        "station_name": "W 51 St & 6 Ave",
+        "number_of_departure_trips": 18582,
+        "number_of_arrival_trips": 21467
+    },
+    {
+        "station_id": 511,
+        "station_name": "E 14 St & Avenue B",
+        "number_of_departure_trips": 17163,
+        "number_of_arrival_trips": 15745
+    },
+    {
+        "station_id": 512,
+        "station_name": "W 29 St & 9 Ave",
+        "number_of_departure_trips": 16408,
+        "number_of_arrival_trips": 16229
+    },
+    {
+        "station_id": 513,
+        "station_name": "W 56 St & 10 Ave",
+        "number_of_departure_trips": 13856,
+        "number_of_arrival_trips": 13442
+    },
+    {
+        "station_id": 514,
+        "station_name": "12 Ave & W 40 St",
+        "number_of_departure_trips": 20202,
+        "number_of_arrival_trips": 22867
+    },
+    {
+        "station_id": 515,
+        "station_name": "W 43 St & 10 Ave",
+        "number_of_departure_trips": 22947,
+        "number_of_arrival_trips": 23867
+    },
+    {
+        "station_id": 516,
+        "station_name": "E 47 St & 1 Ave",
+        "number_of_departure_trips": 8106,
+        "number_of_arrival_trips": 8559
+    },
+    {
+        "station_id": 517,
+        "station_name": "Pershing Square S",
+        "number_of_departure_trips": 31985,
+        "number_of_arrival_trips": 22005
+    },
+    {
+        "station_id": 518,
+        "station_name": "E 39 St & 2 Ave",
+        "number_of_departure_trips": 31823,
+        "number_of_arrival_trips": 31319
+    },
+    {
+        "station_id": 519,
+        "station_name": "Pershing Square N",
+        "number_of_departure_trips": 56693,
+        "number_of_arrival_trips": 45422
+    },
+    {
+        "station_id": 520,
+        "station_name": "W 52 St & 5 Ave",
+        "number_of_departure_trips": 14515,
+        "number_of_arrival_trips": 15591
+    },
+    {
+        "station_id": 521,
+        "station_name": "8 Ave & W 31 St",
+        "number_of_departure_trips": 53871,
+        "number_of_arrival_trips": 52486
+    },
+    {
+        "station_id": 522,
+        "station_name": "E 51 St & Lexington Ave",
+        "number_of_departure_trips": 16270,
+        "number_of_arrival_trips": 15918
+    },
+    {
+        "station_id": 523,
+        "station_name": "W 38 St & 8 Ave",
+        "number_of_departure_trips": 28377,
+        "number_of_arrival_trips": 26582
+    },
+    {
+        "station_id": 524,
+        "station_name": "W 43 St & 6 Ave",
+        "number_of_departure_trips": 20310,
+        "number_of_arrival_trips": 20788
+    },
+    {
+        "station_id": 525,
+        "station_name": "W 34 St & 11 Ave",
+        "number_of_departure_trips": 10235,
+        "number_of_arrival_trips": 10562
+    },
+    {
+        "station_id": 526,
+        "station_name": "E 33 St & 5 Ave",
+        "number_of_departure_trips": 14291,
+        "number_of_arrival_trips": 13420
+    },
+    {
+        "station_id": 527,
+        "station_name": "E 33 St & 1 Ave",
+        "number_of_departure_trips": 18641,
+        "number_of_arrival_trips": 18411
+    },
+    {
+        "station_id": 528,
+        "station_name": "2 Ave & E 31 St",
+        "number_of_departure_trips": 32776,
+        "number_of_arrival_trips": 32370
+    },
+    {
+        "station_id": 529,
+        "station_name": "W 42 St & 8 Ave",
+        "number_of_departure_trips": 19902,
+        "number_of_arrival_trips": 21176
+    },
+    {
+        "station_id": 531,
+        "station_name": "Forsyth St & Broome St",
+        "number_of_departure_trips": 19501,
+        "number_of_arrival_trips": 19206
+    },
+    {
+        "station_id": 532,
+        "station_name": "S 5 Pl & S 4 St",
+        "number_of_departure_trips": 11800,
+        "number_of_arrival_trips": 13611
+    },
+    {
+        "station_id": 533,
+        "station_name": "Broadway & W 39 St",
+        "number_of_departure_trips": 15164,
+        "number_of_arrival_trips": 11247
+    },
+    {
+        "station_id": 534,
+        "station_name": "Water - Whitehall Plaza",
+        "number_of_departure_trips": 8850,
+        "number_of_arrival_trips": 9640
+    },
+    {
+        "station_id": 536,
+        "station_name": "1 Ave & E 30 St",
+        "number_of_departure_trips": 19835,
+        "number_of_arrival_trips": 20579
+    },
+    {
+        "station_id": 537,
+        "station_name": "Lexington Ave & E 24 St",
+        "number_of_departure_trips": 28108,
+        "number_of_arrival_trips": 29213
+    },
+    {
+        "station_id": 538,
+        "station_name": "W 49 St & 5 Ave",
+        "number_of_departure_trips": 13529,
+        "number_of_arrival_trips": 13926
+    },
+    {
+        "station_id": 539,
+        "station_name": "Metropolitan Ave & Bedford Ave",
+        "number_of_departure_trips": 12355,
+        "number_of_arrival_trips": 13473
+    },
+    {
+        "station_id": 540,
+        "station_name": "Lexington Ave & E 26 St",
+        "number_of_departure_trips": 27601,
+        "number_of_arrival_trips": 28451
+    },
+    {
+        "station_id": 545,
+        "station_name": "E 23 St & 1 Ave",
+        "number_of_departure_trips": 22499,
+        "number_of_arrival_trips": 22098
+    },
+    {
+        "station_id": 546,
+        "station_name": "E 30 St & Park Ave S",
+        "number_of_departure_trips": 21696,
+        "number_of_arrival_trips": 22267
+    },
+    {
+        "station_id": 2000,
+        "station_name": "Front St & Washington St",
+        "number_of_departure_trips": 11385,
+        "number_of_arrival_trips": 12332
+    },
+    {
+        "station_id": 2001,
+        "station_name": "7 Ave & Farragut St",
+        "number_of_departure_trips": 1147,
+        "number_of_arrival_trips": 1270
+    },
+    {
+        "station_id": 2002,
+        "station_name": "Wythe Ave & Metropolitan Ave",
+        "number_of_departure_trips": 9814,
+        "number_of_arrival_trips": 10641
+    },
+    {
+        "station_id": 2003,
+        "station_name": "1 Ave & E 18 St",
+        "number_of_departure_trips": 19149,
+        "number_of_arrival_trips": 19192
+    },
+    {
+        "station_id": 2004,
+        "station_name": "6 Ave & Broome St",
+        "number_of_departure_trips": 11510,
+        "number_of_arrival_trips": 11999
+    },
+    {
+        "station_id": 2005,
+        "station_name": "Railroad Ave & Kay Ave",
+        "number_of_departure_trips": 562,
+        "number_of_arrival_trips": 654
+    },
+    {
+        "station_id": 2006,
+        "station_name": "Central Park S & 6 Ave",
+        "number_of_departure_trips": 24587,
+        "number_of_arrival_trips": 25486
+    },
+    {
+        "station_id": 2008,
+        "station_name": "Little West St & 1 Pl",
+        "number_of_departure_trips": 10359,
+        "number_of_arrival_trips": 10222
+    },
+    {
+        "station_id": 2009,
+        "station_name": "Catherine St & Monroe St",
+        "number_of_departure_trips": 7087,
+        "number_of_arrival_trips": 7337
+    },
+    {
+        "station_id": 2010,
+        "station_name": "Grand St & Greene St",
+        "number_of_departure_trips": 14197,
+        "number_of_arrival_trips": 15276
+    },
+    {
+        "station_id": 2012,
+        "station_name": "E 27 St & 1 Ave",
+        "number_of_departure_trips": 10195,
+        "number_of_arrival_trips": 10150
+    },
+    {
+        "station_id": 2017,
+        "station_name": "E 43 St & 2 Ave",
+        "number_of_departure_trips": 9255,
+        "number_of_arrival_trips": 8652
+    },
+    {
+        "station_id": 2021,
+        "station_name": "W 45 St & 8 Ave",
+        "number_of_departure_trips": 23554,
+        "number_of_arrival_trips": 21178
+    },
+    {
+        "station_id": 2022,
+        "station_name": "E 59 St & Sutton Pl",
+        "number_of_departure_trips": 10290,
+        "number_of_arrival_trips": 10871
+    },
+    {
+        "station_id": 2023,
+        "station_name": "E 55 St & Lexington Ave",
+        "number_of_departure_trips": 7831,
+        "number_of_arrival_trips": 7672
+    },
+    {
+        "station_id": 3002,
+        "station_name": "South End Ave & Liberty St",
+        "number_of_departure_trips": 20960,
+        "number_of_arrival_trips": 22976
+    }
+]
