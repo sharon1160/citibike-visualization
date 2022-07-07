@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="{{ url_for('static',filename='css/index.css') }}">
   <link rel="stylesheet" href="{{ url_for('static',filename='css/map.css') }}">
   <link rel="stylesheet" href="{{ url_for('static',filename='css/sankey.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static',filename='css/information.css') }}">
   <script type="text/javascript" src="{{ url_for('static',filename='js/map.js')}}" defer></script>
   <script type="text/javascript" src="{{ url_for('static',filename='js/sankey.js')}}" defer></script>
   <script src="//d3js.org/d3.v3.min.js"></script>
@@ -16,31 +17,101 @@
   <title>CitiBike Visualization</title>
 </head>
 <body>
-
+  <!--
   <div id="container-logo">
       <img src="{{url_for('static', filename='logo.png')}}" alt="logo">
   </div>
+  -->
 
-  <div id="card-map" class="card" style="width:39rem; height:32rem">
-    <h2 class="subtitle">New York Stations</h2>
-    <div id="map-container" style="width: 39rem; height: 28rem;"></div>
+  <!-- INFORMATION -->
+  <div id="info-card" class="sidebar card" style="float:left; width:12rem; height: 100%;">
+    <h4 id="title-information">Data Information</h4>
+    <p class="item">Número de Registros: 5789123</p>
+    <p class="item">Número de Estaciones: 330</p>
+    <p class="item">Número de Bicletas: 1540</p>
+
+    <div class="subtitle-filter">
+    <label class="subtitle-information" for="value-range">Value Range</label>
+    <select id="value-range" name="value-range">
+      <option value="mes-range">mes</option>
+      <option value="dia-range">día</option>
+      <option value="hora-range">hora</option>
+    </select>
+    </div>
+
+    <input type="radio" id="duracion" name="information" value="duracion">
+    <label class="item" for="duracion">Duración del viaje</label><br>
+
+    <input type="radio" id="inicio" name="information" value="inicio">
+    <label class="item" for="inicio">Fecha de inicio de viaje</label><br>
+
+    <input type="radio" id="fin" name="information" value="fin">
+    <label class="item" for="fin">Fecha de fin de viaje</label><br>
+
+
+    <div class="subtitle-filter">
+      <label class="subtitle-information" for="data-statistics">Data Statistics</label>
+      <select id="data-statistics" name="data-statistics">
+        <option value="mes-statistics">mes</option>
+        <option value="dia-statistics">día</option>
+        <option value="hora-statistics">hora</option>
+      </select>
+    </div>
+
+    <input type="radio" id="numero" name="statistics" value="numero">
+    <label class="item" for="numero">Número de viajes</label><br>
+
+    <input type="radio" id="duracion-statistics" name="statistics" value="duracion-statistics">
+    <label class="item" for="duracion-statistics">Duración de viajes</label><br>
+
+    <input type="radio" id="inicio-statistics" name="statistics" value="inicio-statistics">
+    <label class="item" for="inicio-statistics">Número de viajes de llegada</label><br>
+
+    <input type="radio" id="fin-statistics" name="statistics" value="fin-statistics">
+    <label class="item" for="fin-statistics">Número de viajes de partida</label><br>
+
+    <div class="subtitle-filter">
+      <label class="subtitle-information" for="frecuencias">Frecuencias</label>
+      <select id="frecuencias" name="frecuencias">
+        <option value="mes-frecuencias">mes</option>
+        <option value="dia-frecuencias">día</option>
+        <option value="hora-frecuencias">hora</option>
+      </select>
+    </div>
+
+    <input type="radio" id="estaciones-partida" name="frecuencias" value="estaciones-partida">
+    <label class="item" for="estaciones-partida">Estaciones de partida</label><br>
+
+    <input type="radio" id="estaciones-llegada" name="frecuencias" value="estaciones-llegada">
+    <label class="item" for="estaciones-llegada">Estaciones de llegada</label><br>
+
+    <input type="radio" id="estaciones" name="frecuencias" value="estaciones">
+    <label class="item" for="estaciones">Todas las estaciones</label><br>
   </div>
 
-  <div id="card-sankey" class="card" style="width:36rem; height:32rem">
-    <h2 class="subtitle">Trips</h2>
+  <div id="body-visualization">
+    <!-- MAP -->
+    <div id="card-map" class="card" style="width:35rem; height:32rem">
+      <h3 class="subtitle">New York Stations</h3>
+      <div id="map-container" style="width: 35rem; height: 28rem;"></div>
+    </div>
 
-    <form id="form-trips" action="{{url_for('sankey')}}" method="post">
-      <p><label for="estaciones-input">ID's de estaciones:</label></p>
-      <textarea id="estaciones-input" name="estaciones-input" rows="2" cols="50" placeholder="360,264,351,415,337,315 (example)"></textarea>
-      <div id="boton">
-        <button id="myButton" type="submit">Dibujar!</button>
-      </div>
-    </form>
+    <!-- SANKEY -->
+    <div id="card-sankey" class="card" style="width:35rem; height:32rem">
+      <h3 class="subtitle">Trips</h3>
 
-    <p id="label-start">Estación de Inicio</p>
-    <p id="label-end">Estación de Llegada</p>
-    <div id="sankey-container" style="width: 36rem; height: 30rem;"></div>
+      <form id="form-trips" action="{{url_for('sankey')}}" method="post">
+        <p><label for="estaciones-input">ID's de estaciones:</label></p>
+        <textarea id="estaciones-input" name="estaciones-input" rows="2" cols="50" placeholder="360,264,351,415,337,315 (example)"></textarea>
+        <div id="boton">
+          <button id="myButton" type="submit">Dibujar!</button>
+        </div>
+      </form>
+
+      <p id="label-start">Estación de Inicio</p>
+      <p id="label-end">Estación de Llegada</p>
+      <div id="sankey-container" style="width: 35rem; height: 30rem;"></div>
+    </div>
   </div>
-
 </body>
 </html>
