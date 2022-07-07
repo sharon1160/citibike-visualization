@@ -1,0 +1,37 @@
+svg {
+  border: 1px solid #000000;
+}
+rect {
+  stroke: SteelBlue;
+  stroke-width: 2;
+  fill: LightSteelBlue  ;
+}
+
+rect:hover {
+  fill: SteelBlue ;
+}
+
+.eje text{
+  font: 10px sans-serif;
+}
+
+.eje path, .eje line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.tooltip {
+  font-family: Arial, helvetica, sans-serif;
+  font-size: 10px;
+  padding: 8px;
+  background: rgba(0, 0, 0, 0.7);
+  border: 1px solid #FFFFFF;
+  box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 4px;
+  color: #FFFFFF;
+  border-radius: 4px;
+}
+.axis text{
+font: 15px Arial;
+font-weight: bold;
+}
