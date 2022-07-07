@@ -38,7 +38,11 @@ d3.json("/get-stations", function (error, data) {
             " viajes" +
             "<br><strong>Nro. llegadas:</strong> " +
             d.value[4] +
-            " viajes"
+            " viajes" +
+            "<br><strong>Porcentaje de salidas:</strong> " +
+            d.value[5] +
+            "<br><strong>Porcentaje de llegadas:</strong> " +
+            d.value[6]
           );
         });
 
