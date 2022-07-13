@@ -1,0 +1,63 @@
+.sidebar {
+height: 200px;
+width: 150px;
+position: fixed;
+top: 0;
+left: 0;
+padding-top: 40px;
+}
+
+.sidebar div {
+padding: 8px;
+font-size: 24px;
+display: block;
+}
+
+#logo {
+  width: 185px;
+  height: 50px;
+}
+
+#title-information {
+  margin-top: 12px;
+  margin-bottom: 10px;
+}
+.subtitle-information {
+  margin-top: 18px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.item {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-size: 13px;
+}
+
+.subtitle-filter {
+  margin-top: 16px;
+  margin-bottom: 5px;
+}
+
+.btn {
+  align-items: center;
+  width: 60px;
+  margin-left: 35px;
+}
+
+.btn-filtro{
+  border:none;
+  width: 100px;
+  height: 41px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: whitesmoke;
+  background-color: rgb(60, 106, 152);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-filtro:hover{
+  background-color: rgb(77, 134, 190);
+}
