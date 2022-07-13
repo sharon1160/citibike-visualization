@@ -58,110 +58,82 @@
         font-weight: bold;
       }
   </style>
-  <svg></svg>
+  
+    <div class="container-chart card">
+    <svg id="chart-1"></svg>
+    </div>
+
+    <div class="container-chart card" style="margin-top: 30px;">
+    <svg id="chart-2"></svg>
+    </div>
+
+    <div class="container-chart card" style="margin-top: 30px;">
+    <svg id="chart-3"></svg>
+    </div>
+
+    <div class="container-chart card" style="margin-top: 30px;">
+    <svg id="chart-4"></svg>
+    </div>
+
+    <div class="container-chart card" style="margin-top: 30px;">
+    <svg id="chart-5"></svg>
+    </div>
+
+    <div class="container-chart card" style="margin-top: 30px;">
+    <svg id="chart-6"></svg>
+    </div>
+  
   <script src="http://d3js.org/d3.v3.min.js"></script>
   <script src="{{ url_for('static',filename='js/d3-tip.js')}}" type="text/javascript"></script>
+  <script src="{{ url_for('static',filename='js/barCharts.js')}}" type="text/javascript"></script>
   
   <script>
-    var config = { columnWidth: 20, columnHeight: 235, columnGap: 5, padding: 80};
     
-    d3.json("{{ url_for('static', filename='/data/NumberOfTripsByMonth.json ') }}", function(error, json) {
-    if (error) {
-        return console.warn(error);
-    }
-    renderBarPlot(json);
-    });
- 
-function renderBarPlot(datos){
-  var NUM_COLUMNAS = datos.length;
-        config.width = NUM_COLUMNAS * (config.columnWidth + config.columnGap) + (2 * config.padding);
-        config.height = config.columnHeight + 2 * config.padding;
+    var config = { columnWidth: 20, columnHeight: 235, columnGap: 5, padding: 100};
+    var labels = { xLabelTitle: "Horas del dia", yLabelTitle: "Cantidad de viajes", title: "Numero de viajes por hora"};
+    var tooltipData = {timeInfo: "<strong> Hora: " , numberInfo: "</strong><br> <strong> Numero de viajes: "};
 
-        var TRIPS_AMOUNT = d3.max(datos, function(d) { return d.number_of_trips; });
+    renderBarChartFromJson(
+    "#chart-1",
+    jsonPath = "{{ url_for('static', filename='/data/NumberOfTripsByHour.json') }}",
+    config,
+    labels,
+    tooltipData
+    )
 
-        var x = d3.scale.ordinal()
-            .rangeRoundBands([0, config.width - 2 * config.padding])
-            .domain(datos.map(function(d) { return d.time; }));
+    renderBarChartFromJson(
+    "#chart-2",
+    jsonPath = "{{ url_for('static', filename='/data/NumberOfTripsByDay.json') }}",
+    config,
+    labels,
+    tooltipData
+    )
 
-        var y = d3.scale.linear()
-            .range([0, config.columnHeight])
-            .domain([0, TRIPS_AMOUNT]);
+    renderBarChartFromJson(
+    "#chart-3",
+    jsonPath = "{{ url_for('static', filename='/data/NumberOfTripsByMonth.json') }}",
+    config,
+    labels,
+    tooltipData
+    )
 
-        var rangeY = d3.scale.linear()
-            .range([config.columnHeight, 0])
-            .domain([0, TRIPS_AMOUNT]);
+    renderBarChartFromJson(
+    "#chart-4",
+    jsonPath = "{{ url_for('static', filename='/data/NumberOfTripsByYear.json') }}",
+    config,
+    labels,
+    tooltipData
+    )
 
+    renderBarChartFromJsonByStation(
+    "#chart-5",
+    jsonPath = "{{ url_for('static', filename='/data/NumberOfTripsByStation.json') }}",        
+    )
 
-        var ejeX = d3.svg.axis()
-            .scale(x)
-            .orient("bottom");
-
-        var ejeY = d3.svg.axis()
-            .scale(rangeY)
-            .orient("left");
-
-        var tooltip = d3.tip()
-            .attr('class', 'tooltip')
-            .offset([-10, 0])
-            .html(function(d) {
-                return "<strong> Hora: " + d.time + "</strong><br> Numero de viajes: " +d.number_of_trips;
-            });
-
-        var svg = d3.select("svg")
-            .attr("width", config.width)
-            .attr("height", config.height);
-
-        svg.call(tooltip);
-
-        svg.append("g")
-            .attr("class", "eje")
-            .attr("transform", "translate(" + config.padding + "," + (10 + config.padding + config.columnHeight) + ")")
-            .call(ejeX)
-          .selectAll("text")
-            .attr("transform", "rotate(90)")
-            .attr("x", "10")
-            .attr("y", "-3")
-            .style("text-anchor", "start");
-
-        svg.append("g")
-            .attr("class", "eje")
-            .attr("transform", "translate(" + (config.padding - 10) + "," + config.padding + ")")
-            .call(ejeY);
-
-        svg.append("text")
-            .attr("class", "axis")
-            .attr("text-anchor", "end")
-            .attr("x", config.width*2/3)
-            .attr("y", 32)
-            .text("Numero de viajes hechos por hora");
-
-        svg.append("text")
-            .attr("class", "axis")
-            .attr("text-anchor", "end")
-            .attr("x", config.width*3/5)
-            .attr("y", config.height - 10)
-            .text("Horas del dia");
-
-        svg.append("text")
-            .attr("class", "axis")
-            .attr("text-anchor", "end")
-            .attr("x", -config.height/3)
-            .attr("y", 16)
-            .attr("transform", "rotate(-90)")
-            .text("Cantidad de viajes");
-
-        svg.selectAll("rect")
-            .data(datos)
-            .enter().append("rect")
-            .attr("width", config.columnWidth)
-            .attr("x", function(d,i) { return config.padding + x(d.time) })
-            .attr("y", function(d,i) { return config.padding + config.columnHeight - y(d.number_of_trips) })
-            .attr("height", function(d,i) { return y(d.number_of_trips) })
-            .attr("data-time", function(d,i) { return d.time })
-            .attr("data-number_of_trips", function(d,i) { return  (+d.number_of_trips) })
-            .on('mouseover', tooltip.show)
-            .on('mouseout', tooltip.hide)
-}
+    renderBarChartFromJsonByDuration(
+    "#chart-6",
+    jsonPath = "{{ url_for('static', filename='/data/NumberOfTripsByDuration.json') }}",        
+    )
   </script>
   </div>
 </body>
