@@ -8,7 +8,6 @@ var map = new google.maps.Map(d3.select("#map-container").node(), {
 // Load the station data. When the data comes back, create an overlay.
 d3.json("/get-stations", function (error, data) {
   if (error) throw error;
-
   var overlay = new google.maps.OverlayView();
 
   // Add the container when the overlay is added to the map.
@@ -29,21 +28,33 @@ d3.json("/get-stations", function (error, data) {
         .attr("class", "tooltip")
         .offset([-10, 0])
         .html(function (d) {
-          return (
+          result =
             "<strong>Información</strong> <br><br>" +
             "<strong>Nombre:</strong> " +
-            d.value[2] +
-            "<br><strong>Nro. salidas:</strong> " +
-            d.value[3] +
-            " viajes" +
-            "<br><strong>Nro. llegadas:</strong> " +
-            d.value[4] +
-            " viajes" +
-            "<br><strong>Porcentaje de salidas:</strong> " +
-            d.value[5] +
-            "<br><strong>Porcentaje de llegadas:</strong> " +
-            d.value[6]
-          );
+            d.value["Nombre"];
+          if (d.value.hasOwnProperty("Nro. salidas") == true) {
+            result +=
+              "<br><strong>Nro. salidas:</strong> " +
+              d.value["Nro. salidas"] +
+              " viajes";
+          }
+          if (d.value.hasOwnProperty("Nro. llegadas") == true) {
+            result +=
+              "<br><strong>Nro. llegadas:</strong> " +
+              d.value["Nro. llegadas"] +
+              " viajes";
+          }
+          if (
+            d.value.hasOwnProperty("Nro. llegadas") == true &&
+            d.value.hasOwnProperty("Nro. salidas") == true
+          ) {
+            result +=
+              "<br><strong>Porcentaje de salidas:</strong> " +
+              d.value["Porcentaje de salidas"] +
+              "<br><strong>Porcentaje de llegadas:</strong> " +
+              d.value["Porcentaje de llegadas"];
+          }
+          return result;
         });
 
       let marker = layer
@@ -59,12 +70,57 @@ d3.json("/get-stations", function (error, data) {
 
       d3.select("svg").call(tooltip);
 
+      let peso = 0;
+      color = "red";
+      console.log(peso);
+      if (peso >= 117 && peso < 1788) {
+        color = "blue";
+      } else if (peso >= 1788 && peso < 3459) {
+        color = "green";
+      } else if (peso >= 3459) {
+        color = "red";
+      }
+
       // Add a circle.
       marker
         .append("circle")
         .attr("r", 9.5)
         .attr("cx", padding)
-        .attr("cy", padding);
+        .attr("cy", padding)
+        .style("fill", function (d, i) {
+          let peso = 0;
+          if (
+            d.value.hasOwnProperty("Nro. llegadas") == true &&
+            d.value.hasOwnProperty("Nro. salidas") == true
+          ) {
+            peso = (d.value["Nro. salidas"] + d.value["Nro. llegadas"]) / 2;
+          }
+          if (d.value.hasOwnProperty("Nro. salidas") == true) {
+            peso = d.value["Nro. salidas"];
+          }
+          if (d.value.hasOwnProperty("Nro. llegadas") == true) {
+            peso = d.value["Nro. llegadas"];
+          }
+
+          console.log(peso);
+          //min: 1228
+          //max: 32284
+          if (peso >= 0 && peso < 1228) {
+            color = "#FFD724";
+          } else if (peso >= 1228 && peso < 7930) {
+            color = "#FFB124";
+          } else if (peso >= 7930 && peso < 14632) {
+            color = "#FF8D24";
+          } else if (peso >= 14632 && peso < 21334) {
+            color = "#FF6B30";
+          } else if (peso >= 21334 && peso < 28036) {
+            color = "#FF3624";
+          } else if (peso >= 28036) {
+            color = "#FF2700";
+          }
+
+          return color;
+        });
 
       // Add label id
       marker
@@ -80,7 +136,7 @@ d3.json("/get-stations", function (error, data) {
         .style("font-size", 8.2);
 
       function transform(d) {
-        d = new google.maps.LatLng(d.value[1], d.value[0]);
+        d = new google.maps.LatLng(d.value["Latitude"], d.value["Longitude"]);
         d = projection.fromLatLngToDivPixel(d);
         return d3
           .select(this)

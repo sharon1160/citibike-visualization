@@ -8,49 +8,44 @@ import json
 DAY = "day"
 HOUR = "hour"
 MONTH = "month"
+nombre_file_stations = 'static/data/stations-todo.json'
 
 # initialize flask application
 app = Flask(__name__)
 
 # READING DATA
-
-
 def readData(ruta):
     df = pd.read_csv(ruta)
     return df
 
-
 df = readData("static/data/citibike(2013-07_2014-02).csv")
-
 
 @app.route("/")
 def home():
-    return render_template('index.html')
+    return render_template('map.html')
 
+@app.route("/analysis")
+def analysis():
+    return render_template('analysis.html')
+
+@app.route("/metadata")
+def metadata():
+    return render_template('metadata.html')
 
 @app.route("/get-stations", methods=['POST', 'GET'])
 def get_stations():
+    global nombre_file_stations
     if request.method == 'POST':
-        df_stations = st.trip_counts(df)
-        ids = list(df_stations.index)
-        latitudes = list(df_stations['Latitude'])
-        longitudes = list(df_stations['Longitude'])
-        nombres = list(df_stations['Name'])
-        salidas = list(df_stations['Departure Count'])
-        llegadas = list(df_stations['Arrival Count'])
-        data = {}
-        n = len(list(df_stations['Latitude']))
-        for i in range(n):
-            suma = salidas[i] + llegadas[i]
-            porcentaje_salidas = round((salidas[i] * 100)/suma, 2)
-            porcentaje_llegadas = round((llegadas[i] * 100)/suma, 2)
-            data[ids[i]] = [longitudes[i], latitudes[i], nombres[i], salidas[i], llegadas[i], str(
-                porcentaje_salidas) + '%', str(porcentaje_llegadas) + '%']
-        with open('static/data/stations.json', 'w') as fp:
-            json.dump(data, fp)
-        return render_template('index.html')
+        option = request.form['viaje-tipos']
+        if option == "viajes-todo":
+            nombre_file_stations = 'static/data/stations-todo.json'
+        elif option == "viajes-salida":
+            nombre_file_stations = 'static/data/stations-salida.json'
+        elif option == "viajes-llegada":
+            nombre_file_stations = 'static/data/stations-llegada.json'
+        return render_template('map.html')
     else:
-        with open("static/data/stations.json") as fp:
+        with open(nombre_file_stations) as fp:
             return json.load(fp)
 
 
@@ -65,7 +60,7 @@ def sankey():
         data = {"nodes": nodos, "links": links}
         with open('static/data/viajes.json', 'w') as fp:
             json.dump(data, fp)
-        return render_template('index.html')
+        return render_template('map.html')
     else:
         with open('static/data/viajes.json') as fp:
             return json.load(fp)

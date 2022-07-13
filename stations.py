@@ -1,3 +1,5 @@
+import json
+
 def trip_counts(df):
   # bike station ID, Name, and coordinates
   locations = df.groupby("Start Station ID").first()
@@ -48,3 +50,25 @@ def trip_counts_by_month(df, month):
   trip_counts_df = trip_counts_df[new_cols]
 
   return trip_counts_df
+
+# Obtiene las estaciones con viajes de salida y viajes de llegada
+def get_stations_todo(df):
+  nombre = 'static/data/stations-todo.json'
+  df_stations = trip_counts(df)
+  ids = list(df_stations.index)
+  latitudes = list(df_stations['Latitude'])
+  longitudes = list(df_stations['Longitude'])
+  nombres = list(df_stations['Name'])
+  salidas = list(df_stations['Departure Count'])
+  llegadas = list(df_stations['Arrival Count'])
+  data = {}
+  n = len(list(df_stations['Latitude']))
+  for i in range(n):
+      suma = salidas[i] + llegadas[i]
+      porcentaje_salidas = round((salidas[i] * 100)/suma, 2)
+      porcentaje_llegadas = round((llegadas[i] * 100)/suma, 2)
+      data[ids[i]] = [longitudes[i], latitudes[i], nombres[i], salidas[i], llegadas[i], str(
+          porcentaje_salidas) + '%', str(porcentaje_llegadas) + '%']
+  with open(nombre, 'w') as fp:
+      json.dump(data, fp)
+  return nombre
