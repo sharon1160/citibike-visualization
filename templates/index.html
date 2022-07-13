@@ -63,9 +63,9 @@
   <script src="{{ url_for('static',filename='js/d3-tip.js')}}" type="text/javascript"></script>
   
   <script>
-    var config = { columnWidth: 20, columnHeight: 235, columnGap: 5, padding: 80};
+    var config = { columnWidth: 20, columnHeight: 235, columnGap: 5, padding: 100};
     
-    d3.json("{{ url_for('static', filename='/data/NumberOfTripsByMonth.json ') }}", function(error, json) {
+    d3.json("{{ url_for('static', filename='/data/NumberOfTripsByHour.json ') }}", function(error, json) {
     if (error) {
         return console.warn(error);
     }
@@ -73,6 +73,11 @@
     });
  
 function renderBarPlot(datos){
+
+    var title = "Numero de viajes por hora"
+    var xLabelTitle = "Horas del dia"
+    var yLabelTitle = "Cantidad de viajes"
+
   var NUM_COLUMNAS = datos.length;
         config.width = NUM_COLUMNAS * (config.columnWidth + config.columnGap) + (2 * config.padding);
         config.height = config.columnHeight + 2 * config.padding;
@@ -104,7 +109,7 @@ function renderBarPlot(datos){
             .attr('class', 'tooltip')
             .offset([-10, 0])
             .html(function(d) {
-                return "<strong> Hora: " + d.time + "</strong><br> Numero de viajes: " +d.number_of_trips;
+                return "<strong> Tiempo: " + d.time + "</strong><br> Numero de viajes: " +d.number_of_trips;
             });
 
         var svg = d3.select("svg")
@@ -130,25 +135,25 @@ function renderBarPlot(datos){
 
         svg.append("text")
             .attr("class", "axis")
-            .attr("text-anchor", "end")
-            .attr("x", config.width*2/3)
+            .attr("text-anchor", "middle")
+            .attr("x", config.width/2)
             .attr("y", 32)
-            .text("Numero de viajes hechos por hora");
+            .text(title);
 
         svg.append("text")
             .attr("class", "axis")
-            .attr("text-anchor", "end")
-            .attr("x", config.width*3/5)
+            .attr("text-anchor", "middle")
+            .attr("x", config.width/2)
             .attr("y", config.height - 10)
-            .text("Horas del dia");
+            .text(xLabelTitle);
 
         svg.append("text")
             .attr("class", "axis")
-            .attr("text-anchor", "end")
-            .attr("x", -config.height/3)
+            .attr("text-anchor", "middle")
+            .attr("x", -config.height/2)
             .attr("y", 16)
             .attr("transform", "rotate(-90)")
-            .text("Cantidad de viajes");
+            .text(yLabelTitle);
 
         svg.selectAll("rect")
             .data(datos)
