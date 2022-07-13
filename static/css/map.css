@@ -2,8 +2,14 @@
   border-radius: 0.5rem;
 }
 
+#card-map {
+  margin-top: 15px;
+  margin-left: 150px;
+  margin-right: 0;
+}
+
 #card-map, #map-container {
-  float: right;
+  float: left;
 }
 
 .stations, .stations svg {
@@ -16,7 +22,6 @@
 }
 
 .stations circle {
-  fill: rgb(231, 59, 43);
   stroke: rgb(66, 66, 66);
   stroke-width: 1.5px;
 }
