@@ -1,0 +1,98 @@
+[
+    {
+        "time": "0:00",
+        "number_of_trips": 61921
+    },
+    {
+        "time": "1:00",
+        "number_of_trips": 35697
+    },
+    {
+        "time": "2:00",
+        "number_of_trips": 21981
+    },
+    {
+        "time": "3:00",
+        "number_of_trips": 13072
+    },
+    {
+        "time": "4:00",
+        "number_of_trips": 11062
+    },
+    {
+        "time": "5:00",
+        "number_of_trips": 26264
+    },
+    {
+        "time": "6:00",
+        "number_of_trips": 104168
+    },
+    {
+        "time": "7:00",
+        "number_of_trips": 222697
+    },
+    {
+        "time": "8:00",
+        "number_of_trips": 402653
+    },
+    {
+        "time": "9:00",
+        "number_of_trips": 337026
+    },
+    {
+        "time": "10:00",
+        "number_of_trips": 235810
+    },
+    {
+        "time": "11:00",
+        "number_of_trips": 252356
+    },
+    {
+        "time": "12:00",
+        "number_of_trips": 307508
+    },
+    {
+        "time": "13:00",
+        "number_of_trips": 322318
+    },
+    {
+        "time": "14:00",
+        "number_of_trips": 324551
+    },
+    {
+        "time": "15:00",
+        "number_of_trips": 342926
+    },
+    {
+        "time": "16:00",
+        "number_of_trips": 402012
+    },
+    {
+        "time": "17:00",
+        "number_of_trips": 543321
+    },
+    {
+        "time": "18:00",
+        "number_of_trips": 521086
+    },
+    {
+        "time": "19:00",
+        "number_of_trips": 377630
+    },
+    {
+        "time": "20:00",
+        "number_of_trips": 259426
+    },
+    {
+        "time": "21:00",
+        "number_of_trips": 188007
+    },
+    {
+        "time": "22:00",
+        "number_of_trips": 147317
+    },
+    {
+        "time": "23:00",
+        "number_of_trips": 101512
+    }
+]
