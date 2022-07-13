@@ -2,6 +2,7 @@
 
 #card-sankey {
   float: right;
+  margin-left: 8px;
 }
 
 .node rect {
