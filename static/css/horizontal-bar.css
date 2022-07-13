@@ -1,0 +1,28 @@
+#container-navbar {
+  margin-left: 240px;
+}
+
+#horizontal-navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #3c6a98;
+}
+
+.pestania {
+  float: left;
+}
+
+.pestania .link-pestania {
+  display: block;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 22px 24px;
+  text-decoration: none;
+}
+
+.pestania .link-pestania:hover:not(.active) {
+  background-color: #3d79b4;
+}
