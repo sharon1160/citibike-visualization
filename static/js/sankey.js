@@ -3,8 +3,8 @@
 var units = "viajes";
 
 var margin = { top: 10, right: 10, bottom: 10, left: 10 },
-  width = 560 - margin.left - margin.right,
-  height = 350 - margin.top - margin.bottom;
+  width = 470 - margin.left - margin.right,
+  height = 390 - margin.top - margin.bottom;
 
 var formatNumber = d3.format(",.0f"), // zero decimal places
   format = function (d) {
@@ -22,7 +22,7 @@ var svg = d3
   .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 // Set the sankey diagram properties
-var sankey = d3.sankey().nodeWidth(25).nodePadding(3).size([width, height]);
+var sankey = d3.sankey().nodeWidth(18).nodePadding(3).size([width, height]);
 
 var path = sankey.link();
 
