@@ -39,9 +39,22 @@
 .tooltip {
   font-size: 10px;
   padding: 8px;
-  background: rgba(0, 0, 0, 0.7);
-  border: 1px solid #FFFFFF;
+  background: rgba(252, 252, 252, 0.774);
+  border: 1px solid #000000;
+  font-size: small;
   box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 4px;
-  color: #FFFFFF;
+  color: #201f1f;
   border-radius: 4px;
+}
+
+#legend {
+  background-color: rgb(252, 252, 252);
+  width: 7.8rem;
+  height: 4.8rem;
+  border-radius: 4px;
+  position: fixed;
+  padding: 1rem;
+  padding-top: 8px;
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
 }

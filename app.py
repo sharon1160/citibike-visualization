@@ -36,14 +36,25 @@ def metadata():
 def get_stations():
     global nombre_file_stations
     if request.method == 'POST':
-        option = request.form['viaje-tipos']
-        if option == "viajes-todo":
-            nombre_file_stations = 'static/data/stations-todo.json'
-        elif option == "viajes-salida":
-            nombre_file_stations = 'static/data/stations-salida.json'
-        elif option == "viajes-llegada":
-            nombre_file_stations = 'static/data/stations-llegada.json'
-        return render_template('map.html')
+        if 'hour-field' in request.form:
+            hora = int(request.form['hour-field'])
+            st.get_stations_hour(df, hora)
+            nombre_file_stations = 'static/data/stations-todo-hour.json'
+            return render_template('map.html')
+        elif 'month-field' in request.form:
+            mes = int(request.form['month-field'])
+            st.get_stations_month(df, mes)
+            nombre_file_stations = 'static/data/stations-todo-month.json'
+            return render_template('map.html')
+        elif 'viaje-tipos' in request.form:
+            option = request.form['viaje-tipos']
+            if option == "viajes-todo":
+                nombre_file_stations = 'static/data/stations-todo.json'
+            elif option == "viajes-salida":
+                nombre_file_stations = 'static/data/stations-salida.json'
+            elif option == "viajes-llegada":
+                nombre_file_stations = 'static/data/stations-llegada.json'
+            return render_template('map.html')
     else:
         with open(nombre_file_stations) as fp:
             return json.load(fp)
@@ -64,7 +75,6 @@ def sankey():
     else:
         with open('static/data/viajes.json') as fp:
             return json.load(fp)
-
 
 if __name__ == "__main__":
     app.debug = True

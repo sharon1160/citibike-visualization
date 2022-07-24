@@ -48,8 +48,8 @@ display: block;
 
 .btn-filtro{
   border:none;
-  width: 100px;
-  height: 41px;
+  width: 50px;
+  height: 30px;
   margin-bottom: 10px;
   font-weight: bold;
   color: whitesmoke;
@@ -60,4 +60,17 @@ display: block;
 
 .btn-filtro:hover{
   background-color: rgb(77, 134, 190);
+}
+
+.label-filter {
+  font-size: 13px;
+}
+
+.field-filter {
+  width: 5.5rem;
+}
+
+.filter {
+  margin-top: 0;
+  margin-bottom: 0;
 }

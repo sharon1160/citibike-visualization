@@ -17,8 +17,90 @@ d3.json("/get-stations", function (error, data) {
       .append("div")
       .attr("class", "stations");
 
-    // Draw each marker as a separate SVG element.
-    // We could use a single SVG, but what size would it have?
+    // MIN y MAX
+    colors_circles = ["#FFD324", "#E89C23", "#FF7600", "#FF422F", "#FF0000"];
+    let label_legend = "";
+    let min_value, max_value;
+    if (
+      data[72].hasOwnProperty("Nro. salidas") == true &&
+      data[72].hasOwnProperty("Nro. llegadas") == true
+    ) {
+      // CASO 1
+      let lista = d3.values(data).map(function (d) {
+        return (Object.values(d)[3] + Object.values(d)[4]) / 2;
+      });
+      label_legend = "Todos los viajes";
+      min_value = d3.min(lista);
+      max_value = d3.max(lista);
+    } else if (
+      data[72].hasOwnProperty("Nro. salidas") == true &&
+      data[72].hasOwnProperty("Nro. llegadas") == false
+    ) {
+      // CASO 2
+      let lista = d3.values(data).map(function (d) {
+        return Object.values(d)[3];
+      });
+      label_legend = "Sólo viajes de salida";
+      min_value = d3.min(lista);
+      max_value = d3.max(lista);
+    } else if (
+      data[72].hasOwnProperty("Nro. salidas") == false &&
+      data[72].hasOwnProperty("Nro. llegadas") == true
+    ) {
+      // CASO 3
+      let lista = d3.values(data).map(function (d) {
+        return Object.values(d)[3];
+      });
+      label_legend = "Sólo viajes de llegada";
+      min_value = d3.min(lista);
+      max_value = d3.max(lista);
+    }
+
+    // LEYENDA
+    let sumador = (max_value - min_value) / 5;
+    let minimo, maximo;
+    let leyenda = d3.select("#legend");
+    leyenda
+      .append("p")
+      .text(label_legend)
+      .style("margin-left", 0)
+      .style("margin-top", 0)
+      .style("margin-bottom", "4px")
+      .style("font-weight", "bold")
+      .style("font-size", "12px");
+    for (let i = 0; i < colors_circles.length; i++) {
+      let containerLegend = leyenda.append("div").style("display", "flex");
+      containerLegend
+        .append("svg")
+        .attr("width", 31)
+        .attr("height", 14)
+        .append("rect")
+        .attr("width", 30)
+        .attr("height", 10)
+        .style("fill", colors_circles[i]);
+      if (i + 1 <= 4) {
+        minimo = Math.round(min_value + sumador * i);
+        maximo = Math.round(min_value + sumador * (i + 1));
+        containerLegend
+          .append("p")
+          .text(minimo + " a " + maximo)
+          .style("margin-top", 0)
+          .style("margin-left", "2px")
+          .style("margin-bottom", 0)
+          .style("font-size", "12px");
+      } else {
+        minimo = Math.round(min_value + sumador * i);
+        containerLegend
+          .append("p")
+          .text("> " + minimo)
+          .style("margin-top", 0)
+          .style("margin-left", "2px")
+          .style("margin-bottom", 0)
+          .style("font-size", "12px");
+      }
+    }
+
+    // TOOLTIP
     overlay.draw = function () {
       let projection = this.getProjection(),
         padding = 11;
@@ -54,6 +136,7 @@ d3.json("/get-stations", function (error, data) {
               "<br><strong>Porcentaje de llegadas:</strong> " +
               d.value["Porcentaje de llegadas"];
           }
+
           return result;
         });
 
@@ -69,17 +152,6 @@ d3.json("/get-stations", function (error, data) {
         .on("mouseout", tooltip.hide);
 
       d3.select("svg").call(tooltip);
-
-      let peso = 0;
-      color = "red";
-      console.log(peso);
-      if (peso >= 117 && peso < 1788) {
-        color = "blue";
-      } else if (peso >= 1788 && peso < 3459) {
-        color = "green";
-      } else if (peso >= 3459) {
-        color = "red";
-      }
 
       // Add a circle.
       marker
@@ -102,23 +174,26 @@ d3.json("/get-stations", function (error, data) {
             peso = d.value["Nro. llegadas"];
           }
 
-          console.log(peso);
-          //min: 1228
-          //max: 32284
-          if (peso >= 0 && peso < 1228) {
-            color = "#FFD724";
-          } else if (peso >= 1228 && peso < 7930) {
-            color = "#FFB124";
-          } else if (peso >= 7930 && peso < 14632) {
-            color = "#FF8D24";
-          } else if (peso >= 14632 && peso < 21334) {
-            color = "#FF6B30";
-          } else if (peso >= 21334 && peso < 28036) {
-            color = "#FF3624";
-          } else if (peso >= 28036) {
-            color = "#FF2700";
+          if (peso >= min_value && peso < min_value + sumador) {
+            color = colors_circles[0];
+          } else if (
+            peso >= min_value + sumador &&
+            peso < min_value + sumador * 2
+          ) {
+            color = colors_circles[1];
+          } else if (
+            peso >= min_value + sumador * 2 &&
+            peso < min_value + sumador * 3
+          ) {
+            color = colors_circles[2];
+          } else if (
+            peso >= min_value + sumador * 3 &&
+            peso < min_value + sumador * 4
+          ) {
+            color = colors_circles[3];
+          } else if (peso >= min_value + sumador * 4) {
+            color = colors_circles[4];
           }
-
           return color;
         });
 

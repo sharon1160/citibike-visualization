@@ -42,7 +42,7 @@
 
     <h4 id="title-information">Viajes</h4>
     <form name="form-viajes-tipos" action="{{url_for('get_stations')}}" method="post">
-      <input type="radio" id="todo" name="viaje-tipos" value="viajes-todo" checked="checked">
+      <input type="radio" id="todo" name="viaje-tipos" value="viajes-todo">
       <label class="item" for="todo">Todos los viajes</label><br>
 
       <input type="radio" id="salida" name="viaje-tipos" value="viajes-salida">
@@ -51,16 +51,65 @@
       <input type="radio" id="llegada" name="viaje-tipos" value="viajes-llegada">
       <label class="item" for="llegada">Sólo viajes de llegada</label><br>
       <br>
-      <input type="submit" value="Submit"/>
+      <input type="submit" value="Mostrar"/>
     </form>
 
     <div id="lista-filtros-btns" style="padding-left: 0;">
       <p class="subtitle-information" for="data-statistics">Filtrar por:</p>
-      <div class="btn">
-        <button id="btn-hora" class="btn-filtro" type="submit">Hora</button>
-        <button id="btn-dia" class="btn-filtro" type="submit">Día</button>
-        <button id="btn-mes" class="btn-filtro" type="submit">Mes</button>
-      </div>
+      <!-- HOUR -->
+      <form id="form-filter-hour" action="{{url_for('get_stations')}}" method="post">
+        <p class="filter">
+        <label class="label-filter" id="hour-label" for="hour-field">Hora:</label>
+        <select class="field-filter" id="hour-field" name="hour-field">
+          <option class="select" value="select-role" disabled selected>Select hour</option>
+          <option value="0">00</option>
+          <option value="1">01</option>
+          <option value="2">02</option>
+          <option value="3">03</option>
+          <option value="4">04</option>
+          <option value="5">05</option>
+          <option value="6">06</option>
+          <option value="7">07</option>
+          <option value="8">08</option>
+          <option value="9">09</option>
+          <option value="10">10</option>
+          <option value="11">11</option>
+          <option value="12">12</option>
+          <option value="13">13</option>
+          <option value="14">14</option>
+          <option value="15">15</option>
+          <option value="16">16</option>
+          <option value="17">17</option>
+          <option value="18">18</option>
+          <option value="19">19</option>
+          <option value="20">20</option>
+          <option value="21">21</option>
+          <option value="22">22</option>
+          <option value="23">23</option>
+        </select>
+        <input type="submit" value="Filtrar"/>
+        </p>
+      </form>
+      <!-- MONTH -->
+      <form id="form-filter-month" action="{{url_for('get_stations')}}" method="post">
+        <p class="filter">
+        <label class="label-filter" id="month-label" for="month-field">Mes:</label>
+        <select class="field-filter" id="month-field" name="month-field">
+          <option class="select" value="select-role" disabled selected>Select month</option>
+          <option value="7">Julio - 2013</option>
+          <option value="8">Agosto - 2013</option>
+          <option value="9">Setiembre - 2013</option>
+          <option value="10">Octubre - 2013</option>
+          <option value="11">Noviembre - 2013</option>
+          <option value="12">Diciembre - 2013</option>
+          <option value="1">Enero - 2014</option>
+          <option value="2">Febrero - 2014</option>
+        </select>
+        <input type="submit" value="Filtrar"/>
+        </p>
+      </form>
+      <!-- DAY -->
+      <!-- <button id="btn-dia" class="btn-filtro" type="submit">Día</button> -->
     </div>
   </div>
 
@@ -69,6 +118,8 @@
     <div id="card-map" class="card" style="width:33rem; height:34rem;">
       <h3 class="subtitle">New York Stations</h3>
       <div id="map-container" style="width: 33rem; height: 32rem;"></div>
+      <div id="legend">
+      </div>
     </div>
 
     <!-- SANKEY -->
