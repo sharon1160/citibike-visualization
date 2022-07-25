@@ -1,0 +1,2972 @@
+{
+  "72": {
+    "Longitude": -73.99392888,
+    "Latitude": 40.76727216,
+    "Nombre": "W 52 St & 11 Ave",
+    "Nro. salidas": 18663,
+    "Nro. llegadas": 19962,
+    "Porcentaje de salidas": "48.32%",
+    "Porcentaje de llegadas": "51.68%"
+  },
+  "79": {
+    "Longitude": -74.00666661,
+    "Latitude": 40.71911552,
+    "Nombre": "Franklin St & W Broadway",
+    "Nro. salidas": 18765,
+    "Nro. llegadas": 18847,
+    "Porcentaje de salidas": "49.89%",
+    "Porcentaje de llegadas": "50.11%"
+  },
+  "82": {
+    "Longitude": -74.00016545,
+    "Latitude": 40.71117416,
+    "Nombre": "St James Pl & Pearl St",
+    "Nro. salidas": 7272,
+    "Nro. llegadas": 7222,
+    "Porcentaje de salidas": "50.17%",
+    "Porcentaje de llegadas": "49.83%"
+  },
+  "83": {
+    "Longitude": -73.97632328,
+    "Latitude": 40.68382604,
+    "Nombre": "Atlantic Ave & Fort Greene Pl",
+    "Nro. salidas": 9722,
+    "Nro. llegadas": 10443,
+    "Porcentaje de salidas": "48.21%",
+    "Porcentaje de llegadas": "51.79%"
+  },
+  "116": {
+    "Longitude": -74.00149746,
+    "Latitude": 40.74177603,
+    "Nombre": "W 17 St & 8 Ave",
+    "Nro. salidas": 31377,
+    "Nro. llegadas": 31083,
+    "Porcentaje de salidas": "50.24%",
+    "Porcentaje de llegadas": "49.76%"
+  },
+  "119": {
+    "Longitude": -73.97803415,
+    "Latitude": 40.69608941,
+    "Nombre": "Park Ave & St Edwards St",
+    "Nro. salidas": 1265,
+    "Nro. llegadas": 1228,
+    "Porcentaje de salidas": "50.74%",
+    "Porcentaje de llegadas": "49.26%"
+  },
+  "120": {
+    "Longitude": -73.95928168,
+    "Latitude": 40.68676793,
+    "Nombre": "Lexington Ave & Classon Ave",
+    "Nro. salidas": 3243,
+    "Nro. llegadas": 3288,
+    "Porcentaje de salidas": "49.66%",
+    "Porcentaje de llegadas": "50.34%"
+  },
+  "127": {
+    "Longitude": -74.00674436,
+    "Latitude": 40.73172428,
+    "Nombre": "Barrow St & Hudson St",
+    "Nro. salidas": 29862,
+    "Nro. llegadas": 30423,
+    "Porcentaje de salidas": "49.53%",
+    "Porcentaje de llegadas": "50.47%"
+  },
+  "128": {
+    "Longitude": -74.00297088,
+    "Latitude": 40.72710258,
+    "Nombre": "MacDougal St & Prince St",
+    "Nro. salidas": 31618,
+    "Nro. llegadas": 32284,
+    "Porcentaje de salidas": "49.48%",
+    "Porcentaje de llegadas": "50.52%"
+  },
+  "137": {
+    "Longitude": -73.972924,
+    "Latitude": 40.761628,
+    "Nombre": "E 56 St & Madison Ave",
+    "Nro. salidas": 11549,
+    "Nro. llegadas": 12454,
+    "Porcentaje de salidas": "48.11%",
+    "Porcentaje de llegadas": "51.89%"
+  },
+  "143": {
+    "Longitude": -73.99337909,
+    "Latitude": 40.69239502,
+    "Nombre": "Clinton St & Joralemon St",
+    "Nro. salidas": 5442,
+    "Nro. llegadas": 5543,
+    "Porcentaje de salidas": "49.54%",
+    "Porcentaje de llegadas": "50.46%"
+  },
+  "144": {
+    "Longitude": -73.98068914,
+    "Latitude": 40.69839895,
+    "Nombre": "Nassau St & Navy St",
+    "Nro. salidas": 2602,
+    "Nro. llegadas": 2441,
+    "Porcentaje de salidas": "51.6%",
+    "Porcentaje de llegadas": "48.4%"
+  },
+  "146": {
+    "Longitude": -74.0091059,
+    "Latitude": 40.71625008,
+    "Nombre": "Hudson St & Reade St",
+    "Nro. salidas": 14464,
+    "Nro. llegadas": 13965,
+    "Porcentaje de salidas": "50.88%",
+    "Porcentaje de llegadas": "49.12%"
+  },
+  "147": {
+    "Longitude": -74.01121978,
+    "Latitude": 40.71542197,
+    "Nombre": "Greenwich St & Warren St",
+    "Nro. salidas": 25701,
+    "Nro. llegadas": 26722,
+    "Porcentaje de salidas": "49.03%",
+    "Porcentaje de llegadas": "50.97%"
+  },
+  "150": {
+    "Longitude": -73.98085795,
+    "Latitude": 40.7208736,
+    "Nombre": "E 2 St & Avenue C",
+    "Nro. salidas": 11292,
+    "Nro. llegadas": 11381,
+    "Porcentaje de salidas": "49.8%",
+    "Porcentaje de llegadas": "50.2%"
+  },
+  "151": {
+    "Longitude": -73.99720307,
+    "Latitude": 40.7218158,
+    "Nombre": "Cleveland Pl & Spring St",
+    "Nro. salidas": 40311,
+    "Nro. llegadas": 40539,
+    "Porcentaje de salidas": "49.86%",
+    "Porcentaje de llegadas": "50.14%"
+  },
+  "152": {
+    "Longitude": -74.00910627,
+    "Latitude": 40.71473993,
+    "Nombre": "Warren St & Church St",
+    "Nro. salidas": 16158,
+    "Nro. llegadas": 16832,
+    "Porcentaje de salidas": "48.98%",
+    "Porcentaje de llegadas": "51.02%"
+  },
+  "153": {
+    "Longitude": -73.9816324043,
+    "Latitude": 40.752062307,
+    "Nombre": "E 40 St & 5 Ave",
+    "Nro. salidas": 23783,
+    "Nro. llegadas": 22830,
+    "Porcentaje de salidas": "51.02%",
+    "Porcentaje de llegadas": "48.98%"
+  },
+  "157": {
+    "Longitude": -73.99612349,
+    "Latitude": 40.69089272,
+    "Nombre": "Henry St & Atlantic Ave",
+    "Nro. salidas": 9467,
+    "Nro. llegadas": 9984,
+    "Porcentaje de salidas": "48.67%",
+    "Porcentaje de llegadas": "51.33%"
+  },
+  "160": {
+    "Longitude": -73.978311,
+    "Latitude": 40.748238,
+    "Nombre": "E 37 St & Lexington Ave",
+    "Nro. salidas": 12941,
+    "Nro. llegadas": 12644,
+    "Porcentaje de salidas": "50.58%",
+    "Porcentaje de llegadas": "49.42%"
+  },
+  "161": {
+    "Longitude": -73.99810231,
+    "Latitude": 40.72917025,
+    "Nombre": "LaGuardia Pl & W 3 St",
+    "Nro. salidas": 25360,
+    "Nro. llegadas": 25829,
+    "Porcentaje de salidas": "49.54%",
+    "Porcentaje de llegadas": "50.46%"
+  },
+  "164": {
+    "Longitude": -73.97032517,
+    "Latitude": 40.75323098,
+    "Nombre": "E 47 St & 2 Ave",
+    "Nro. salidas": 15625,
+    "Nro. llegadas": 15460,
+    "Porcentaje de salidas": "50.27%",
+    "Porcentaje de llegadas": "49.73%"
+  },
+  "167": {
+    "Longitude": -73.97604882,
+    "Latitude": 40.7489006,
+    "Nombre": "E 39 St & 3 Ave",
+    "Nro. salidas": 22300,
+    "Nro. llegadas": 21495,
+    "Porcentaje de salidas": "50.92%",
+    "Porcentaje de llegadas": "49.08%"
+  },
+  "168": {
+    "Longitude": -73.99456405,
+    "Latitude": 40.73971301,
+    "Nombre": "W 18 St & 6 Ave",
+    "Nro. salidas": 32709,
+    "Nro. llegadas": 34253,
+    "Porcentaje de salidas": "48.85%",
+    "Porcentaje de llegadas": "51.15%"
+  },
+  "173": {
+    "Longitude": -73.98442659,
+    "Latitude": 40.76064679,
+    "Nombre": "Broadway & W 49 St",
+    "Nro. salidas": 23919,
+    "Nro. llegadas": 22815,
+    "Porcentaje de salidas": "51.18%",
+    "Porcentaje de llegadas": "48.82%"
+  },
+  "174": {
+    "Longitude": -73.97738662,
+    "Latitude": 40.7381765,
+    "Nombre": "E 25 St & 1 Ave",
+    "Nro. salidas": 15180,
+    "Nro. llegadas": 14763,
+    "Porcentaje de salidas": "50.7%",
+    "Porcentaje de llegadas": "49.3%"
+  },
+  "195": {
+    "Longitude": -74.01043382,
+    "Latitude": 40.70905623,
+    "Nombre": "Liberty St & Broadway",
+    "Nro. salidas": 20573,
+    "Nro. llegadas": 20338,
+    "Porcentaje de salidas": "50.29%",
+    "Porcentaje de llegadas": "49.71%"
+  },
+  "212": {
+    "Longitude": -74.00681753,
+    "Latitude": 40.74334935,
+    "Nombre": "W 16 St & The High Line",
+    "Nro. salidas": 20364,
+    "Nro. llegadas": 20319,
+    "Porcentaje de salidas": "50.06%",
+    "Porcentaje de llegadas": "49.94%"
+  },
+  "216": {
+    "Longitude": -73.99548059,
+    "Latitude": 40.70037867,
+    "Nombre": "Columbia Heights & Cranberry St",
+    "Nro. salidas": 3892,
+    "Nro. llegadas": 3301,
+    "Porcentaje de salidas": "54.11%",
+    "Porcentaje de llegadas": "45.89%"
+  },
+  "217": {
+    "Longitude": -73.99383605,
+    "Latitude": 40.70277159,
+    "Nombre": "Old Fulton St",
+    "Nro. salidas": 8629,
+    "Nro. llegadas": 9456,
+    "Porcentaje de salidas": "47.71%",
+    "Porcentaje de llegadas": "52.29%"
+  },
+  "218": {
+    "Longitude": -73.98707105,
+    "Latitude": 40.69028437,
+    "Nombre": "Gallatin Pl & Livingston St",
+    "Nro. salidas": 2569,
+    "Nro. llegadas": 2741,
+    "Porcentaje de salidas": "48.38%",
+    "Porcentaje de llegadas": "51.62%"
+  },
+  "223": {
+    "Longitude": -73.99994661,
+    "Latitude": 40.73781509,
+    "Nombre": "W 13 St & 7 Ave",
+    "Nro. salidas": 20128,
+    "Nro. llegadas": 20128,
+    "Porcentaje de salidas": "50.0%",
+    "Porcentaje de llegadas": "50.0%"
+  },
+  "224": {
+    "Longitude": -74.00552427,
+    "Latitude": 40.71146364,
+    "Nombre": "Spruce St & Nassau St",
+    "Nro. salidas": 13451,
+    "Nro. llegadas": 13142,
+    "Porcentaje de salidas": "50.58%",
+    "Porcentaje de llegadas": "49.42%"
+  },
+  "225": {
+    "Longitude": -74.00803013,
+    "Latitude": 40.74195138,
+    "Nombre": "W 14 St & The High Line",
+    "Nro. salidas": 14673,
+    "Nro. llegadas": 16155,
+    "Porcentaje de salidas": "47.6%",
+    "Porcentaje de llegadas": "52.4%"
+  },
+  "228": {
+    "Longitude": -73.971878855,
+    "Latitude": 40.7546011026,
+    "Nombre": "E 48 St & 3 Ave",
+    "Nro. salidas": 14600,
+    "Nro. llegadas": 15293,
+    "Porcentaje de salidas": "48.84%",
+    "Porcentaje de llegadas": "51.16%"
+  },
+  "229": {
+    "Longitude": -73.99379025,
+    "Latitude": 40.72743423,
+    "Nombre": "Great Jones St",
+    "Nro. salidas": 25900,
+    "Nro. llegadas": 25739,
+    "Porcentaje de salidas": "50.16%",
+    "Porcentaje de llegadas": "49.84%"
+  },
+  "232": {
+    "Longitude": -73.99014892,
+    "Latitude": 40.69597683,
+    "Nombre": "Cadman Plaza E & Tillary St",
+    "Nro. salidas": 5829,
+    "Nro. llegadas": 5797,
+    "Porcentaje de salidas": "50.14%",
+    "Porcentaje de llegadas": "49.86%"
+  },
+  "233": {
+    "Longitude": -73.98963911,
+    "Latitude": 40.69246277,
+    "Nombre": "Joralemon St & Adams St",
+    "Nro. salidas": 12165,
+    "Nro. llegadas": 12264,
+    "Porcentaje de salidas": "49.8%",
+    "Porcentaje de llegadas": "50.2%"
+  },
+  "236": {
+    "Longitude": -73.98713956,
+    "Latitude": 40.7284186,
+    "Nombre": "St Marks Pl & 2 Ave",
+    "Nro. salidas": 23996,
+    "Nro. llegadas": 26473,
+    "Porcentaje de salidas": "47.55%",
+    "Porcentaje de llegadas": "52.45%"
+  },
+  "237": {
+    "Longitude": -73.98672378,
+    "Latitude": 40.73047309,
+    "Nombre": "E 11 St & 2 Ave",
+    "Nro. salidas": 26372,
+    "Nro. llegadas": 27197,
+    "Porcentaje de salidas": "49.23%",
+    "Porcentaje de llegadas": "50.77%"
+  },
+  "238": {
+    "Longitude": -74.00859207,
+    "Latitude": 40.7361967,
+    "Nombre": "Bank St & Washington St",
+    "Nro. salidas": 16428,
+    "Nro. llegadas": 17064,
+    "Porcentaje de salidas": "49.05%",
+    "Porcentaje de llegadas": "50.95%"
+  },
+  "239": {
+    "Longitude": -73.9813018,
+    "Latitude": 40.69196566,
+    "Nombre": "Willoughby St & Fleet St",
+    "Nro. salidas": 5732,
+    "Nro. llegadas": 5510,
+    "Porcentaje de salidas": "50.99%",
+    "Porcentaje de llegadas": "49.01%"
+  },
+  "241": {
+    "Longitude": -73.97493121,
+    "Latitude": 40.68981035,
+    "Nombre": "DeKalb Ave & S Portland Ave",
+    "Nro. salidas": 4769,
+    "Nro. llegadas": 4611,
+    "Porcentaje de salidas": "50.84%",
+    "Porcentaje de llegadas": "49.16%"
+  },
+  "242": {
+    "Longitude": -73.97350332,
+    "Latitude": 40.69788349,
+    "Nombre": "Flushing Ave & Carlton Ave",
+    "Nro. salidas": 4136,
+    "Nro. llegadas": 4159,
+    "Porcentaje de salidas": "49.86%",
+    "Porcentaje de llegadas": "50.14%"
+  },
+  "243": {
+    "Longitude": -73.978474,
+    "Latitude": 40.687979,
+    "Nombre": "Fulton St & Rockwell Pl",
+    "Nro. salidas": 11602,
+    "Nro. llegadas": 10178,
+    "Porcentaje de salidas": "53.27%",
+    "Porcentaje de llegadas": "46.73%"
+  },
+  "244": {
+    "Longitude": -73.96536851,
+    "Latitude": 40.69196035,
+    "Nombre": "Willoughby Ave & Hall St",
+    "Nro. salidas": 5424,
+    "Nro. llegadas": 5269,
+    "Porcentaje de salidas": "50.72%",
+    "Porcentaje de llegadas": "49.28%"
+  },
+  "245": {
+    "Longitude": -73.97703874,
+    "Latitude": 40.69327018,
+    "Nombre": "Myrtle Ave & St Edwards St",
+    "Nro. salidas": 2246,
+    "Nro. llegadas": 1865,
+    "Porcentaje de salidas": "54.63%",
+    "Porcentaje de llegadas": "45.37%"
+  },
+  "247": {
+    "Longitude": -74.00483091,
+    "Latitude": 40.73535398,
+    "Nombre": "Perry St & Bleecker St",
+    "Nro. salidas": 15435,
+    "Nro. llegadas": 15476,
+    "Porcentaje de salidas": "49.93%",
+    "Porcentaje de llegadas": "50.07%"
+  },
+  "248": {
+    "Longitude": -74.00771779,
+    "Latitude": 40.72185379,
+    "Nombre": "Laight St & Hudson St",
+    "Nro. salidas": 5565,
+    "Nro. llegadas": 5404,
+    "Porcentaje de salidas": "50.73%",
+    "Porcentaje de llegadas": "49.27%"
+  },
+  "249": {
+    "Longitude": -74.0090009,
+    "Latitude": 40.71870987,
+    "Nombre": "Harrison St & Hudson St",
+    "Nro. salidas": 10267,
+    "Nro. llegadas": 10146,
+    "Porcentaje de salidas": "50.3%",
+    "Porcentaje de llegadas": "49.7%"
+  },
+  "250": {
+    "Longitude": -73.99565293,
+    "Latitude": 40.72456089,
+    "Nombre": "Lafayette St & Jersey St",
+    "Nro. salidas": 10819,
+    "Nro. llegadas": 10725,
+    "Porcentaje de salidas": "50.22%",
+    "Porcentaje de llegadas": "49.78%"
+  },
+  "251": {
+    "Longitude": -73.99480012,
+    "Latitude": 40.72317958,
+    "Nombre": "Mott St & Prince St",
+    "Nro. salidas": 25368,
+    "Nro. llegadas": 25691,
+    "Porcentaje de salidas": "49.68%",
+    "Porcentaje de llegadas": "50.32%"
+  },
+  "252": {
+    "Longitude": -73.99852205,
+    "Latitude": 40.73226398,
+    "Nombre": "MacDougal St & Washington Sq",
+    "Nro. salidas": 16771,
+    "Nro. llegadas": 16388,
+    "Porcentaje de salidas": "50.58%",
+    "Porcentaje de llegadas": "49.42%"
+  },
+  "253": {
+    "Longitude": -73.99453948,
+    "Latitude": 40.73543934,
+    "Nombre": "W 13 St & 5 Ave",
+    "Nro. salidas": 19202,
+    "Nro. llegadas": 19208,
+    "Porcentaje de salidas": "49.99%",
+    "Porcentaje de llegadas": "50.01%"
+  },
+  "254": {
+    "Longitude": -73.99800419,
+    "Latitude": 40.73532427,
+    "Nombre": "W 11 St & 6 Ave",
+    "Nro. salidas": 18669,
+    "Nro. llegadas": 19330,
+    "Porcentaje de salidas": "49.13%",
+    "Porcentaje de llegadas": "50.87%"
+  },
+  "257": {
+    "Longitude": -74.00247214,
+    "Latitude": 40.71939226,
+    "Nombre": "Lispenard St & Broadway",
+    "Nro. salidas": 15429,
+    "Nro. llegadas": 15909,
+    "Porcentaje de salidas": "49.23%",
+    "Porcentaje de llegadas": "50.77%"
+  },
+  "258": {
+    "Longitude": -73.96885458,
+    "Latitude": 40.68940747,
+    "Nombre": "DeKalb Ave & Vanderbilt Ave",
+    "Nro. salidas": 5243,
+    "Nro. llegadas": 4771,
+    "Porcentaje de salidas": "52.36%",
+    "Porcentaje de llegadas": "47.64%"
+  },
+  "259": {
+    "Longitude": -74.01234218,
+    "Latitude": 40.70122128,
+    "Nombre": "South St & Whitehall St",
+    "Nro. salidas": 10453,
+    "Nro. llegadas": 10615,
+    "Porcentaje de salidas": "49.62%",
+    "Porcentaje de llegadas": "50.38%"
+  },
+  "260": {
+    "Longitude": -74.01167797,
+    "Latitude": 40.70365182,
+    "Nombre": "Broad St & Bridge St",
+    "Nro. salidas": 7185,
+    "Nro. llegadas": 7009,
+    "Porcentaje de salidas": "50.62%",
+    "Porcentaje de llegadas": "49.38%"
+  },
+  "261": {
+    "Longitude": -73.98362464,
+    "Latitude": 40.69474881,
+    "Nombre": "Johnson St & Gold St",
+    "Nro. salidas": 6223,
+    "Nro. llegadas": 6504,
+    "Porcentaje de salidas": "48.9%",
+    "Porcentaje de llegadas": "51.1%"
+  },
+  "262": {
+    "Longitude": -73.97372989,
+    "Latitude": 40.69178232,
+    "Nombre": "Washington Park",
+    "Nro. salidas": 4399,
+    "Nro. llegadas": 3969,
+    "Porcentaje de salidas": "52.57%",
+    "Porcentaje de llegadas": "47.43%"
+  },
+  "263": {
+    "Longitude": -73.996375,
+    "Latitude": 40.71729,
+    "Nombre": "Elizabeth St & Hester St",
+    "Nro. salidas": 20430,
+    "Nro. llegadas": 20519,
+    "Porcentaje de salidas": "49.89%",
+    "Porcentaje de llegadas": "50.11%"
+  },
+  "264": {
+    "Longitude": -74.00731853,
+    "Latitude": 40.70706456,
+    "Nombre": "Maiden Ln & Pearl St",
+    "Nro. salidas": 16608,
+    "Nro. llegadas": 17071,
+    "Porcentaje de salidas": "49.31%",
+    "Porcentaje de llegadas": "50.69%"
+  },
+  "265": {
+    "Longitude": -73.99147535,
+    "Latitude": 40.72229346,
+    "Nombre": "Stanton St & Chrystie St",
+    "Nro. salidas": 16214,
+    "Nro. llegadas": 17006,
+    "Porcentaje de salidas": "48.81%",
+    "Porcentaje de llegadas": "51.19%"
+  },
+  "266": {
+    "Longitude": -73.97574813,
+    "Latitude": 40.72368361,
+    "Nombre": "Avenue D & E 8 St",
+    "Nro. salidas": 5343,
+    "Nro. llegadas": 5405,
+    "Porcentaje de salidas": "49.71%",
+    "Porcentaje de llegadas": "50.29%"
+  },
+  "267": {
+    "Longitude": -73.98765428,
+    "Latitude": 40.75097711,
+    "Nombre": "Broadway & W 36 St",
+    "Nro. salidas": 12987,
+    "Nro. llegadas": 11855,
+    "Porcentaje de salidas": "52.28%",
+    "Porcentaje de llegadas": "47.72%"
+  },
+  "268": {
+    "Longitude": -73.99973337,
+    "Latitude": 40.71910537,
+    "Nombre": "Howard St & Centre St",
+    "Nro. salidas": 20309,
+    "Nro. llegadas": 20591,
+    "Porcentaje de salidas": "49.66%",
+    "Porcentaje de llegadas": "50.34%"
+  },
+  "270": {
+    "Longitude": -73.97178913,
+    "Latitude": 40.69308257,
+    "Nombre": "Adelphi St & Myrtle Ave",
+    "Nro. salidas": 7078,
+    "Nro. llegadas": 6950,
+    "Porcentaje de salidas": "50.46%",
+    "Porcentaje de llegadas": "49.54%"
+  },
+  "271": {
+    "Longitude": -73.97805813,
+    "Latitude": 40.68528172,
+    "Nombre": "Ashland Pl & Hanson Pl",
+    "Nro. salidas": 11114,
+    "Nro. llegadas": 11634,
+    "Porcentaje de salidas": "48.86%",
+    "Porcentaje de llegadas": "51.14%"
+  },
+  "274": {
+    "Longitude": -73.976682,
+    "Latitude": 40.68691865,
+    "Nombre": "Lafayette Ave & Fort Greene Pl",
+    "Nro. salidas": 5964,
+    "Nro. llegadas": 6241,
+    "Porcentaje de salidas": "48.87%",
+    "Porcentaje de llegadas": "51.13%"
+  },
+  "275": {
+    "Longitude": -73.96563307,
+    "Latitude": 40.68650065,
+    "Nombre": "Washington Ave & Greene Ave",
+    "Nro. salidas": 3174,
+    "Nro. llegadas": 3093,
+    "Porcentaje de salidas": "50.65%",
+    "Porcentaje de llegadas": "49.35%"
+  },
+  "276": {
+    "Longitude": -74.0104554,
+    "Latitude": 40.71748752,
+    "Nombre": "Duane St & Greenwich St",
+    "Nro. salidas": 12005,
+    "Nro. llegadas": 12237,
+    "Porcentaje de salidas": "49.52%",
+    "Porcentaje de llegadas": "50.48%"
+  },
+  "278": {
+    "Longitude": -73.98476437,
+    "Latitude": 40.69766564,
+    "Nombre": "Concord St & Bridge St",
+    "Nro. salidas": 2999,
+    "Nro. llegadas": 2919,
+    "Porcentaje de salidas": "50.68%",
+    "Porcentaje de llegadas": "49.32%"
+  },
+  "279": {
+    "Longitude": -73.98271933,
+    "Latitude": 40.69986937,
+    "Nombre": "Sands St & Gold St",
+    "Nro. salidas": 2589,
+    "Nro. llegadas": 2719,
+    "Porcentaje de salidas": "48.78%",
+    "Porcentaje de llegadas": "51.22%"
+  },
+  "280": {
+    "Longitude": -73.99510132,
+    "Latitude": 40.73331967,
+    "Nombre": "E 10 St & 5 Ave",
+    "Nro. salidas": 17958,
+    "Nro. llegadas": 17875,
+    "Porcentaje de salidas": "50.12%",
+    "Porcentaje de llegadas": "49.88%"
+  },
+  "281": {
+    "Longitude": -73.97371465,
+    "Latitude": 40.7643971,
+    "Nombre": "Grand Army Plaza & Central Park S",
+    "Nro. salidas": 28683,
+    "Nro. llegadas": 29642,
+    "Porcentaje de salidas": "49.18%",
+    "Porcentaje de llegadas": "50.82%"
+  },
+  "282": {
+    "Longitude": -73.96834101,
+    "Latitude": 40.70827295,
+    "Nombre": "Kent Ave & S 11 St",
+    "Nro. salidas": 3605,
+    "Nro. llegadas": 3768,
+    "Porcentaje de salidas": "48.89%",
+    "Porcentaje de llegadas": "51.11%"
+  },
+  "284": {
+    "Longitude": -74.0026376103,
+    "Latitude": 40.7390169121,
+    "Nombre": "Greenwich Ave & 8 Ave",
+    "Nro. salidas": 35959,
+    "Nro. llegadas": 37739,
+    "Porcentaje de salidas": "48.79%",
+    "Porcentaje de llegadas": "51.21%"
+  },
+  "285": {
+    "Longitude": -73.99074142,
+    "Latitude": 40.73454567,
+    "Nombre": "Broadway & E 14 St",
+    "Nro. salidas": 46200,
+    "Nro. llegadas": 45464,
+    "Porcentaje de salidas": "50.4%",
+    "Porcentaje de llegadas": "49.6%"
+  },
+  "289": {
+    "Longitude": -73.95881081,
+    "Latitude": 40.6845683,
+    "Nombre": "Monroe St & Classon Ave",
+    "Nro. salidas": 1905,
+    "Nro. llegadas": 1823,
+    "Porcentaje de salidas": "51.1%",
+    "Porcentaje de llegadas": "48.9%"
+  },
+  "290": {
+    "Longitude": -73.96478473,
+    "Latitude": 40.76020258,
+    "Nombre": "2 Ave & E 58 St",
+    "Nro. salidas": 19113,
+    "Nro. llegadas": 18533,
+    "Porcentaje de salidas": "50.77%",
+    "Porcentaje de llegadas": "49.23%"
+  },
+  "291": {
+    "Longitude": -73.984844,
+    "Latitude": 40.713126,
+    "Nombre": "Madison St & Montgomery St",
+    "Nro. salidas": 8454,
+    "Nro. llegadas": 8548,
+    "Porcentaje de salidas": "49.72%",
+    "Porcentaje de llegadas": "50.28%"
+  },
+  "293": {
+    "Longitude": -73.9907647,
+    "Latitude": 40.73028666,
+    "Nombre": "Lafayette St & E 8 St",
+    "Nro. salidas": 52832,
+    "Nro. llegadas": 51988,
+    "Porcentaje de salidas": "50.4%",
+    "Porcentaje de llegadas": "49.6%"
+  },
+  "294": {
+    "Longitude": -73.9957214,
+    "Latitude": 40.73049393,
+    "Nombre": "Washington Square E",
+    "Nro. salidas": 26525,
+    "Nro. llegadas": 26608,
+    "Porcentaje de salidas": "49.92%",
+    "Porcentaje de llegadas": "50.08%"
+  },
+  "295": {
+    "Longitude": -73.99293911,
+    "Latitude": 40.71406667,
+    "Nombre": "Pike St & E Broadway",
+    "Nro. salidas": 9371,
+    "Nro. llegadas": 9295,
+    "Porcentaje de salidas": "50.2%",
+    "Porcentaje de llegadas": "49.8%"
+  },
+  "296": {
+    "Longitude": -73.9970468,
+    "Latitude": 40.71413089,
+    "Nombre": "Division St & Bowery",
+    "Nro. salidas": 13367,
+    "Nro. llegadas": 13799,
+    "Porcentaje de salidas": "49.2%",
+    "Porcentaje de llegadas": "50.8%"
+  },
+  "297": {
+    "Longitude": -73.986923,
+    "Latitude": 40.734232,
+    "Nombre": "E 15 St & 3 Ave",
+    "Nro. salidas": 19882,
+    "Nro. llegadas": 20283,
+    "Porcentaje de salidas": "49.5%",
+    "Porcentaje de llegadas": "50.5%"
+  },
+  "298": {
+    "Longitude": -73.9796772,
+    "Latitude": 40.68683208,
+    "Nombre": "3 Ave & Schermerhorn St",
+    "Nro. salidas": 2694,
+    "Nro. llegadas": 2938,
+    "Porcentaje de salidas": "47.83%",
+    "Porcentaje de llegadas": "52.17%"
+  },
+  "300": {
+    "Longitude": -73.990214,
+    "Latitude": 40.728145,
+    "Nombre": "Shevchenko Pl & E 6 St",
+    "Nro. salidas": 15243,
+    "Nro. llegadas": 16062,
+    "Porcentaje de salidas": "48.69%",
+    "Porcentaje de llegadas": "51.31%"
+  },
+  "301": {
+    "Longitude": -73.98368779,
+    "Latitude": 40.72217444,
+    "Nombre": "E 2 St & Avenue B",
+    "Nro. salidas": 21604,
+    "Nro. llegadas": 22682,
+    "Porcentaje de salidas": "48.78%",
+    "Porcentaje de llegadas": "51.22%"
+  },
+  "302": {
+    "Longitude": -73.97793172,
+    "Latitude": 40.72082834,
+    "Nombre": "Avenue D & E 3 St",
+    "Nro. salidas": 6652,
+    "Nro. llegadas": 6606,
+    "Porcentaje de salidas": "50.17%",
+    "Porcentaje de llegadas": "49.83%"
+  },
+  "303": {
+    "Longitude": -73.99949601,
+    "Latitude": 40.72362738,
+    "Nombre": "Mercer St & Spring St",
+    "Nro. salidas": 18182,
+    "Nro. llegadas": 19502,
+    "Porcentaje de salidas": "48.25%",
+    "Porcentaje de llegadas": "51.75%"
+  },
+  "304": {
+    "Longitude": -74.01361706,
+    "Latitude": 40.70463334,
+    "Nombre": "Broadway & Battery Pl",
+    "Nro. salidas": 17576,
+    "Nro. llegadas": 18503,
+    "Porcentaje de salidas": "48.72%",
+    "Porcentaje de llegadas": "51.28%"
+  },
+  "305": {
+    "Longitude": -73.96724467,
+    "Latitude": 40.76095756,
+    "Nombre": "E 58 St & 3 Ave",
+    "Nro. salidas": 23185,
+    "Nro. llegadas": 23823,
+    "Porcentaje de salidas": "49.32%",
+    "Porcentaje de llegadas": "50.68%"
+  },
+  "306": {
+    "Longitude": -74.00530063,
+    "Latitude": 40.70823502,
+    "Nombre": "Cliff St & Fulton St",
+    "Nro. salidas": 18343,
+    "Nro. llegadas": 18976,
+    "Porcentaje de salidas": "49.15%",
+    "Porcentaje de llegadas": "50.85%"
+  },
+  "307": {
+    "Longitude": -73.98990025,
+    "Latitude": 40.71427487,
+    "Nombre": "Canal St & Rutgers St",
+    "Nro. salidas": 18861,
+    "Nro. llegadas": 18286,
+    "Porcentaje de salidas": "50.77%",
+    "Porcentaje de llegadas": "49.23%"
+  },
+  "308": {
+    "Longitude": -73.99851193,
+    "Latitude": 40.71307916,
+    "Nombre": "St James Pl & Oliver St",
+    "Nro. salidas": 10706,
+    "Nro. llegadas": 10928,
+    "Porcentaje de salidas": "49.49%",
+    "Porcentaje de llegadas": "50.51%"
+  },
+  "309": {
+    "Longitude": -74.013012,
+    "Latitude": 40.7149787,
+    "Nombre": "Murray St & West St",
+    "Nro. salidas": 13197,
+    "Nro. llegadas": 14710,
+    "Porcentaje de salidas": "47.29%",
+    "Porcentaje de llegadas": "52.71%"
+  },
+  "310": {
+    "Longitude": -73.98912867,
+    "Latitude": 40.68926942,
+    "Nombre": "State St & Smith St",
+    "Nro. salidas": 10616,
+    "Nro. llegadas": 11779,
+    "Porcentaje de salidas": "47.4%",
+    "Porcentaje de llegadas": "52.6%"
+  },
+  "311": {
+    "Longitude": -73.98802084,
+    "Latitude": 40.7172274,
+    "Nombre": "Norfolk St & Broome St",
+    "Nro. salidas": 14122,
+    "Nro. llegadas": 13954,
+    "Porcentaje de salidas": "50.3%",
+    "Porcentaje de llegadas": "49.7%"
+  },
+  "312": {
+    "Longitude": -73.989111,
+    "Latitude": 40.722055,
+    "Nombre": "Allen St & E Houston St",
+    "Nro. salidas": 22736,
+    "Nro. llegadas": 23329,
+    "Porcentaje de salidas": "49.36%",
+    "Porcentaje de llegadas": "50.64%"
+  },
+  "313": {
+    "Longitude": -73.96751037,
+    "Latitude": 40.69610226,
+    "Nombre": "Washington Ave & Park Ave",
+    "Nro. salidas": 4757,
+    "Nro. llegadas": 5279,
+    "Porcentaje de salidas": "47.4%",
+    "Porcentaje de llegadas": "52.6%"
+  },
+  "314": {
+    "Longitude": -73.99215922,
+    "Latitude": 40.69424674,
+    "Nombre": "Montague St & Clinton St",
+    "Nro. salidas": 6299,
+    "Nro. llegadas": 5867,
+    "Porcentaje de salidas": "51.78%",
+    "Porcentaje de llegadas": "48.22%"
+  },
+  "315": {
+    "Longitude": -74.00670227,
+    "Latitude": 40.70355377,
+    "Nombre": "South St & Gouverneur Ln",
+    "Nro. salidas": 14850,
+    "Nro. llegadas": 15203,
+    "Porcentaje de salidas": "49.41%",
+    "Porcentaje de llegadas": "50.59%"
+  },
+  "316": {
+    "Longitude": -74.00653609,
+    "Latitude": 40.70955958,
+    "Nombre": "Fulton St & William St",
+    "Nro. salidas": 13524,
+    "Nro. llegadas": 13055,
+    "Porcentaje de salidas": "50.88%",
+    "Porcentaje de llegadas": "49.12%"
+  },
+  "317": {
+    "Longitude": -73.98185424,
+    "Latitude": 40.72453734,
+    "Nombre": "E 6 St & Avenue B",
+    "Nro. salidas": 21522,
+    "Nro. llegadas": 20379,
+    "Porcentaje de salidas": "51.36%",
+    "Porcentaje de llegadas": "48.64%"
+  },
+  "318": {
+    "Longitude": -73.9779874,
+    "Latitude": 40.75320159,
+    "Nombre": "E 43 St & Vanderbilt Ave",
+    "Nro. salidas": 36299,
+    "Nro. llegadas": 34364,
+    "Porcentaje de salidas": "51.37%",
+    "Porcentaje de llegadas": "48.63%"
+  },
+  "319": {
+    "Longitude": -74.00937622,
+    "Latitude": 40.71336124,
+    "Nombre": "Park Pl & Church St",
+    "Nro. salidas": 16370,
+    "Nro. llegadas": 16670,
+    "Porcentaje de salidas": "49.55%",
+    "Porcentaje de llegadas": "50.45%"
+  },
+  "320": {
+    "Longitude": -74.00583475,
+    "Latitude": 40.71743998,
+    "Nombre": "Church St & Leonard St",
+    "Nro. salidas": 14098,
+    "Nro. llegadas": 13893,
+    "Porcentaje de salidas": "50.37%",
+    "Porcentaje de llegadas": "49.63%"
+  },
+  "321": {
+    "Longitude": -73.98971773,
+    "Latitude": 40.69991755,
+    "Nombre": "Cadman Plaza E & Red Cross Pl",
+    "Nro. salidas": 840,
+    "Nro. llegadas": 802,
+    "Porcentaje de salidas": "51.16%",
+    "Porcentaje de llegadas": "48.84%"
+  },
+  "322": {
+    "Longitude": -73.991218,
+    "Latitude": 40.696192,
+    "Nombre": "Clinton St & Tillary St",
+    "Nro. salidas": 6696,
+    "Nro. llegadas": 6425,
+    "Porcentaje de salidas": "51.03%",
+    "Porcentaje de llegadas": "48.97%"
+  },
+  "323": {
+    "Longitude": -73.98631746,
+    "Latitude": 40.69236178,
+    "Nombre": "Lawrence St & Willoughby St",
+    "Nro. salidas": 29285,
+    "Nro. llegadas": 29801,
+    "Porcentaje de salidas": "49.56%",
+    "Porcentaje de llegadas": "50.44%"
+  },
+  "324": {
+    "Longitude": -73.981013,
+    "Latitude": 40.689888,
+    "Nombre": "DeKalb Ave & Hudson Ave",
+    "Nro. salidas": 12179,
+    "Nro. llegadas": 13647,
+    "Porcentaje de salidas": "47.16%",
+    "Porcentaje de llegadas": "52.84%"
+  },
+  "325": {
+    "Longitude": -73.98473765,
+    "Latitude": 40.73624527,
+    "Nombre": "E 19 St & 3 Ave",
+    "Nro. salidas": 21910,
+    "Nro. llegadas": 21510,
+    "Porcentaje de salidas": "50.46%",
+    "Porcentaje de llegadas": "49.54%"
+  },
+  "326": {
+    "Longitude": -73.98426726,
+    "Latitude": 40.72953837,
+    "Nombre": "E 11 St & 1 Ave",
+    "Nro. salidas": 24057,
+    "Nro. llegadas": 23847,
+    "Porcentaje de salidas": "50.22%",
+    "Porcentaje de llegadas": "49.78%"
+  },
+  "327": {
+    "Longitude": -74.01658354,
+    "Latitude": 40.7153379,
+    "Nombre": "Vesey Pl & River Terrace",
+    "Nro. salidas": 33022,
+    "Nro. llegadas": 33141,
+    "Porcentaje de salidas": "49.91%",
+    "Porcentaje de llegadas": "50.09%"
+  },
+  "328": {
+    "Longitude": -74.00965965,
+    "Latitude": 40.72405549,
+    "Nombre": "Watts St & Greenwich St",
+    "Nro. salidas": 17993,
+    "Nro. llegadas": 18266,
+    "Porcentaje de salidas": "49.62%",
+    "Porcentaje de llegadas": "50.38%"
+  },
+  "329": {
+    "Longitude": -74.01020609,
+    "Latitude": 40.72043411,
+    "Nombre": "Greenwich St & N Moore St",
+    "Nro. salidas": 22436,
+    "Nro. llegadas": 23513,
+    "Porcentaje de salidas": "48.83%",
+    "Porcentaje de llegadas": "51.17%"
+  },
+  "330": {
+    "Longitude": -74.00562789,
+    "Latitude": 40.71450451,
+    "Nombre": "Reade St & Broadway",
+    "Nro. salidas": 13351,
+    "Nro. llegadas": 12621,
+    "Porcentaje de salidas": "51.41%",
+    "Porcentaje de llegadas": "48.59%"
+  },
+  "331": {
+    "Longitude": -73.99193043,
+    "Latitude": 40.71173107,
+    "Nombre": "Pike St & Monroe St",
+    "Nro. salidas": 6792,
+    "Nro. llegadas": 6765,
+    "Porcentaje de salidas": "50.1%",
+    "Porcentaje de llegadas": "49.9%"
+  },
+  "332": {
+    "Longitude": -73.97948148,
+    "Latitude": 40.71219906,
+    "Nombre": "Cherry St",
+    "Nro. salidas": 7225,
+    "Nro. llegadas": 7409,
+    "Porcentaje de salidas": "49.37%",
+    "Porcentaje de llegadas": "50.63%"
+  },
+  "334": {
+    "Longitude": -73.99726235,
+    "Latitude": 40.74238787,
+    "Nombre": "W 20 St & 7 Ave",
+    "Nro. salidas": 24978,
+    "Nro. llegadas": 24666,
+    "Porcentaje de salidas": "50.31%",
+    "Porcentaje de llegadas": "49.69%"
+  },
+  "335": {
+    "Longitude": -73.99404649,
+    "Latitude": 40.72903917,
+    "Nombre": "Washington Pl & Broadway",
+    "Nro. salidas": 20522,
+    "Nro. llegadas": 20026,
+    "Porcentaje de salidas": "50.61%",
+    "Porcentaje de llegadas": "49.39%"
+  },
+  "336": {
+    "Longitude": -73.99906065,
+    "Latitude": 40.73047747,
+    "Nombre": "Sullivan St & Washington Sq",
+    "Nro. salidas": 21587,
+    "Nro. llegadas": 23013,
+    "Porcentaje de salidas": "48.4%",
+    "Porcentaje de llegadas": "51.6%"
+  },
+  "337": {
+    "Longitude": -74.00838676,
+    "Latitude": 40.7037992,
+    "Nombre": "Old Slip & Front St",
+    "Nro. salidas": 9486,
+    "Nro. llegadas": 9723,
+    "Porcentaje de salidas": "49.38%",
+    "Porcentaje de llegadas": "50.62%"
+  },
+  "339": {
+    "Longitude": -73.97422494,
+    "Latitude": 40.72580614,
+    "Nombre": "Avenue D & E 12 St",
+    "Nro. salidas": 3109,
+    "Nro. llegadas": 2951,
+    "Porcentaje de salidas": "51.3%",
+    "Porcentaje de llegadas": "48.7%"
+  },
+  "340": {
+    "Longitude": -73.98776323,
+    "Latitude": 40.71269042,
+    "Nombre": "Madison St & Clinton St",
+    "Nro. salidas": 7879,
+    "Nro. llegadas": 7765,
+    "Porcentaje de salidas": "50.36%",
+    "Porcentaje de llegadas": "49.64%"
+  },
+  "341": {
+    "Longitude": -73.97628939,
+    "Latitude": 40.71782143,
+    "Nombre": "Stanton St & Mangin St",
+    "Nro. salidas": 7371,
+    "Nro. llegadas": 7387,
+    "Porcentaje de salidas": "49.95%",
+    "Porcentaje de llegadas": "50.05%"
+  },
+  "342": {
+    "Longitude": -73.98016555,
+    "Latitude": 40.71739973,
+    "Nombre": "Columbia St & Rivington St",
+    "Nro. salidas": 8908,
+    "Nro. llegadas": 9113,
+    "Porcentaje de salidas": "49.43%",
+    "Porcentaje de llegadas": "50.57%"
+  },
+  "343": {
+    "Longitude": -73.96986848,
+    "Latitude": 40.69794,
+    "Nombre": "Clinton Ave & Flushing Ave",
+    "Nro. salidas": 2631,
+    "Nro. llegadas": 3022,
+    "Porcentaje de salidas": "46.54%",
+    "Porcentaje de llegadas": "53.46%"
+  },
+  "344": {
+    "Longitude": -73.95380904,
+    "Latitude": 40.6851443,
+    "Nombre": "Monroe St & Bedford Ave",
+    "Nro. salidas": 2698,
+    "Nro. llegadas": 3108,
+    "Porcentaje de salidas": "46.47%",
+    "Porcentaje de llegadas": "53.53%"
+  },
+  "345": {
+    "Longitude": -73.99704374,
+    "Latitude": 40.73649403,
+    "Nombre": "W 13 St & 6 Ave",
+    "Nro. salidas": 26951,
+    "Nro. llegadas": 26719,
+    "Porcentaje de salidas": "50.22%",
+    "Porcentaje de llegadas": "49.78%"
+  },
+  "346": {
+    "Longitude": -74.00618026,
+    "Latitude": 40.73652889,
+    "Nombre": "Bank St & Hudson St",
+    "Nro. salidas": 18332,
+    "Nro. llegadas": 18494,
+    "Porcentaje de salidas": "49.78%",
+    "Porcentaje de llegadas": "50.22%"
+  },
+  "347": {
+    "Longitude": -74.00748842,
+    "Latitude": 40.72873888,
+    "Nombre": "W Houston St & Hudson St",
+    "Nro. salidas": 31196,
+    "Nro. llegadas": 31868,
+    "Porcentaje de salidas": "49.47%",
+    "Porcentaje de llegadas": "50.53%"
+  },
+  "348": {
+    "Longitude": -74.00154702,
+    "Latitude": 40.72490985,
+    "Nombre": "W Broadway & Spring St",
+    "Nro. salidas": 23823,
+    "Nro. llegadas": 25900,
+    "Porcentaje de salidas": "47.91%",
+    "Porcentaje de llegadas": "52.09%"
+  },
+  "349": {
+    "Longitude": -73.98329859,
+    "Latitude": 40.71850211,
+    "Nombre": "Rivington St & Ridge St",
+    "Nro. salidas": 9915,
+    "Nro. llegadas": 9854,
+    "Porcentaje de salidas": "50.15%",
+    "Porcentaje de llegadas": "49.85%"
+  },
+  "350": {
+    "Longitude": -73.9870295,
+    "Latitude": 40.71559509,
+    "Nombre": "Clinton St & Grand St",
+    "Nro. salidas": 14344,
+    "Nro. llegadas": 14474,
+    "Porcentaje de salidas": "49.77%",
+    "Porcentaje de llegadas": "50.23%"
+  },
+  "351": {
+    "Longitude": -74.00612572,
+    "Latitude": 40.70530954,
+    "Nombre": "Front St & Maiden Ln",
+    "Nro. salidas": 11876,
+    "Nro. llegadas": 12424,
+    "Porcentaje de salidas": "48.87%",
+    "Porcentaje de llegadas": "51.13%"
+  },
+  "352": {
+    "Longitude": -73.97722479,
+    "Latitude": 40.76340613,
+    "Nombre": "W 56 St & 6 Ave",
+    "Nro. salidas": 23088,
+    "Nro. llegadas": 24017,
+    "Porcentaje de salidas": "49.01%",
+    "Porcentaje de llegadas": "50.99%"
+  },
+  "353": {
+    "Longitude": -73.97431458,
+    "Latitude": 40.68539567,
+    "Nombre": "S Portland Ave & Hanson Pl",
+    "Nro. salidas": 3352,
+    "Nro. llegadas": 3366,
+    "Porcentaje de salidas": "49.9%",
+    "Porcentaje de llegadas": "50.1%"
+  },
+  "354": {
+    "Longitude": -73.96223558,
+    "Latitude": 40.69363137,
+    "Nombre": "Emerson Pl & Myrtle Ave",
+    "Nro. salidas": 3678,
+    "Nro. llegadas": 3936,
+    "Porcentaje de salidas": "48.31%",
+    "Porcentaje de llegadas": "51.69%"
+  },
+  "355": {
+    "Longitude": -73.99974372,
+    "Latitude": 40.71602118,
+    "Nombre": "Bayard St & Baxter St",
+    "Nro. salidas": 16733,
+    "Nro. llegadas": 16656,
+    "Porcentaje de salidas": "50.12%",
+    "Porcentaje de llegadas": "49.88%"
+  },
+  "356": {
+    "Longitude": -73.98261206,
+    "Latitude": 40.71622644,
+    "Nombre": "Bialystoker Pl & Delancey St",
+    "Nro. salidas": 9028,
+    "Nro. llegadas": 8737,
+    "Porcentaje de salidas": "50.82%",
+    "Porcentaje de llegadas": "49.18%"
+  },
+  "357": {
+    "Longitude": -73.99158043,
+    "Latitude": 40.73261787,
+    "Nombre": "E 11 St & Broadway",
+    "Nro. salidas": 16467,
+    "Nro. llegadas": 16743,
+    "Porcentaje de salidas": "49.58%",
+    "Porcentaje de llegadas": "50.42%"
+  },
+  "358": {
+    "Longitude": -74.00711384,
+    "Latitude": 40.73291553,
+    "Nombre": "Christopher St & Greenwich St",
+    "Nro. salidas": 32169,
+    "Nro. llegadas": 33132,
+    "Porcentaje de salidas": "49.26%",
+    "Porcentaje de llegadas": "50.74%"
+  },
+  "359": {
+    "Longitude": -73.97498696,
+    "Latitude": 40.75510267,
+    "Nombre": "E 47 St & Park Ave",
+    "Nro. salidas": 19086,
+    "Nro. llegadas": 20437,
+    "Porcentaje de salidas": "48.29%",
+    "Porcentaje de llegadas": "51.71%"
+  },
+  "360": {
+    "Longitude": -74.00887308,
+    "Latitude": 40.70717936,
+    "Nombre": "William St & Pine St",
+    "Nro. salidas": 13233,
+    "Nro. llegadas": 12423,
+    "Porcentaje de salidas": "51.58%",
+    "Porcentaje de llegadas": "48.42%"
+  },
+  "361": {
+    "Longitude": -73.99190759,
+    "Latitude": 40.71605866,
+    "Nombre": "Allen St & Hester St",
+    "Nro. salidas": 18160,
+    "Nro. llegadas": 18062,
+    "Porcentaje de salidas": "50.14%",
+    "Porcentaje de llegadas": "49.86%"
+  },
+  "362": {
+    "Longitude": -73.98753523,
+    "Latitude": 40.75172632,
+    "Nombre": "Broadway & W 37 St",
+    "Nro. salidas": 11833,
+    "Nro. llegadas": 9818,
+    "Porcentaje de salidas": "54.65%",
+    "Porcentaje de llegadas": "45.35%"
+  },
+  "363": {
+    "Longitude": -74.01713445,
+    "Latitude": 40.70834698,
+    "Nombre": "West Thames St",
+    "Nro. salidas": 26311,
+    "Nro. llegadas": 25346,
+    "Porcentaje de salidas": "50.93%",
+    "Porcentaje de llegadas": "49.07%"
+  },
+  "364": {
+    "Longitude": -73.96023854,
+    "Latitude": 40.68900443,
+    "Nombre": "Lafayette Ave & Classon Ave",
+    "Nro. salidas": 3844,
+    "Nro. llegadas": 3689,
+    "Porcentaje de salidas": "51.03%",
+    "Porcentaje de llegadas": "48.97%"
+  },
+  "365": {
+    "Longitude": -73.9614583,
+    "Latitude": 40.68223166,
+    "Nombre": "Fulton St & Grand Ave",
+    "Nro. salidas": 4164,
+    "Nro. llegadas": 4250,
+    "Porcentaje de salidas": "49.49%",
+    "Porcentaje de llegadas": "50.51%"
+  },
+  "366": {
+    "Longitude": -73.968896,
+    "Latitude": 40.693261,
+    "Nombre": "Clinton Ave & Myrtle Ave",
+    "Nro. salidas": 8308,
+    "Nro. llegadas": 8497,
+    "Porcentaje de salidas": "49.44%",
+    "Porcentaje de llegadas": "50.56%"
+  },
+  "367": {
+    "Longitude": -73.97069431,
+    "Latitude": 40.75828065,
+    "Nombre": "E 53 St & Lexington Ave",
+    "Nro. salidas": 15198,
+    "Nro. llegadas": 15497,
+    "Porcentaje de salidas": "49.51%",
+    "Porcentaje de llegadas": "50.49%"
+  },
+  "368": {
+    "Longitude": -74.00214988,
+    "Latitude": 40.73038599,
+    "Nombre": "Carmine St & 6 Ave",
+    "Nro. salidas": 33803,
+    "Nro. llegadas": 36266,
+    "Porcentaje de salidas": "48.24%",
+    "Porcentaje de llegadas": "51.76%"
+  },
+  "369": {
+    "Longitude": -74.00026394,
+    "Latitude": 40.73224119,
+    "Nombre": "Washington Pl & 6 Ave",
+    "Nro. salidas": 16246,
+    "Nro. llegadas": 16407,
+    "Porcentaje de salidas": "49.75%",
+    "Porcentaje de llegadas": "50.25%"
+  },
+  "372": {
+    "Longitude": -73.958089,
+    "Latitude": 40.694528,
+    "Nombre": "Franklin Ave & Myrtle Ave",
+    "Nro. salidas": 1632,
+    "Nro. llegadas": 1689,
+    "Porcentaje de salidas": "49.14%",
+    "Porcentaje de llegadas": "50.86%"
+  },
+  "373": {
+    "Longitude": -73.95381995,
+    "Latitude": 40.69331716,
+    "Nombre": "Willoughby Ave & Walworth St",
+    "Nro. salidas": 3482,
+    "Nro. llegadas": 3697,
+    "Porcentaje de salidas": "48.5%",
+    "Porcentaje de llegadas": "51.5%"
+  },
+  "375": {
+    "Longitude": -73.99695094,
+    "Latitude": 40.72679454,
+    "Nombre": "Mercer St & Bleecker St",
+    "Nro. salidas": 27544,
+    "Nro. llegadas": 27598,
+    "Porcentaje de salidas": "49.95%",
+    "Porcentaje de llegadas": "50.05%"
+  },
+  "376": {
+    "Longitude": -74.00722156,
+    "Latitude": 40.70862144,
+    "Nombre": "John St & William St",
+    "Nro. salidas": 12656,
+    "Nro. llegadas": 12108,
+    "Porcentaje de salidas": "51.11%",
+    "Porcentaje de llegadas": "48.89%"
+  },
+  "377": {
+    "Longitude": -74.00566443,
+    "Latitude": 40.72243797,
+    "Nombre": "6 Ave & Canal St",
+    "Nro. salidas": 13994,
+    "Nro. llegadas": 14565,
+    "Porcentaje de salidas": "49.0%",
+    "Porcentaje de llegadas": "51.0%"
+  },
+  "379": {
+    "Longitude": -73.9916,
+    "Latitude": 40.749156,
+    "Nombre": "W 31 St & 7 Ave",
+    "Nro. salidas": 24355,
+    "Nro. llegadas": 21265,
+    "Porcentaje de salidas": "53.39%",
+    "Porcentaje de llegadas": "46.61%"
+  },
+  "380": {
+    "Longitude": -74.00293877,
+    "Latitude": 40.73401143,
+    "Nombre": "W 4 St & 7 Ave S",
+    "Nro. salidas": 33410,
+    "Nro. llegadas": 33614,
+    "Porcentaje de salidas": "49.85%",
+    "Porcentaje de llegadas": "50.15%"
+  },
+  "382": {
+    "Longitude": -73.99200509,
+    "Latitude": 40.73492695,
+    "Nombre": "University Pl & E 14 St",
+    "Nro. salidas": 40299,
+    "Nro. llegadas": 40850,
+    "Porcentaje de salidas": "49.66%",
+    "Porcentaje de llegadas": "50.34%"
+  },
+  "383": {
+    "Longitude": -74.000271,
+    "Latitude": 40.735238,
+    "Nombre": "Greenwich Ave & Charles St",
+    "Nro. salidas": 15610,
+    "Nro. llegadas": 15740,
+    "Porcentaje de salidas": "49.79%",
+    "Porcentaje de llegadas": "50.21%"
+  },
+  "384": {
+    "Longitude": -73.9659641,
+    "Latitude": 40.68317813,
+    "Nombre": "Fulton St & Waverly Ave",
+    "Nro. salidas": 6185,
+    "Nro. llegadas": 6425,
+    "Porcentaje de salidas": "49.05%",
+    "Porcentaje de llegadas": "50.95%"
+  },
+  "385": {
+    "Longitude": -73.96603308,
+    "Latitude": 40.75797322,
+    "Nombre": "E 55 St & 2 Ave",
+    "Nro. salidas": 11548,
+    "Nro. llegadas": 11268,
+    "Porcentaje de salidas": "50.61%",
+    "Porcentaje de llegadas": "49.39%"
+  },
+  "386": {
+    "Longitude": -74.00234482,
+    "Latitude": 40.71494807,
+    "Nombre": "Centre St & Worth St",
+    "Nro. salidas": 14656,
+    "Nro. llegadas": 13566,
+    "Porcentaje de salidas": "51.93%",
+    "Porcentaje de llegadas": "48.07%"
+  },
+  "387": {
+    "Longitude": -74.0046073,
+    "Latitude": 40.71273266,
+    "Nombre": "Centre St & Chambers St",
+    "Nro. salidas": 30591,
+    "Nro. llegadas": 29572,
+    "Porcentaje de salidas": "50.85%",
+    "Porcentaje de llegadas": "49.15%"
+  },
+  "388": {
+    "Longitude": -74.002950346,
+    "Latitude": 40.749717753,
+    "Nombre": "W 26 St & 10 Ave",
+    "Nro. salidas": 24688,
+    "Nro. llegadas": 24951,
+    "Porcentaje de salidas": "49.74%",
+    "Porcentaje de llegadas": "50.26%"
+  },
+  "389": {
+    "Longitude": -73.96525063,
+    "Latitude": 40.71044554,
+    "Nombre": "Broadway & Berry St",
+    "Nro. salidas": 4685,
+    "Nro. llegadas": 4877,
+    "Porcentaje de salidas": "49.0%",
+    "Porcentaje de llegadas": "51.0%"
+  },
+  "390": {
+    "Longitude": -73.9842844,
+    "Latitude": 40.69221589,
+    "Nombre": "Duffield St & Willoughby St",
+    "Nro. salidas": 4158,
+    "Nro. llegadas": 4048,
+    "Porcentaje de salidas": "50.67%",
+    "Porcentaje de llegadas": "49.33%"
+  },
+  "391": {
+    "Longitude": -73.99344559,
+    "Latitude": 40.69760127,
+    "Nombre": "Clark St & Henry St",
+    "Nro. salidas": 11156,
+    "Nro. llegadas": 10388,
+    "Porcentaje de salidas": "51.78%",
+    "Porcentaje de llegadas": "48.22%"
+  },
+  "392": {
+    "Longitude": -73.987167,
+    "Latitude": 40.695065,
+    "Nombre": "Jay St & Tech Pl",
+    "Nro. salidas": 4370,
+    "Nro. llegadas": 4540,
+    "Porcentaje de salidas": "49.05%",
+    "Porcentaje de llegadas": "50.95%"
+  },
+  "393": {
+    "Longitude": -73.97995466,
+    "Latitude": 40.72299208,
+    "Nombre": "E 5 St & Avenue C",
+    "Nro. salidas": 10736,
+    "Nro. llegadas": 10360,
+    "Porcentaje de salidas": "50.89%",
+    "Porcentaje de llegadas": "49.11%"
+  },
+  "394": {
+    "Longitude": -73.97768752,
+    "Latitude": 40.72521311,
+    "Nombre": "E 9 St & Avenue C",
+    "Nro. salidas": 17635,
+    "Nro. llegadas": 17623,
+    "Porcentaje de salidas": "50.02%",
+    "Porcentaje de llegadas": "49.98%"
+  },
+  "395": {
+    "Longitude": -73.98410637,
+    "Latitude": 40.68807003,
+    "Nombre": "Bond St & Schermerhorn St",
+    "Nro. salidas": 6871,
+    "Nro. llegadas": 6850,
+    "Porcentaje de salidas": "50.08%",
+    "Porcentaje de llegadas": "49.92%"
+  },
+  "396": {
+    "Longitude": -73.9557689392,
+    "Latitude": 40.680342423,
+    "Nombre": "Lefferts Pl & Franklin Ave",
+    "Nro. salidas": 4138,
+    "Nro. llegadas": 4270,
+    "Porcentaje de salidas": "49.22%",
+    "Porcentaje de llegadas": "50.78%"
+  },
+  "397": {
+    "Longitude": -73.96922273,
+    "Latitude": 40.68415748,
+    "Nombre": "Fulton St & Clermont Ave",
+    "Nro. salidas": 2830,
+    "Nro. llegadas": 2868,
+    "Porcentaje de salidas": "49.67%",
+    "Porcentaje de llegadas": "50.33%"
+  },
+  "398": {
+    "Longitude": -73.9999786,
+    "Latitude": 40.69165183,
+    "Nombre": "Atlantic Ave & Furman St",
+    "Nro. salidas": 6964,
+    "Nro. llegadas": 8195,
+    "Porcentaje de salidas": "45.94%",
+    "Porcentaje de llegadas": "54.06%"
+  },
+  "399": {
+    "Longitude": -73.9647628,
+    "Latitude": 40.68851534,
+    "Nombre": "Lafayette Ave & St James Pl",
+    "Nro. salidas": 3671,
+    "Nro. llegadas": 3620,
+    "Porcentaje de salidas": "50.35%",
+    "Porcentaje de llegadas": "49.65%"
+  },
+  "400": {
+    "Longitude": -73.98178024,
+    "Latitude": 40.71926081,
+    "Nombre": "Pitt St & Stanton St",
+    "Nro. salidas": 4736,
+    "Nro. llegadas": 4642,
+    "Porcentaje de salidas": "50.5%",
+    "Porcentaje de llegadas": "49.5%"
+  },
+  "401": {
+    "Longitude": -73.98997825,
+    "Latitude": 40.72019576,
+    "Nombre": "Allen St & Rivington St",
+    "Nro. salidas": 25333,
+    "Nro. llegadas": 26090,
+    "Porcentaje de salidas": "49.26%",
+    "Porcentaje de llegadas": "50.74%"
+  },
+  "402": {
+    "Longitude": -73.98955109,
+    "Latitude": 40.7403432,
+    "Nombre": "Broadway & E 22 St",
+    "Nro. salidas": 39263,
+    "Nro. llegadas": 40421,
+    "Porcentaje de salidas": "49.27%",
+    "Porcentaje de llegadas": "50.73%"
+  },
+  "403": {
+    "Longitude": -73.99069656,
+    "Latitude": 40.72502876,
+    "Nombre": "E 2 St & 2 Ave",
+    "Nro. salidas": 18148,
+    "Nro. llegadas": 18870,
+    "Porcentaje de salidas": "49.02%",
+    "Porcentaje de llegadas": "50.98%"
+  },
+  "404": {
+    "Longitude": -74.00550867,
+    "Latitude": 40.7405826,
+    "Nombre": "9 Ave & W 14 St",
+    "Nro. salidas": 26938,
+    "Nro. llegadas": 28608,
+    "Porcentaje de salidas": "48.5%",
+    "Porcentaje de llegadas": "51.5%"
+  },
+  "405": {
+    "Longitude": -74.008119,
+    "Latitude": 40.739323,
+    "Nombre": "Washington St & Gansevoort St",
+    "Nro. salidas": 21942,
+    "Nro. llegadas": 21843,
+    "Porcentaje de salidas": "50.11%",
+    "Porcentaje de llegadas": "49.89%"
+  },
+  "406": {
+    "Longitude": -73.99595065,
+    "Latitude": 40.69512845,
+    "Nombre": "Hicks St & Montague St",
+    "Nro. salidas": 8139,
+    "Nro. llegadas": 8202,
+    "Porcentaje de salidas": "49.81%",
+    "Porcentaje de llegadas": "50.19%"
+  },
+  "407": {
+    "Longitude": -73.991454,
+    "Latitude": 40.700469,
+    "Nombre": "Henry St & Poplar St",
+    "Nro. salidas": 3907,
+    "Nro. llegadas": 3031,
+    "Porcentaje de salidas": "56.31%",
+    "Porcentaje de llegadas": "43.69%"
+  },
+  "408": {
+    "Longitude": -73.99400398,
+    "Latitude": 40.71076228,
+    "Nombre": "Market St & Cherry St",
+    "Nro. salidas": 6746,
+    "Nro. llegadas": 7053,
+    "Porcentaje de salidas": "48.89%",
+    "Porcentaje de llegadas": "51.11%"
+  },
+  "409": {
+    "Longitude": -73.95643107,
+    "Latitude": 40.6906495,
+    "Nombre": "DeKalb Ave & Skillman St",
+    "Nro. salidas": 2482,
+    "Nro. llegadas": 2514,
+    "Porcentaje de salidas": "49.68%",
+    "Porcentaje de llegadas": "50.32%"
+  },
+  "410": {
+    "Longitude": -73.98517977,
+    "Latitude": 40.72066442,
+    "Nombre": "Suffolk St & Stanton St",
+    "Nro. salidas": 21305,
+    "Nro. llegadas": 21825,
+    "Porcentaje de salidas": "49.4%",
+    "Porcentaje de llegadas": "50.6%"
+  },
+  "411": {
+    "Longitude": -73.97668709,
+    "Latitude": 40.72228087,
+    "Nombre": "E 6 St & Avenue D",
+    "Nro. salidas": 7400,
+    "Nro. llegadas": 7467,
+    "Porcentaje de salidas": "49.77%",
+    "Porcentaje de llegadas": "50.23%"
+  },
+  "412": {
+    "Longitude": -73.99422366,
+    "Latitude": 40.7158155,
+    "Nombre": "Forsyth St & Canal St",
+    "Nro. salidas": 13901,
+    "Nro. llegadas": 13742,
+    "Porcentaje de salidas": "50.29%",
+    "Porcentaje de llegadas": "49.71%"
+  },
+  "414": {
+    "Longitude": -73.98765762,
+    "Latitude": 40.70281858,
+    "Nombre": "Pearl St & Anchorage Pl",
+    "Nro. salidas": 7185,
+    "Nro. llegadas": 7866,
+    "Porcentaje de salidas": "47.74%",
+    "Porcentaje de llegadas": "52.26%"
+  },
+  "415": {
+    "Longitude": -74.00926027,
+    "Latitude": 40.7047177,
+    "Nombre": "Pearl St & Hanover Square",
+    "Nro. salidas": 13749,
+    "Nro. llegadas": 14215,
+    "Porcentaje de salidas": "49.17%",
+    "Porcentaje de llegadas": "50.83%"
+  },
+  "416": {
+    "Longitude": -73.97265183,
+    "Latitude": 40.68753406,
+    "Nombre": "Cumberland St & Lafayette Ave",
+    "Nro. salidas": 5743,
+    "Nro. llegadas": 5353,
+    "Porcentaje de salidas": "51.76%",
+    "Porcentaje de llegadas": "48.24%"
+  },
+  "417": {
+    "Longitude": -74.01020234,
+    "Latitude": 40.71291224,
+    "Nombre": "Barclay St & Church St",
+    "Nro. salidas": 31113,
+    "Nro. llegadas": 30752,
+    "Porcentaje de salidas": "50.29%",
+    "Porcentaje de llegadas": "49.71%"
+  },
+  "418": {
+    "Longitude": -73.982578,
+    "Latitude": 40.70224,
+    "Nombre": "Front St & Gold St",
+    "Nro. salidas": 4103,
+    "Nro. llegadas": 4282,
+    "Porcentaje de salidas": "48.93%",
+    "Porcentaje de llegadas": "51.07%"
+  },
+  "419": {
+    "Longitude": -73.97355569,
+    "Latitude": 40.69580705,
+    "Nombre": "Carlton Ave & Park Ave",
+    "Nro. salidas": 3747,
+    "Nro. llegadas": 3827,
+    "Porcentaje de salidas": "49.47%",
+    "Porcentaje de llegadas": "50.53%"
+  },
+  "420": {
+    "Longitude": -73.96968902,
+    "Latitude": 40.68764484,
+    "Nombre": "Clermont Ave & Lafayette Ave",
+    "Nro. salidas": 4084,
+    "Nro. llegadas": 3809,
+    "Porcentaje de salidas": "51.74%",
+    "Porcentaje de llegadas": "48.26%"
+  },
+  "421": {
+    "Longitude": -73.97129668,
+    "Latitude": 40.69573398,
+    "Nombre": "Clermont Ave & Park Ave",
+    "Nro. salidas": 2587,
+    "Nro. llegadas": 2374,
+    "Porcentaje de salidas": "52.15%",
+    "Porcentaje de llegadas": "47.85%"
+  },
+  "422": {
+    "Longitude": -73.988038,
+    "Latitude": 40.770513,
+    "Nombre": "W 59 St & 10 Ave",
+    "Nro. salidas": 20594,
+    "Nro. llegadas": 20931,
+    "Porcentaje de salidas": "49.59%",
+    "Porcentaje de llegadas": "50.41%"
+  },
+  "423": {
+    "Longitude": -73.98690506,
+    "Latitude": 40.76584941,
+    "Nombre": "W 54 St & 9 Ave",
+    "Nro. salidas": 11331,
+    "Nro. llegadas": 10122,
+    "Porcentaje de salidas": "52.82%",
+    "Porcentaje de llegadas": "47.18%"
+  },
+  "426": {
+    "Longitude": -74.01322069,
+    "Latitude": 40.71754834,
+    "Nombre": "West St & Chambers St",
+    "Nro. salidas": 43106,
+    "Nro. llegadas": 44588,
+    "Porcentaje de salidas": "49.16%",
+    "Porcentaje de llegadas": "50.84%"
+  },
+  "427": {
+    "Longitude": -74.01427023,
+    "Latitude": 40.70251526,
+    "Nombre": "State St",
+    "Nro. salidas": 14012,
+    "Nro. llegadas": 15096,
+    "Porcentaje de salidas": "48.14%",
+    "Porcentaje de llegadas": "51.86%"
+  },
+  "428": {
+    "Longitude": -73.98783413,
+    "Latitude": 40.72467721,
+    "Nombre": "E 3 St & 1 Ave",
+    "Nro. salidas": 21342,
+    "Nro. llegadas": 20775,
+    "Porcentaje de salidas": "50.67%",
+    "Porcentaje de llegadas": "49.33%"
+  },
+  "430": {
+    "Longitude": -73.98656928,
+    "Latitude": 40.7014851,
+    "Nombre": "York St & Jay St",
+    "Nro. salidas": 11206,
+    "Nro. llegadas": 11575,
+    "Porcentaje de salidas": "49.19%",
+    "Porcentaje de llegadas": "50.81%"
+  },
+  "431": {
+    "Longitude": -73.98263429,
+    "Latitude": 40.68864636,
+    "Nombre": "Hanover Pl & Livingston St",
+    "Nro. salidas": 1525,
+    "Nro. llegadas": 1454,
+    "Porcentaje de salidas": "51.19%",
+    "Porcentaje de llegadas": "48.81%"
+  },
+  "432": {
+    "Longitude": -73.98379855,
+    "Latitude": 40.72621788,
+    "Nombre": "E 7 St & Avenue A",
+    "Nro. salidas": 21134,
+    "Nro. llegadas": 19638,
+    "Porcentaje de salidas": "51.83%",
+    "Porcentaje de llegadas": "48.17%"
+  },
+  "433": {
+    "Longitude": -73.98057249,
+    "Latitude": 40.72955361,
+    "Nombre": "E 13 St & Avenue A",
+    "Nro. salidas": 22312,
+    "Nro. llegadas": 22162,
+    "Porcentaje de salidas": "50.17%",
+    "Porcentaje de llegadas": "49.83%"
+  },
+  "434": {
+    "Longitude": -74.00366443,
+    "Latitude": 40.74317449,
+    "Nombre": "9 Ave & W 18 St",
+    "Nro. salidas": 16989,
+    "Nro. llegadas": 17841,
+    "Porcentaje de salidas": "48.78%",
+    "Porcentaje de llegadas": "51.22%"
+  },
+  "435": {
+    "Longitude": -73.99415556,
+    "Latitude": 40.74173969,
+    "Nombre": "W 21 St & 6 Ave",
+    "Nro. salidas": 43849,
+    "Nro. llegadas": 43534,
+    "Porcentaje de salidas": "50.18%",
+    "Porcentaje de llegadas": "49.82%"
+  },
+  "436": {
+    "Longitude": -73.95399026,
+    "Latitude": 40.68216564,
+    "Nombre": "Hancock St & Bedford Ave",
+    "Nro. salidas": 2270,
+    "Nro. llegadas": 2220,
+    "Porcentaje de salidas": "50.56%",
+    "Porcentaje de llegadas": "49.44%"
+  },
+  "437": {
+    "Longitude": -73.9500479759,
+    "Latitude": 40.6809833854,
+    "Nombre": "Macon St & Nostrand Ave",
+    "Nro. salidas": 2997,
+    "Nro. llegadas": 3001,
+    "Porcentaje de salidas": "49.97%",
+    "Porcentaje de llegadas": "50.03%"
+  },
+  "438": {
+    "Longitude": -73.98564945,
+    "Latitude": 40.72779126,
+    "Nombre": "St Marks Pl & 1 Ave",
+    "Nro. salidas": 18755,
+    "Nro. llegadas": 18887,
+    "Porcentaje de salidas": "49.82%",
+    "Porcentaje de llegadas": "50.18%"
+  },
+  "439": {
+    "Longitude": -73.98978041,
+    "Latitude": 40.7262807,
+    "Nombre": "E 4 St & 2 Ave",
+    "Nro. salidas": 23472,
+    "Nro. llegadas": 25316,
+    "Porcentaje de salidas": "48.11%",
+    "Porcentaje de llegadas": "51.89%"
+  },
+  "440": {
+    "Longitude": -73.97282625,
+    "Latitude": 40.75255434,
+    "Nombre": "E 45 St & 3 Ave",
+    "Nro. salidas": 13868,
+    "Nro. llegadas": 14198,
+    "Porcentaje de salidas": "49.41%",
+    "Porcentaje de llegadas": "50.59%"
+  },
+  "441": {
+    "Longitude": -73.967416,
+    "Latitude": 40.756014,
+    "Nombre": "E 52 St & 2 Ave",
+    "Nro. salidas": 8437,
+    "Nro. llegadas": 8203,
+    "Porcentaje de salidas": "50.7%",
+    "Porcentaje de llegadas": "49.3%"
+  },
+  "442": {
+    "Longitude": -73.993915,
+    "Latitude": 40.746647,
+    "Nombre": "W 27 St & 7 Ave",
+    "Nro. salidas": 28212,
+    "Nro. llegadas": 27391,
+    "Porcentaje de salidas": "50.74%",
+    "Porcentaje de llegadas": "49.26%"
+  },
+  "443": {
+    "Longitude": -73.96408963,
+    "Latitude": 40.70853074,
+    "Nombre": "Bedford Ave & S 9th St",
+    "Nro. salidas": 1835,
+    "Nro. llegadas": 1820,
+    "Porcentaje de salidas": "50.21%",
+    "Porcentaje de llegadas": "49.79%"
+  },
+  "444": {
+    "Longitude": -73.98915076,
+    "Latitude": 40.7423543,
+    "Nombre": "Broadway & W 24 St",
+    "Nro. salidas": 38652,
+    "Nro. llegadas": 38237,
+    "Porcentaje de salidas": "50.27%",
+    "Porcentaje de llegadas": "49.73%"
+  },
+  "445": {
+    "Longitude": -73.98142006,
+    "Latitude": 40.72740794,
+    "Nombre": "E 10 St & Avenue A",
+    "Nro. salidas": 22565,
+    "Nro. llegadas": 22990,
+    "Porcentaje de salidas": "49.53%",
+    "Porcentaje de llegadas": "50.47%"
+  },
+  "446": {
+    "Longitude": -73.99529885,
+    "Latitude": 40.74487634,
+    "Nombre": "W 24 St & 7 Ave",
+    "Nro. salidas": 28411,
+    "Nro. llegadas": 29374,
+    "Porcentaje de salidas": "49.17%",
+    "Porcentaje de llegadas": "50.83%"
+  },
+  "447": {
+    "Longitude": -73.9851615,
+    "Latitude": 40.76370739,
+    "Nombre": "8 Ave & W 52 St",
+    "Nro. salidas": 23823,
+    "Nro. llegadas": 23494,
+    "Porcentaje de salidas": "50.35%",
+    "Porcentaje de llegadas": "49.65%"
+  },
+  "448": {
+    "Longitude": -73.9979009,
+    "Latitude": 40.75660359,
+    "Nombre": "W 37 St & 10 Ave",
+    "Nro. salidas": 21838,
+    "Nro. llegadas": 22064,
+    "Porcentaje de salidas": "49.74%",
+    "Porcentaje de llegadas": "50.26%"
+  },
+  "449": {
+    "Longitude": -73.98789473,
+    "Latitude": 40.76461837,
+    "Nombre": "W 52 St & 9 Ave",
+    "Nro. salidas": 13208,
+    "Nro. llegadas": 12266,
+    "Porcentaje de salidas": "51.85%",
+    "Porcentaje de llegadas": "48.15%"
+  },
+  "450": {
+    "Longitude": -73.98788205,
+    "Latitude": 40.76227205,
+    "Nombre": "W 49 St & 8 Ave",
+    "Nro. salidas": 25686,
+    "Nro. llegadas": 24462,
+    "Porcentaje de salidas": "51.22%",
+    "Porcentaje de llegadas": "48.78%"
+  },
+  "453": {
+    "Longitude": -73.99915362,
+    "Latitude": 40.74475148,
+    "Nombre": "W 22 St & 8 Ave",
+    "Nro. salidas": 25502,
+    "Nro. llegadas": 25787,
+    "Porcentaje de salidas": "49.72%",
+    "Porcentaje de llegadas": "50.28%"
+  },
+  "454": {
+    "Longitude": -73.96592976,
+    "Latitude": 40.75455731,
+    "Nombre": "E 51 St & 1 Ave",
+    "Nro. salidas": 11494,
+    "Nro. llegadas": 11992,
+    "Porcentaje de salidas": "48.94%",
+    "Porcentaje de llegadas": "51.06%"
+  },
+  "455": {
+    "Longitude": -73.96905301,
+    "Latitude": 40.75001986,
+    "Nombre": "1 Ave & E 44 St",
+    "Nro. salidas": 12922,
+    "Nro. llegadas": 13899,
+    "Porcentaje de salidas": "48.18%",
+    "Porcentaje de llegadas": "51.82%"
+  },
+  "456": {
+    "Longitude": -73.97402311,
+    "Latitude": 40.7597108,
+    "Nombre": "E 53 St & Madison Ave",
+    "Nro. salidas": 14731,
+    "Nro. llegadas": 16001,
+    "Porcentaje de salidas": "47.93%",
+    "Porcentaje de llegadas": "52.07%"
+  },
+  "457": {
+    "Longitude": -73.98169333,
+    "Latitude": 40.76695317,
+    "Nombre": "Broadway & W 58 St",
+    "Nro. salidas": 31446,
+    "Nro. llegadas": 28764,
+    "Porcentaje de salidas": "52.23%",
+    "Porcentaje de llegadas": "47.77%"
+  },
+  "458": {
+    "Longitude": -74.005226,
+    "Latitude": 40.751396,
+    "Nombre": "11 Ave & W 27 St",
+    "Nro. salidas": 18578,
+    "Nro. llegadas": 18885,
+    "Porcentaje de salidas": "49.59%",
+    "Porcentaje de llegadas": "50.41%"
+  },
+  "459": {
+    "Longitude": -74.007756,
+    "Latitude": 40.746745,
+    "Nombre": "W 20 St & 11 Ave",
+    "Nro. salidas": 47425,
+    "Nro. llegadas": 47860,
+    "Porcentaje de salidas": "49.77%",
+    "Porcentaje de llegadas": "50.23%"
+  },
+  "460": {
+    "Longitude": -73.96590294,
+    "Latitude": 40.71285887,
+    "Nombre": "S 4 St & Wythe Ave",
+    "Nro. salidas": 4926,
+    "Nro. llegadas": 5418,
+    "Porcentaje de salidas": "47.62%",
+    "Porcentaje de llegadas": "52.38%"
+  },
+  "461": {
+    "Longitude": -73.98205027,
+    "Latitude": 40.73587678,
+    "Nombre": "E 20 St & 2 Ave",
+    "Nro. salidas": 19797,
+    "Nro. llegadas": 20095,
+    "Porcentaje de salidas": "49.63%",
+    "Porcentaje de llegadas": "50.37%"
+  },
+  "462": {
+    "Longitude": -74.00451887,
+    "Latitude": 40.74691959,
+    "Nombre": "W 22 St & 10 Ave",
+    "Nro. salidas": 31526,
+    "Nro. llegadas": 32825,
+    "Porcentaje de salidas": "48.99%",
+    "Porcentaje de llegadas": "51.01%"
+  },
+  "463": {
+    "Longitude": -74.00443172,
+    "Latitude": 40.74206539,
+    "Nombre": "9 Ave & W 16 St",
+    "Nro. salidas": 24138,
+    "Nro. llegadas": 25527,
+    "Porcentaje de salidas": "48.6%",
+    "Porcentaje de llegadas": "51.4%"
+  },
+  "464": {
+    "Longitude": -73.96759673,
+    "Latitude": 40.75934501,
+    "Nombre": "E 56 St & 3 Ave",
+    "Nro. salidas": 12471,
+    "Nro. llegadas": 13125,
+    "Porcentaje de salidas": "48.72%",
+    "Porcentaje de llegadas": "51.28%"
+  },
+  "465": {
+    "Longitude": -73.98658032,
+    "Latitude": 40.75513557,
+    "Nombre": "Broadway & W 41 St",
+    "Nro. salidas": 26358,
+    "Nro. llegadas": 21501,
+    "Porcentaje de salidas": "55.07%",
+    "Porcentaje de llegadas": "44.93%"
+  },
+  "466": {
+    "Longitude": -73.99144871,
+    "Latitude": 40.74395411,
+    "Nombre": "W 25 St & 6 Ave",
+    "Nro. salidas": 29671,
+    "Nro. llegadas": 29545,
+    "Porcentaje de salidas": "50.11%",
+    "Porcentaje de llegadas": "49.89%"
+  },
+  "467": {
+    "Longitude": -73.97895137,
+    "Latitude": 40.68312489,
+    "Nombre": "Dean St & 4 Ave",
+    "Nro. salidas": 9004,
+    "Nro. llegadas": 10507,
+    "Porcentaje de salidas": "46.15%",
+    "Porcentaje de llegadas": "53.85%"
+  },
+  "468": {
+    "Longitude": -73.98192338,
+    "Latitude": 40.7652654,
+    "Nombre": "Broadway & W 55 St",
+    "Nro. salidas": 22022,
+    "Nro. llegadas": 17452,
+    "Porcentaje de salidas": "55.79%",
+    "Porcentaje de llegadas": "44.21%"
+  },
+  "469": {
+    "Longitude": -73.98268129,
+    "Latitude": 40.76344058,
+    "Nombre": "Broadway & W 53 St",
+    "Nro. salidas": 22381,
+    "Nro. llegadas": 19986,
+    "Porcentaje de salidas": "52.83%",
+    "Porcentaje de llegadas": "47.17%"
+  },
+  "470": {
+    "Longitude": -74.00004031,
+    "Latitude": 40.74345335,
+    "Nombre": "W 20 St & 8 Ave",
+    "Nro. salidas": 19583,
+    "Nro. llegadas": 19650,
+    "Porcentaje de salidas": "49.91%",
+    "Porcentaje de llegadas": "50.09%"
+  },
+  "471": {
+    "Longitude": -73.95698119,
+    "Latitude": 40.71286844,
+    "Nombre": "Grand St & Havemeyer St",
+    "Nro. salidas": 5516,
+    "Nro. llegadas": 6599,
+    "Porcentaje de salidas": "45.53%",
+    "Porcentaje de llegadas": "54.47%"
+  },
+  "472": {
+    "Longitude": -73.98194829,
+    "Latitude": 40.7457121,
+    "Nombre": "E 32 St & Park Ave",
+    "Nro. salidas": 29737,
+    "Nro. llegadas": 28407,
+    "Porcentaje de salidas": "51.14%",
+    "Porcentaje de llegadas": "48.86%"
+  },
+  "473": {
+    "Longitude": -73.9919254,
+    "Latitude": 40.72110063,
+    "Nombre": "Rivington St & Chrystie St",
+    "Nro. salidas": 14318,
+    "Nro. llegadas": 14964,
+    "Porcentaje de salidas": "48.9%",
+    "Porcentaje de llegadas": "51.1%"
+  },
+  "474": {
+    "Longitude": -73.98683077,
+    "Latitude": 40.7451677,
+    "Nombre": "5 Ave & E 29 St",
+    "Nro. salidas": 22560,
+    "Nro. llegadas": 21953,
+    "Porcentaje de salidas": "50.68%",
+    "Porcentaje de llegadas": "49.32%"
+  },
+  "475": {
+    "Longitude": -73.98758561,
+    "Latitude": 40.73524276,
+    "Nombre": "E 16 St & Irving Pl",
+    "Nro. salidas": 22404,
+    "Nro. llegadas": 22191,
+    "Porcentaje de salidas": "50.24%",
+    "Porcentaje de llegadas": "49.76%"
+  },
+  "476": {
+    "Longitude": -73.97966069,
+    "Latitude": 40.74394314,
+    "Nombre": "E 31 St & 3 Ave",
+    "Nro. salidas": 23453,
+    "Nro. llegadas": 23333,
+    "Porcentaje de salidas": "50.13%",
+    "Porcentaje de llegadas": "49.87%"
+  },
+  "477": {
+    "Longitude": -73.9900262,
+    "Latitude": 40.75640548,
+    "Nombre": "W 41 St & 8 Ave",
+    "Nro. salidas": 40949,
+    "Nro. llegadas": 38138,
+    "Porcentaje de salidas": "51.78%",
+    "Porcentaje de llegadas": "48.22%"
+  },
+  "478": {
+    "Longitude": -73.99884222,
+    "Latitude": 40.76030096,
+    "Nombre": "11 Ave & W 41 St",
+    "Nro. salidas": 17654,
+    "Nro. llegadas": 18413,
+    "Porcentaje de salidas": "48.95%",
+    "Porcentaje de llegadas": "51.05%"
+  },
+  "479": {
+    "Longitude": -73.9912551,
+    "Latitude": 40.76019252,
+    "Nombre": "9 Ave & W 45 St",
+    "Nro. salidas": 24523,
+    "Nro. llegadas": 24189,
+    "Porcentaje de salidas": "50.34%",
+    "Porcentaje de llegadas": "49.66%"
+  },
+  "480": {
+    "Longitude": -73.99061728,
+    "Latitude": 40.76669671,
+    "Nombre": "W 53 St & 10 Ave",
+    "Nro. salidas": 13807,
+    "Nro. llegadas": 13846,
+    "Porcentaje de salidas": "49.93%",
+    "Porcentaje de llegadas": "50.07%"
+  },
+  "481": {
+    "Longitude": -73.96264403,
+    "Latitude": 40.71260486,
+    "Nombre": "S 3 St & Bedford Ave",
+    "Nro. salidas": 5369,
+    "Nro. llegadas": 5728,
+    "Porcentaje de salidas": "48.38%",
+    "Porcentaje de llegadas": "51.62%"
+  },
+  "482": {
+    "Longitude": -73.99931783,
+    "Latitude": 40.73935542,
+    "Nombre": "W 15 St & 7 Ave",
+    "Nro. salidas": 27145,
+    "Nro. llegadas": 27596,
+    "Porcentaje de salidas": "49.59%",
+    "Porcentaje de llegadas": "50.41%"
+  },
+  "483": {
+    "Longitude": -73.98889957,
+    "Latitude": 40.73223272,
+    "Nombre": "E 12 St & 3 Ave",
+    "Nro. salidas": 22495,
+    "Nro. llegadas": 22723,
+    "Porcentaje de salidas": "49.75%",
+    "Porcentaje de llegadas": "50.25%"
+  },
+  "484": {
+    "Longitude": -73.98014437,
+    "Latitude": 40.75500254,
+    "Nombre": "W 44 St & 5 Ave",
+    "Nro. salidas": 14847,
+    "Nro. llegadas": 15628,
+    "Porcentaje de salidas": "48.72%",
+    "Porcentaje de llegadas": "51.28%"
+  },
+  "485": {
+    "Longitude": -73.98338988,
+    "Latitude": 40.75038009,
+    "Nombre": "W 37 St & 5 Ave",
+    "Nro. salidas": 17205,
+    "Nro. llegadas": 16720,
+    "Porcentaje de salidas": "50.71%",
+    "Porcentaje de llegadas": "49.29%"
+  },
+  "486": {
+    "Longitude": -73.98855723,
+    "Latitude": 40.7462009,
+    "Nombre": "Broadway & W 29 St",
+    "Nro. salidas": 22345,
+    "Nro. llegadas": 22356,
+    "Porcentaje de salidas": "49.99%",
+    "Porcentaje de llegadas": "50.01%"
+  },
+  "487": {
+    "Longitude": -73.97573881,
+    "Latitude": 40.73314259,
+    "Nombre": "E 20 St & FDR Drive",
+    "Nro. salidas": 16852,
+    "Nro. llegadas": 16451,
+    "Porcentaje de salidas": "50.6%",
+    "Porcentaje de llegadas": "49.4%"
+  },
+  "488": {
+    "Longitude": -73.99372222,
+    "Latitude": 40.75645824,
+    "Nombre": "W 39 St & 9 Ave",
+    "Nro. salidas": 30009,
+    "Nro. llegadas": 29967,
+    "Porcentaje de salidas": "50.04%",
+    "Porcentaje de llegadas": "49.96%"
+  },
+  "489": {
+    "Longitude": -74.00176802,
+    "Latitude": 40.75066386,
+    "Nombre": "10 Ave & W 28 St",
+    "Nro. salidas": 17150,
+    "Nro. llegadas": 17569,
+    "Porcentaje de salidas": "49.4%",
+    "Porcentaje de llegadas": "50.6%"
+  },
+  "490": {
+    "Longitude": -73.993934,
+    "Latitude": 40.751551,
+    "Nombre": "8 Ave & W 33 St",
+    "Nro. salidas": 41514,
+    "Nro. llegadas": 33326,
+    "Porcentaje de salidas": "55.47%",
+    "Porcentaje de llegadas": "44.53%"
+  },
+  "492": {
+    "Longitude": -73.99093085,
+    "Latitude": 40.75019995,
+    "Nombre": "W 33 St & 7 Ave",
+    "Nro. salidas": 31212,
+    "Nro. llegadas": 29308,
+    "Porcentaje de salidas": "51.57%",
+    "Porcentaje de llegadas": "48.43%"
+  },
+  "493": {
+    "Longitude": -73.98291153,
+    "Latitude": 40.7568001,
+    "Nombre": "W 45 St & 6 Ave",
+    "Nro. salidas": 17990,
+    "Nro. llegadas": 19722,
+    "Porcentaje de salidas": "47.7%",
+    "Porcentaje de llegadas": "52.3%"
+  },
+  "494": {
+    "Longitude": -73.99723551,
+    "Latitude": 40.74734825,
+    "Nombre": "W 26 St & 8 Ave",
+    "Nro. salidas": 22851,
+    "Nro. llegadas": 22738,
+    "Porcentaje de salidas": "50.12%",
+    "Porcentaje de llegadas": "49.88%"
+  },
+  "495": {
+    "Longitude": -73.99301222,
+    "Latitude": 40.76269882,
+    "Nombre": "W 47 St & 10 Ave",
+    "Nro. salidas": 16668,
+    "Nro. llegadas": 16864,
+    "Porcentaje de salidas": "49.71%",
+    "Porcentaje de llegadas": "50.29%"
+  },
+  "496": {
+    "Longitude": -73.99238967,
+    "Latitude": 40.73726186,
+    "Nombre": "E 16 St & 5 Ave",
+    "Nro. salidas": 19759,
+    "Nro. llegadas": 19339,
+    "Porcentaje de salidas": "50.54%",
+    "Porcentaje de llegadas": "49.46%"
+  },
+  "497": {
+    "Longitude": -73.99009296,
+    "Latitude": 40.73704984,
+    "Nombre": "E 17 St & Broadway",
+    "Nro. salidas": 55007,
+    "Nro. llegadas": 59446,
+    "Porcentaje de salidas": "48.06%",
+    "Porcentaje de llegadas": "51.94%"
+  },
+  "498": {
+    "Longitude": -73.98808416,
+    "Latitude": 40.74854862,
+    "Nombre": "Broadway & W 32 St",
+    "Nro. salidas": 25521,
+    "Nro. llegadas": 24320,
+    "Porcentaje de salidas": "51.2%",
+    "Porcentaje de llegadas": "48.8%"
+  },
+  "499": {
+    "Longitude": -73.98191841,
+    "Latitude": 40.76915505,
+    "Nombre": "Broadway & W 60 St",
+    "Nro. salidas": 36889,
+    "Nro. llegadas": 37914,
+    "Porcentaje de salidas": "49.31%",
+    "Porcentaje de llegadas": "50.69%"
+  },
+  "500": {
+    "Longitude": -73.98336183,
+    "Latitude": 40.76228826,
+    "Nombre": "Broadway & W 51 St",
+    "Nro. salidas": 18227,
+    "Nro. llegadas": 16043,
+    "Porcentaje de salidas": "53.19%",
+    "Porcentaje de llegadas": "46.81%"
+  },
+  "501": {
+    "Longitude": -73.97121214,
+    "Latitude": 40.744219,
+    "Nombre": "FDR Drive & E 35 St",
+    "Nro. salidas": 16215,
+    "Nro. llegadas": 14526,
+    "Porcentaje de salidas": "52.75%",
+    "Porcentaje de llegadas": "47.25%"
+  },
+  "502": {
+    "Longitude": -73.981346,
+    "Latitude": 40.714215,
+    "Nombre": "Henry St & Grand St",
+    "Nro. salidas": 9038,
+    "Nro. llegadas": 9430,
+    "Porcentaje de salidas": "48.94%",
+    "Porcentaje de llegadas": "51.06%"
+  },
+  "503": {
+    "Longitude": -73.98751968,
+    "Latitude": 40.73827428,
+    "Nombre": "E 20 St & Park Ave",
+    "Nro. salidas": 12840,
+    "Nro. llegadas": 12361,
+    "Porcentaje de salidas": "50.95%",
+    "Porcentaje de llegadas": "49.05%"
+  },
+  "504": {
+    "Longitude": -73.98165557,
+    "Latitude": 40.73221853,
+    "Nombre": "1 Ave & E 15 St",
+    "Nro. salidas": 28851,
+    "Nro. llegadas": 28940,
+    "Porcentaje de salidas": "49.92%",
+    "Porcentaje de llegadas": "50.08%"
+  },
+  "505": {
+    "Longitude": -73.98848395,
+    "Latitude": 40.74901271,
+    "Nombre": "6 Ave & W 33 St",
+    "Nro. salidas": 25486,
+    "Nro. llegadas": 24637,
+    "Porcentaje de salidas": "50.85%",
+    "Porcentaje de llegadas": "49.15%"
+  },
+  "507": {
+    "Longitude": -73.97973776,
+    "Latitude": 40.73912601,
+    "Nombre": "E 25 St & 2 Ave",
+    "Nro. salidas": 25674,
+    "Nro. llegadas": 25860,
+    "Porcentaje de salidas": "49.82%",
+    "Porcentaje de llegadas": "50.18%"
+  },
+  "508": {
+    "Longitude": -73.99667444,
+    "Latitude": 40.76341379,
+    "Nombre": "W 46 St & 11 Ave",
+    "Nro. salidas": 14147,
+    "Nro. llegadas": 14514,
+    "Porcentaje de salidas": "49.36%",
+    "Porcentaje de llegadas": "50.64%"
+  },
+  "509": {
+    "Longitude": -74.00197139,
+    "Latitude": 40.7454973,
+    "Nombre": "9 Ave & W 22 St",
+    "Nro. salidas": 27209,
+    "Nro. llegadas": 27826,
+    "Porcentaje de salidas": "49.44%",
+    "Porcentaje de llegadas": "50.56%"
+  },
+  "510": {
+    "Longitude": -73.98042047,
+    "Latitude": 40.7606597,
+    "Nombre": "W 51 St & 6 Ave",
+    "Nro. salidas": 18582,
+    "Nro. llegadas": 21467,
+    "Porcentaje de salidas": "46.4%",
+    "Porcentaje de llegadas": "53.6%"
+  },
+  "511": {
+    "Longitude": -73.97772429,
+    "Latitude": 40.72938685,
+    "Nombre": "E 14 St & Avenue B",
+    "Nro. salidas": 17163,
+    "Nro. llegadas": 15745,
+    "Porcentaje de salidas": "52.15%",
+    "Porcentaje de llegadas": "47.85%"
+  },
+  "512": {
+    "Longitude": -73.99839279,
+    "Latitude": 40.7500727,
+    "Nombre": "W 29 St & 9 Ave",
+    "Nro. salidas": 16408,
+    "Nro. llegadas": 16229,
+    "Porcentaje de salidas": "50.27%",
+    "Porcentaje de llegadas": "49.73%"
+  },
+  "513": {
+    "Longitude": -73.988639,
+    "Latitude": 40.768254,
+    "Nombre": "W 56 St & 10 Ave",
+    "Nro. salidas": 13856,
+    "Nro. llegadas": 13442,
+    "Porcentaje de salidas": "50.76%",
+    "Porcentaje de llegadas": "49.24%"
+  },
+  "514": {
+    "Longitude": -74.00277668,
+    "Latitude": 40.76087502,
+    "Nombre": "12 Ave & W 40 St",
+    "Nro. salidas": 20202,
+    "Nro. llegadas": 22867,
+    "Porcentaje de salidas": "46.91%",
+    "Porcentaje de llegadas": "53.09%"
+  },
+  "515": {
+    "Longitude": -73.99461843,
+    "Latitude": 40.76009437,
+    "Nombre": "W 43 St & 10 Ave",
+    "Nro. salidas": 22947,
+    "Nro. llegadas": 23867,
+    "Porcentaje de salidas": "49.02%",
+    "Porcentaje de llegadas": "50.98%"
+  },
+  "516": {
+    "Longitude": -73.96784384,
+    "Latitude": 40.75206862,
+    "Nombre": "E 47 St & 1 Ave",
+    "Nro. salidas": 8106,
+    "Nro. llegadas": 8559,
+    "Porcentaje de salidas": "48.64%",
+    "Porcentaje de llegadas": "51.36%"
+  },
+  "517": {
+    "Longitude": -73.97798848,
+    "Latitude": 40.75149263,
+    "Nombre": "Pershing Square S",
+    "Nro. salidas": 31985,
+    "Nro. llegadas": 22005,
+    "Porcentaje de salidas": "59.24%",
+    "Porcentaje de llegadas": "40.76%"
+  },
+  "518": {
+    "Longitude": -73.9734419,
+    "Latitude": 40.74780373,
+    "Nombre": "E 39 St & 2 Ave",
+    "Nro. salidas": 31823,
+    "Nro. llegadas": 31319,
+    "Porcentaje de salidas": "50.4%",
+    "Porcentaje de llegadas": "49.6%"
+  },
+  "519": {
+    "Longitude": -73.97770164,
+    "Latitude": 40.75188406,
+    "Nombre": "Pershing Square N",
+    "Nro. salidas": 56693,
+    "Nro. llegadas": 45422,
+    "Porcentaje de salidas": "55.52%",
+    "Porcentaje de llegadas": "44.48%"
+  },
+  "520": {
+    "Longitude": -73.97648516,
+    "Latitude": 40.75992262,
+    "Nombre": "W 52 St & 5 Ave",
+    "Nro. salidas": 14515,
+    "Nro. llegadas": 15591,
+    "Porcentaje de salidas": "48.21%",
+    "Porcentaje de llegadas": "51.79%"
+  },
+  "521": {
+    "Longitude": -73.99481051,
+    "Latitude": 40.75044999,
+    "Nombre": "8 Ave & W 31 St",
+    "Nro. salidas": 53871,
+    "Nro. llegadas": 52486,
+    "Porcentaje de salidas": "50.65%",
+    "Porcentaje de llegadas": "49.35%"
+  },
+  "522": {
+    "Longitude": -73.97207836,
+    "Latitude": 40.75714758,
+    "Nombre": "E 51 St & Lexington Ave",
+    "Nro. salidas": 16270,
+    "Nro. llegadas": 15918,
+    "Porcentaje de salidas": "50.55%",
+    "Porcentaje de llegadas": "49.45%"
+  },
+  "523": {
+    "Longitude": -73.99138152,
+    "Latitude": 40.75466591,
+    "Nombre": "W 38 St & 8 Ave",
+    "Nro. salidas": 28377,
+    "Nro. llegadas": 26582,
+    "Porcentaje de salidas": "51.63%",
+    "Porcentaje de llegadas": "48.37%"
+  },
+  "524": {
+    "Longitude": -73.98316936,
+    "Latitude": 40.75527307,
+    "Nombre": "W 43 St & 6 Ave",
+    "Nro. salidas": 20310,
+    "Nro. llegadas": 20788,
+    "Porcentaje de salidas": "49.42%",
+    "Porcentaje de llegadas": "50.58%"
+  },
+  "525": {
+    "Longitude": -74.0021163,
+    "Latitude": 40.75594159,
+    "Nombre": "W 34 St & 11 Ave",
+    "Nro. salidas": 10235,
+    "Nro. llegadas": 10562,
+    "Porcentaje de salidas": "49.21%",
+    "Porcentaje de llegadas": "50.79%"
+  },
+  "526": {
+    "Longitude": -73.98490707,
+    "Latitude": 40.74765947,
+    "Nombre": "E 33 St & 5 Ave",
+    "Nro. salidas": 14291,
+    "Nro. llegadas": 13420,
+    "Porcentaje de salidas": "51.57%",
+    "Porcentaje de llegadas": "48.43%"
+  },
+  "527": {
+    "Longitude": -73.97434726,
+    "Latitude": 40.74315566,
+    "Nombre": "E 33 St & 1 Ave",
+    "Nro. salidas": 18641,
+    "Nro. llegadas": 18411,
+    "Porcentaje de salidas": "50.31%",
+    "Porcentaje de llegadas": "49.69%"
+  },
+  "528": {
+    "Longitude": -73.97706058,
+    "Latitude": 40.74290902,
+    "Nombre": "2 Ave & E 31 St",
+    "Nro. salidas": 32776,
+    "Nro. llegadas": 32370,
+    "Porcentaje de salidas": "50.31%",
+    "Porcentaje de llegadas": "49.69%"
+  },
+  "529": {
+    "Longitude": -73.99098507,
+    "Latitude": 40.7575699,
+    "Nombre": "W 42 St & 8 Ave",
+    "Nro. salidas": 19902,
+    "Nro. llegadas": 21176,
+    "Porcentaje de salidas": "48.45%",
+    "Porcentaje de llegadas": "51.55%"
+  },
+  "531": {
+    "Longitude": -73.99266288,
+    "Latitude": 40.71893904,
+    "Nombre": "Forsyth St & Broome St",
+    "Nro. salidas": 19501,
+    "Nro. llegadas": 19206,
+    "Porcentaje de salidas": "50.38%",
+    "Porcentaje de llegadas": "49.62%"
+  },
+  "532": {
+    "Longitude": -73.960876,
+    "Latitude": 40.710451,
+    "Nombre": "S 5 Pl & S 4 St",
+    "Nro. salidas": 11800,
+    "Nro. llegadas": 13611,
+    "Porcentaje de salidas": "46.44%",
+    "Porcentaje de llegadas": "53.56%"
+  },
+  "533": {
+    "Longitude": -73.98721619,
+    "Latitude": 40.75299641,
+    "Nombre": "Broadway & W 39 St",
+    "Nro. salidas": 15164,
+    "Nro. llegadas": 11247,
+    "Porcentaje de salidas": "57.42%",
+    "Porcentaje de llegadas": "42.58%"
+  },
+  "534": {
+    "Longitude": -74.0127234,
+    "Latitude": 40.70255065,
+    "Nombre": "Water - Whitehall Plaza",
+    "Nro. salidas": 8850,
+    "Nro. llegadas": 9640,
+    "Porcentaje de salidas": "47.86%",
+    "Porcentaje de llegadas": "52.14%"
+  },
+  "536": {
+    "Longitude": -73.97536082,
+    "Latitude": 40.74144387,
+    "Nombre": "1 Ave & E 30 St",
+    "Nro. salidas": 19835,
+    "Nro. llegadas": 20579,
+    "Porcentaje de salidas": "49.08%",
+    "Porcentaje de llegadas": "50.92%"
+  },
+  "537": {
+    "Longitude": -73.98409214,
+    "Latitude": 40.74025878,
+    "Nombre": "Lexington Ave & E 24 St",
+    "Nro. salidas": 28108,
+    "Nro. llegadas": 29213,
+    "Porcentaje de salidas": "49.04%",
+    "Porcentaje de llegadas": "50.96%"
+  },
+  "538": {
+    "Longitude": -73.97787642,
+    "Latitude": 40.75795248,
+    "Nombre": "W 49 St & 5 Ave",
+    "Nro. salidas": 13529,
+    "Nro. llegadas": 13926,
+    "Porcentaje de salidas": "49.28%",
+    "Porcentaje de llegadas": "50.72%"
+  },
+  "539": {
+    "Longitude": -73.96024116,
+    "Latitude": 40.71534825,
+    "Nombre": "Metropolitan Ave & Bedford Ave",
+    "Nro. salidas": 12355,
+    "Nro. llegadas": 13473,
+    "Porcentaje de salidas": "47.84%",
+    "Porcentaje de llegadas": "52.16%"
+  },
+  "540": {
+    "Longitude": -73.98320928,
+    "Latitude": 40.74147286,
+    "Nombre": "Lexington Ave & E 26 St",
+    "Nro. salidas": 27601,
+    "Nro. llegadas": 28451,
+    "Porcentaje de salidas": "49.24%",
+    "Porcentaje de llegadas": "50.76%"
+  },
+  "545": {
+    "Longitude": -73.97809472,
+    "Latitude": 40.736502,
+    "Nombre": "E 23 St & 1 Ave",
+    "Nro. salidas": 22499,
+    "Nro. llegadas": 22098,
+    "Porcentaje de salidas": "50.45%",
+    "Porcentaje de llegadas": "49.55%"
+  },
+  "546": {
+    "Longitude": -73.98303529,
+    "Latitude": 40.74444921,
+    "Nombre": "E 30 St & Park Ave S",
+    "Nro. salidas": 21696,
+    "Nro. llegadas": 22267,
+    "Porcentaje de salidas": "49.35%",
+    "Porcentaje de llegadas": "50.65%"
+  },
+  "2000": {
+    "Longitude": -73.98940236,
+    "Latitude": 40.70255088,
+    "Nombre": "Front St & Washington St",
+    "Nro. salidas": 11385,
+    "Nro. llegadas": 12332,
+    "Porcentaje de salidas": "48.0%",
+    "Porcentaje de llegadas": "52.0%"
+  },
+  "2001": {
+    "Longitude": -73.97332996,
+    "Latitude": 40.69892054,
+    "Nombre": "7 Ave & Farragut St",
+    "Nro. salidas": 1147,
+    "Nro. llegadas": 1270,
+    "Porcentaje de salidas": "47.46%",
+    "Porcentaje de llegadas": "52.54%"
+  },
+  "2002": {
+    "Longitude": -73.963198,
+    "Latitude": 40.716887,
+    "Nombre": "Wythe Ave & Metropolitan Ave",
+    "Nro. salidas": 9814,
+    "Nro. llegadas": 10641,
+    "Porcentaje de salidas": "47.98%",
+    "Porcentaje de llegadas": "52.02%"
+  },
+  "2003": {
+    "Longitude": -73.98024289,
+    "Latitude": 40.73416059,
+    "Nombre": "1 Ave & E 18 St",
+    "Nro. salidas": 19149,
+    "Nro. llegadas": 19192,
+    "Porcentaje de salidas": "49.94%",
+    "Porcentaje de llegadas": "50.06%"
+  },
+  "2004": {
+    "Longitude": -74.004704,
+    "Latitude": 40.724399,
+    "Nombre": "6 Ave & Broome St",
+    "Nro. salidas": 11510,
+    "Nro. llegadas": 11999,
+    "Porcentaje de salidas": "48.96%",
+    "Porcentaje de llegadas": "51.04%"
+  },
+  "2005": {
+    "Longitude": -73.97100056,
+    "Latitude": 40.70531194,
+    "Nombre": "Railroad Ave & Kay Ave",
+    "Nro. salidas": 562,
+    "Nro. llegadas": 654,
+    "Porcentaje de salidas": "46.22%",
+    "Porcentaje de llegadas": "53.78%"
+  },
+  "2006": {
+    "Longitude": -73.97634151,
+    "Latitude": 40.76590936,
+    "Nombre": "Central Park S & 6 Ave",
+    "Nro. salidas": 24587,
+    "Nro. llegadas": 25486,
+    "Porcentaje de salidas": "49.1%",
+    "Porcentaje de llegadas": "50.9%"
+  },
+  "2008": {
+    "Longitude": -74.01677685,
+    "Latitude": 40.70569254,
+    "Nombre": "Little West St & 1 Pl",
+    "Nro. salidas": 10359,
+    "Nro. llegadas": 10222,
+    "Porcentaje de salidas": "50.33%",
+    "Porcentaje de llegadas": "49.67%"
+  },
+  "2009": {
+    "Longitude": -73.99682619,
+    "Latitude": 40.71117444,
+    "Nombre": "Catherine St & Monroe St",
+    "Nro. salidas": 7087,
+    "Nro. llegadas": 7337,
+    "Porcentaje de salidas": "49.13%",
+    "Porcentaje de llegadas": "50.87%"
+  },
+  "2010": {
+    "Longitude": -74.00234737,
+    "Latitude": 40.72165481,
+    "Nombre": "Grand St & Greene St",
+    "Nro. salidas": 14197,
+    "Nro. llegadas": 15276,
+    "Porcentaje de salidas": "48.17%",
+    "Porcentaje de llegadas": "51.83%"
+  },
+  "2012": {
+    "Longitude": -73.976806,
+    "Latitude": 40.739445,
+    "Nombre": "E 27 St & 1 Ave",
+    "Nro. salidas": 10195,
+    "Nro. llegadas": 10150,
+    "Porcentaje de salidas": "50.11%",
+    "Porcentaje de llegadas": "49.89%"
+  },
+  "2017": {
+    "Longitude": -73.97121414,
+    "Latitude": 40.75022392,
+    "Nombre": "E 43 St & 2 Ave",
+    "Nro. salidas": 9255,
+    "Nro. llegadas": 8652,
+    "Porcentaje de salidas": "51.68%",
+    "Porcentaje de llegadas": "48.32%"
+  },
+  "2021": {
+    "Longitude": -73.98859651,
+    "Latitude": 40.75929124,
+    "Nombre": "W 45 St & 8 Ave",
+    "Nro. salidas": 23554,
+    "Nro. llegadas": 21178,
+    "Porcentaje de salidas": "52.66%",
+    "Porcentaje de llegadas": "47.34%"
+  },
+  "2022": {
+    "Longitude": -73.95920622,
+    "Latitude": 40.75849116,
+    "Nombre": "E 59 St & Sutton Pl",
+    "Nro. salidas": 10290,
+    "Nro. llegadas": 10871,
+    "Porcentaje de salidas": "48.63%",
+    "Porcentaje de llegadas": "51.37%"
+  },
+  "2023": {
+    "Longitude": -73.97031366,
+    "Latitude": 40.75968085,
+    "Nombre": "E 55 St & Lexington Ave",
+    "Nro. salidas": 7831,
+    "Nro. llegadas": 7672,
+    "Porcentaje de salidas": "50.51%",
+    "Porcentaje de llegadas": "49.49%"
+  },
+  "3002": {
+    "Longitude": -74.015756,
+    "Latitude": 40.711512,
+    "Nombre": "South End Ave & Liberty St",
+    "Nro. salidas": 20960,
+    "Nro. llegadas": 22976,
+    "Porcentaje de salidas": "47.71%",
+    "Porcentaje de llegadas": "52.29%"
+  }
+}

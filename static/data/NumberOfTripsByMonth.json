@@ -1,0 +1,34 @@
+[
+    {
+        "time": "January",
+        "number_of_trips": 300400
+    },
+    {
+        "time": "February",
+        "number_of_trips": 224736
+    },
+    {
+        "time": "March",
+        "number_of_trips": 843416
+    },
+    {
+        "time": "April",
+        "number_of_trips": 1001958
+    },
+    {
+        "time": "May",
+        "number_of_trips": 1034359
+    },
+    {
+        "time": "June",
+        "number_of_trips": 1037712
+    },
+    {
+        "time": "July",
+        "number_of_trips": 675774
+    },
+    {
+        "time": "August",
+        "number_of_trips": 443966
+    }
+]
