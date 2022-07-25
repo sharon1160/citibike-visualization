@@ -104,9 +104,29 @@ def get_stations_todo(df):
 # Obtener las estaciones por hora de todo el periodo
 def get_stations_hour(df, hour):
   df_hour = trip_counts_by_hour(df, hour)
+  salidas = list(df_hour['Nro. salidas'])
+  llegadas = list(df_hour['Nro. llegadas'])
+  porcentajes_salida = []
+  porcentajes_llegada = []
+  for i in range(len(df_hour['Latitude'])):
+    suma = salidas[i] + llegadas[i]
+    porcentajes_salida.append(str(round((salidas[i] * 100)/suma, 2)) + "%")
+    porcentajes_llegada.append(str(round((llegadas[i] * 100)/suma,2)) + "%")
+  df_hour["Porcentaje de salidas"] = porcentajes_salida
+  df_hour["Porcentaje de llegadas"] = porcentajes_llegada
   df_hour_json = df_hour.to_json('static/data/stations-todo-hour.json',orient = 'index')
 
 # Obtener las estaciones por mes de todo el periodo
 def get_stations_month(df, month):
   df_month = trip_counts_by_month(df, month)
+  salidas = list(df_month['Nro. salidas'])
+  llegadas = list(df_month['Nro. llegadas'])
+  porcentajes_salida = []
+  porcentajes_llegada = []
+  for i in range(len(df_month['Latitude'])):
+    suma = salidas[i] + llegadas[i]
+    porcentajes_salida.append(str(round((salidas[i] * 100)/suma, 2)) + "%")
+    porcentajes_llegada.append(str(round((llegadas[i] * 100)/suma,2)) + "%")
+  df_month["Porcentaje de salidas"] = porcentajes_salida
+  df_month["Porcentaje de llegadas"] = porcentajes_llegada
   df_month_json = df_month.to_json('static/data/stations-todo-month.json',orient = 'index')
