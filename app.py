@@ -66,11 +66,7 @@ def sankey():
         ids = request.form['estaciones-input']
         ids = ids.split(",")
         ids = [int(i) for i in ids]
-        nodos = sk.get_nodos(ids)
-        links = sk.get_links(ids, df)
-        data = {"nodes": nodos, "links": links}
-        with open('static/data/viajes.json', 'w') as fp:
-            json.dump(data, fp)
+        sk.get_graph(df,ids)
         return render_template('map.html')
     else:
         with open('static/data/viajes.json') as fp:
