@@ -23,6 +23,6 @@ $ pip install Flask
 ```
 ## Run 
 
-```
+```sh
 $ python app.py
 ```
