@@ -2,8 +2,8 @@
 
 ## Integrantes 
 
-- Victor Janampa Canahuire
-- Sharon Chullunquia Rosas
+- Victor Janampa Canahuire.
+- Sharon Chullunquia Rosas.
 
 ## Install
 
